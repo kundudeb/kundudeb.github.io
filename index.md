@@ -2,9 +2,7 @@
 
 I am a PhD student at the [Department of Mathematics](https://www.math.toronto.edu/) at the University of Toronto. I work on Iwasawa theory.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
