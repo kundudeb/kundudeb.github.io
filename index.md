@@ -14,7 +14,13 @@ commutative Iwasawa theory questions, and provided evidence for Coates-Sujatha p
 I am also interested in Langlands' Functoriality Conjecture and related problems in the Langlands program 
 like the Langlands' Beyond Endoscopy idea.
 
+## Publications and Preprints
+
+1. Perfect Powers that are Sums of Squares of an Arithmetic Progression (with Vandita Patel)
+[arXiv:1809.09167](https://arxiv.org/pdf/1809.09167.pdf)
+
 
 [Research Proposal](Research%20statement%202019.pdf)
 
 [CV](cv_webpage.pdf)
+ 
