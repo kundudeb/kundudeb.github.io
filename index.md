@@ -14,10 +14,12 @@ commutative Iwasawa theory questions, and provided evidence for Coates-Sujatha p
 I am also interested in Langlands' Functoriality Conjecture and related problems in the Langlands program 
 like the Langlands' Beyond Endoscopy idea.
 
+To know more about my research you can look at my [research proposal](Research%20statement%202019.pdf).
+
 ## Publications and Preprints
 
 1. Perfect Powers that are Sums of Squares of an Arithmetic Progression (with Vandita Patel).<br/>
-[arXiv:1809.09167](https://arxiv.org/pdf/1809.09167.pdf)
+[arXiv:1809.09167](https://arxiv.org/pdf/1809.09167.pdf) _Submitted._
 
 2. Growth of Fine Selmer Groups in Infinite Towers. _Pre-print available._
 
@@ -33,7 +35,6 @@ Wong).<br/> _In preparation._
 
 
 
-[Research Proposal](Research%20statement%202019.pdf)
 
 [CV](cv_webpage.pdf)
  
