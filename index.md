@@ -16,8 +16,21 @@ like the Langlands' Beyond Endoscopy idea.
 
 ## Publications and Preprints
 
-1. Perfect Powers that are Sums of Squares of an Arithmetic Progression (with Vandita Patel)
+1. Perfect Powers that are Sums of Squares of an Arithmetic Progression (with Vandita Patel).<br/>
 [arXiv:1809.09167](https://arxiv.org/pdf/1809.09167.pdf)
+
+2. Growth of Fine Selmer Groups in Infinite Towers. _Pre-print available._
+
+3. Growth of _p_-Fine Selmer Groups and p-Fine Shafarevich-Tate Group in Z/pZ Extensions. _Pre-print available._
+
+4. On an Analogue of Kida's Formula for Fine Selmer Groups. _Pre-print available._
+
+5. Providing Evidence for Coates-Sujatha Pseudo-Nullity Conjecture (with R. Sujatha).<br/>
+_In preparation._
+
+6. Beyond Endoscopy via Trace Formula (with Melissa Emory, Malors Espinosa-Lara, Tian An
+Wong).<br/> _In preparation._
+
 
 
 [Research Proposal](Research%20statement%202019.pdf)
