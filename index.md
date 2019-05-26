@@ -2,6 +2,9 @@
 
 I am a PhD student at the [Department of Mathematics](https://www.math.toronto.edu/), University of Toronto working with [Prof. Kumar Murty](http://murty.math.toronto.edu/). My co-advisor is [Prof R. Sujatha](https://www.math.ubc.ca/~sujatha/).
 
+I organize the weekly [GANITA seminars](https://seminars.math.toronto.edu/seminars/list/events.py/process). If you are a number theorist in the Toronto region and want to listen to us, or give a talk, let me know!
+
+My curriculum vitae can be found here: [CV](cv_webpage.pdf).
 
 ## Research
 
@@ -32,9 +35,3 @@ _In preparation._
 
 6. Beyond Endoscopy via Trace Formula (with Melissa Emory, Malors Espinosa-Lara, Tian An
 Wong).<br/> _In preparation._
-
-
-
-
-[CV](cv_webpage.pdf)
- 
