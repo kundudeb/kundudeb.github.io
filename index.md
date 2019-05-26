@@ -29,8 +29,7 @@ To know more about my research you can look at my [research proposal](Research%2
 
 4. On an Analogue of Kida's Formula for Fine Selmer Groups. _Pre-print available._
 
-5. Providing Evidence for Coates-Sujatha Pseudo-Nullity Conjecture (with R. Sujatha).<br/>
-_In preparation._
+5. Providing Evidence for Coates-Sujatha Pseudo-Nullity Conjecture (with R. Sujatha). _In preparation._
 
 6. Beyond Endoscopy via Trace Formula (with Melissa Emory, Malors Espinosa-Lara, Tian An
-Wong).<br/> _In preparation._
+Wong). _In preparation._
