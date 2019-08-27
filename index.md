@@ -16,7 +16,7 @@ In the process, I have been able to provide non-trivial evidence for Coates-Suja
 I am also interested in Langlands' Functoriality Conjecture and related problems in the Langlands program 
 like the Langlands' Beyond Endoscopy idea.
 
-To know more about my research you can look at my [research proposal](Research%20statement%202019.pdf).
+To know more about my research you can look at my [research statement](Research%20Statement%20Application.pdf). If you prefer a shorter read, or are not a number theorist you can look at this [research statement](non%20technical%20research%20proposal.pdf).
 
 ## Publications and Preprints
 
