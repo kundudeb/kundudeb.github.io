@@ -52,4 +52,4 @@ I am a mentor for the [University of Toronto High School Mentorship Program](htt
 Winter 2018: Anna Krokhine (graph theory and combinatorics)<br/>
 Winter 2019: Maya Bozzo-Ray (Benford's Law)
 
-I gave an invited talk at the [Summer Math Academy](http://mathplus.math.utoronto.ca/home/ma) for High School students on [Möbius Functions](Mobius%20Functions.pdf).
+I gave an invited talk  on [Möbius Functions](Mobius%20Functions.pdf) at the [Summer Math Academy](http://mathplus.math.utoronto.ca/home/ma) for High School students.
