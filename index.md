@@ -45,3 +45,11 @@ At the University of Toronto, I have taught first year Calculus and first year L
 Over the years, I have also been a Teaching Assistant for several courses. 
 
 To know about my teaching philosophy you can read my [teaching statement](teaching%20statement.pdf).  
+
+## Outreach
+
+I am a mentor for the [University of Toronto High School Mentorship Program](http://mathplus.math.utoronto.ca/home/mentorship).<br/>
+Winter 2018: Anna Krokhine (graph theory and combinatorics)<br/>
+Winter 2019: Maya Bozzo-Ray (Benford's Law)
+
+I gave an invited talk at the [Summer Math Academy](http://mathplus.math.utoronto.ca/home/ma) for High School students on [M$$\"o$$bius Functions](Mobius%20Functions.pdf).
