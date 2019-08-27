@@ -34,7 +34,7 @@ _Pre-print available upon request._ _Submitted._
 
 5. On a Relation Between Conjecture A and the Classical Iwasawa Conjecture. _Pre-print available upon request._
 
-6. Providing Evidence for Coates-Sujatha Pseudo-Nullity Conjecture (with R. Sujatha). _In preparation._
+6. Structure of Fine Selmer Groups in $$p$$-adic Lie Extensions (with R. Sujatha). _In preparation._
 
 7. Beyond Endoscopy via Trace Formula (with Melissa Emory, Malors Espinosa-Lara, Tian An
 Wong). _In preparation._
