@@ -53,3 +53,7 @@ Winter 2018: Anna Krokhine (graph theory and combinatorics)<br/>
 Winter 2019: Maya Bozzo-Ray (Benford's Law)
 
 I gave an invited talk  on [Möbius Functions](Mobius%20Functions.pdf) at the [Summer Math Academy](http://mathplus.math.utoronto.ca/home/ma) for High School students.
+
+## Organization
+
+I will be co-organizing a [mini-course on Iwasawa Theory](https://winter19.cms.math.ca/index.php/mini-courses/) at the 2019 CMS Winter Meeting.
