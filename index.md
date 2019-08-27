@@ -38,3 +38,9 @@ _Pre-print available upon request._ _Submitted._
 
 7. Beyond Endoscopy via Trace Formula (with Melissa Emory, Malors Espinosa-Lara, Tian An
 Wong). _In preparation._
+
+## Teaching
+
+At the University of Toronto, I have taught first year Calculus and first year Linear Algebra. 
+I have also been a Teaching Assistant for several courses over the years. 
+To know about my teaching philosophy you can read my [teaching statement](teaching%20statement.pdf).  
