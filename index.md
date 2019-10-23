@@ -32,10 +32,10 @@ _Pre-print available upon request._ _Submitted._
 4. On an Analogue of Kida's Formula for Fine Selmer Groups. <br/>
 _Pre-print available upon request._ _Submitted._
 
-5. On a Relation Between Conjecture A and the Classical Iwasawa Conjecture. 
+5. On a Relation Between Conjecture A and the Classical Iwasawa Conjecture. <br/>
 _Pre-print available upon request._ _Submitted._
 
-6. Structure of Fine Selmer Groups in $$p$$-adic Lie Extensions (with R. Sujatha). 
+6. Structure of Fine Selmer Groups in $$p$$-adic Lie Extensions (with R. Sujatha). <br/> 
 _Pre-print available upon request._ _Submitted._
 
 7. Beyond Endoscopy via Trace Formula (with Melissa Emory, Malors Espinosa-Lara, Tian An
