@@ -4,7 +4,7 @@ I am a PhD student at the [Department of Mathematics](https://www.math.toronto.e
 
 I organize the weekly [GANITA seminars](https://seminars.math.toronto.edu/seminars/list/events.py/process). If you are a number theorist wandering in the Toronto region, come listen to us. Or better yet, give a talk!
 
-My curriculum vitae can be found here: [CV](cv_sep2019.pdf).
+My curriculum vitae can be found here: [CV](cv.pdf).
 
 ## Research
 
