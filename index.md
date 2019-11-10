@@ -57,11 +57,14 @@ Winter 2019: Maya Bozzo-Ray (Benford's Law)
 I gave an invited talk  on [Möbius Functions](Mobius%20Functions.pdf) at the [Summer Math Academy](http://mathplus.math.utoronto.ca/home/ma) for High School students.
 
 I believe in the [axioms laid out by Federico Ardila-Mantilla](http://math.sfsu.edu/federico/Articles/noticesfinal.pdf).<br/>
-Axiom 1. Mathematical talent is distributed equally among different groups, irrespective of geographic,
+1. Mathematical talent is distributed equally among different groups, irrespective of geographic,
 demographic, and economic boundaries. <br/>
-Axiom 2. Everyone can have joyful, meaningful, and empowering mathematical experiences. <br/>
-Axiom 3. Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.<br/>
-Axiom 4. Every student deserves to be treated with dignity and respect.
+
+2. Everyone can have joyful, meaningful, and empowering mathematical experiences. <br/>
+
+3. Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.<br/>
+
+4. Every student deserves to be treated with dignity and respect.
 
 
 
