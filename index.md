@@ -2,7 +2,7 @@
 
 I am a PhD student at the [Department of Mathematics](https://www.math.toronto.edu/), University of Toronto working with [Prof. Kumar Murty](http://murty.math.toronto.edu/). My co-advisor is [Prof R. Sujatha](https://www.math.ubc.ca/~sujatha/).
 
-I organize the weekly [GANITA seminars](https://seminars.math.toronto.edu/seminars/list/events.py/process). If you are a number theorist wandering in the Toronto region, come listen to us. Or better yet, give a talk!
+I organize the weekly [GANITA seminars](https://seminars.math.toronto.edu/seminars/list/events.py/process?start). If you are a number theorist wandering in the Toronto region, come listen to us. Or better yet, give a talk!
 
 My curriculum vitae can be found here: [CV](cv.pdf).
 
