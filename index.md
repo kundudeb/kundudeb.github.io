@@ -71,7 +71,7 @@ demographic, and economic boundaries. <br/>
 
 ## Organization
 
-I will be co-organizing a [mini-course on Iwasawa Theory](https://winter19.cms.math.ca/index.php/mini-courses/) at the 2019 CMS Winter Meeting.
+I co-organized a [mini-course on Iwasawa Theory](https://winter19.cms.math.ca/index.php/mini-courses/) at the 2019 CMS Winter Meeting. Here is a [PDF](CMS%20Winter%20meet.pdf).
 
 ## Travel Calendar
 
