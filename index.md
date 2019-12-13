@@ -38,10 +38,7 @@ _Pre-print available upon request._ _Submitted._
 6. Structure of Fine Selmer Groups in $$p$$-adic Lie Extensions (with R. Sujatha). <br/> 
 _Pre-print available upon request._ _Submitted._
 
-7. Conjecture A for Elliptic Curves with Complex Multiplication. <br/>
-_In Preparation._
-
-8. Beyond Endoscopy via Trace Formula (with Melissa Emory, Malors Espinosa-Lara, Tian An
+7. Beyond Endoscopy via Trace Formula (with Melissa Emory, Malors Espinosa-Lara, Tian An
 Wong). _In preparation._
 
 ## Teaching
