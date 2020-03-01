@@ -1,6 +1,6 @@
 ## About Me
 
-I am a PhD student at the [Department of Mathematics](https://www.math.toronto.edu/), University of Toronto working with [Prof. Kumar Murty](http://murty.math.toronto.edu/). My co-advisor is [Prof R. Sujatha](https://www.math.ubc.ca/~sujatha/).
+I am a PhD student at the [Department of Mathematics](https://www.math.toronto.edu/), University of Toronto working with [Prof. Kumar Murty](http://murty.math.toronto.edu/). My co-advisor is [Prof R. Sujatha](https://www.math.ubc.ca/~sujatha/). For Fall 2020, I will be at CRM Montreal attending the [Thematic Program on Cohomology in Arithmetic](http://www.crm.umontreal.ca/2020/Nombres2020/index_e.php). Starting January 2021, I will be a PIMS Postdoctoral Fellow at UBC, Vancouver.
 
 I organize the weekly [GANITA seminars](https://seminars.math.toronto.edu/seminars/list/events.py/process?start). If you are a number theorist wandering in the Toronto region, come listen to us. Or better yet, give a talk!
 
@@ -24,7 +24,7 @@ To know more about my research you can look at my [research statement](Research%
 [arXiv:1809.09167](https://arxiv.org/pdf/1809.09167.pdf) _Submitted._
 
 2. Growth of Fine Selmer Groups in Infinite Towers. <br/>
-_Pre-print available upon request._ _Submitted._
+_Accepted for Publication (Canadian Mathematics Bulletin)._ 
 
 3. Growth of $$p$$-Fine Selmer Groups and $$p$$-Fine Shafarevich-Tate Group in $$\mathbb{Z}/p\mathbb{Z}$$ Extensions. <br/>
 _Pre-print available upon request._ _Submitted._
