@@ -1,6 +1,6 @@
 ## About Me
 
-I am a PhD student at the [Department of Mathematics](https://www.math.toronto.edu/), University of Toronto working with [Prof. Kumar Murty](http://murty.math.toronto.edu/). My co-advisor is [Prof R. Sujatha](https://www.math.ubc.ca/~sujatha/). For Fall 2020, I will be at CRM Montreal attending the [Thematic Program on Cohomology in Arithmetic](http://www.crm.umontreal.ca/2020/Nombres2020/index_e.php). Starting January 2021, I will be a PIMS Postdoctoral Fellow at UBC, Vancouver.
+I am a PhD student at the [Department of Mathematics](https://www.math.toronto.edu/), University of Toronto working with [Prof. Kumar Murty](http://murty.math.toronto.edu/). My co-advisor is [Prof R. Sujatha](https://www.math.ubc.ca/~sujatha/). In Fall 2020, I will be at CRM Montreal attending the [Thematic Program on Cohomology in Arithmetic](http://www.crm.umontreal.ca/2020/Nombres2020/index_e.php). Starting January 2021, I will be a PIMS Postdoctoral Fellow at UBC, Vancouver.
 
 I organize the weekly [GANITA seminars](https://seminars.math.toronto.edu/seminars/list/events.py/process?start). If you are a number theorist wandering in the Toronto region, come listen to us. Or better yet, give a talk!
 
@@ -53,7 +53,7 @@ To know about my teaching philosophy you can read my [teaching statement](teachi
 I am a mentor for the [University of Toronto High School Mentorship Program](http://mathplus.math.utoronto.ca/home/mentorship).<br/>
 Winter 2018: Anna Krokhine (graph theory and combinatorics)<br/>
 Winter 2019: Maya Bozzo-Ray (Benford's Law)<br/>
-Winter 2020: Jennifer Wang (TBA)
+Winter 2020: Jennifer Wang (Group Theory and Elementary Number Theory)
 
 I gave an invited talk  on [Möbius Functions](Mobius%20Functions.pdf) at the [Summer Math Academy](http://mathplus.math.utoronto.ca/home/ma) for High School students. I also volunteer to run the 
 [monthly STEM Workshop](https://mathplus.math.utoronto.ca/home/girlsinstem). 
