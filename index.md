@@ -24,10 +24,10 @@ To know more about my research you can look at my [research statement](Research%
 [arXiv:1809.09167](https://arxiv.org/pdf/1809.09167.pdf) _Submitted._
 
 2. Growth of Fine Selmer Groups in Infinite Towers. <br/>
-_Accepted for Publication (Canadian Mathematics Bulletin)._ 
+_Accepted for publication (Canadian Mathematics Bulletin)._ 
 
 3. Growth of $$p$$-Fine Selmer Groups and $$p$$-Fine Shafarevich-Tate Group in $$\mathbb{Z}/p\mathbb{Z}$$ Extensions. <br/>
-_Pre-print available upon request._ _Submitted._
+_Accepted for publication (Journal of the Ramanujan Math Society)._
 
 4. On an Analogue of Kida's Formula for Fine Selmer Groups. <br/>
 _Pre-print available upon request._ _Submitted._
