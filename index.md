@@ -23,10 +23,10 @@ To know more about my research you can look at my [research statement](Research%
 1. Perfect Powers that are Sums of Squares of an Arithmetic Progression (with Vandita Patel).<br/>
 [arXiv:1809.09167](https://arxiv.org/pdf/1809.09167.pdf) _Submitted._
 
-2. Growth of Fine Selmer Groups in Infinite Towers. <br/>
+2. [Growth of Fine Selmer Groups in Infinite Towers](Growth%20of%20ranks%20of%20Fine%20Selmer%20Groups%20in%20Infinite%20Towers.pdf). <br/>
 _Accepted for publication (Canadian Mathematics Bulletin)._ 
 
-3. Growth of $$p$$-Fine Selmer Groups and $$p$$-Fine Shafarevich-Tate Group in $$\mathbb{Z}/p\mathbb{Z}$$ Extensions. <br/>
+3. [Growth of $$p$$-Fine Selmer Groups and $$p$$-Fine Shafarevich-Tate Group in $$\mathbb{Z}/p\mathbb{Z}$$ Extensions](growth%20in%20degree%20p%20extensions%20new%20version.pdf). <br/>
 _Accepted for publication (Journal of the Ramanujan Math Society)._
 
 4. On an Analogue of Kida's Formula for Fine Selmer Groups. <br/>
