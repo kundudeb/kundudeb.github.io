@@ -38,7 +38,12 @@ _Pre-print available upon request._ _Submitted._
 6. Structure of Fine Selmer Groups in $$p$$-adic Lie Extensions (with R. Sujatha). <br/> 
 _Pre-print available upon request._ _Submitted._
 
-7. Beyond Endoscopy via Trace Formula (with Melissa Emory, Malors Espinosa-Lara, Tian An
+7. Fine Selmer Groups Over the False Tate Curve Extension (with R. Sujatha). <br/>
+_in progress_
+
+8. Growth of Fine Selmer Groups in Uniform pro-$p$ Extensions. <br/>
+_in progress_
+9. Beyond Endoscopy via Trace Formula (with Melissa Emory, Malors Espinosa-Lara, Tian An
 Wong). _In preparation._
 
 ## Teaching
