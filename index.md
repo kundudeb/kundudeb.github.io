@@ -29,22 +29,19 @@ _Accepted for publication (Canadian Mathematics Bulletin)._
 3. [Growth of $$p$$-Fine Selmer Groups and $$p$$-Fine Shafarevich-Tate Group in $$\mathbb{Z}/p\mathbb{Z}$$ Extensions](growth%20in%20degree%20p%20extensions%20new%20version.pdf). <br/>
 _Accepted for publication (Journal of the Ramanujan Math Society)._
 
-4. On an Analogue of Kida's Formula for Fine Selmer Groups. <br/>
+4. Growth of (Fine) Selmer Groups in Uniform pro-$$p$$ Extensions. <br/>
+_Accepted for publication (Annales mathématiques du Québec)_
+
+5. On an Analogue of Kida's Formula for Fine Selmer Groups. <br/>
 _Pre-print available upon request._ _Submitted._
 
-5. On a Relation Between Conjecture A and the Classical Iwasawa Conjecture. <br/>
+6. On a Relation Between Conjecture A and the Classical Iwasawa Conjecture. <br/>
 _Pre-print available upon request._ _Submitted._
 
-6. Structure of Fine Selmer Groups in $$p$$-adic Lie Extensions (with R. Sujatha). <br/> 
+7. Structure of Fine Selmer Groups in $$p$$-adic Lie Extensions (with R. Sujatha). <br/> 
 _Pre-print available upon request._ _Submitted._
 
-7. Fine Selmer Groups Over the False Tate Curve Extension (with R. Sujatha). <br/>
-_in progress_
-
-8. Growth of (Fine) Selmer Groups in Uniform pro-$$p$$ Extensions. <br/>
-_in progress_
-
-9. Beyond Endoscopy via Trace Formula (with Melissa Emory, Malors Espinosa-Lara, Tian An
+8. Beyond Endoscopy via Trace Formula (with Melissa Emory, Malors Espinosa-Lara, Tian An
 Wong). _In preparation._
 
 ## Teaching
@@ -73,8 +70,6 @@ demographic, and economic boundaries. <br/>
 3. Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.<br/>
 
 4. Every student deserves to be treated with dignity and respect.
-
-
 
 ## Organization
 
