@@ -75,6 +75,10 @@ demographic, and economic boundaries. <br/>
 
 I co-organized a [mini-course on Iwasawa Theory](https://winter19.cms.math.ca/index.php/mini-courses/) at the 2019 CMS Winter Meeting. Here is a [PDF](CMS%20Winter%20meet.pdf).
 
+## Expository Articles and Course Notes
+
+1. [MSRI Summer School (2017): Automorphic Forms and the Langlands' Program](https://github.com/kundudeb/kundudeb.github.io/blob/master/MSRI_Summer_School__Automorphic_forms_and_the_Langlands_program.pdf)
+
 ## Travel Calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FToronto&amp;src=djJlcnVraWNtaTVncjIyNzBzNGx2MThuMnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23A87070&amp;showTitle=0&amp;showPrint=0&amp;showCalendars=0" style="border-width:0" width="500" height="400" frameborder="0" scrolling="no"></iframe>
