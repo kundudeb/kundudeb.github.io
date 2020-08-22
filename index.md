@@ -46,7 +46,7 @@ Wong). _In preparation._
 
 ## Teaching
 
-At the University of Toronto, I have taught first year Calculus and first year Linear Algebra. 
+At the University of Toronto, I have taught Calculus (single and multi-variable) and first year Linear Algebra. 
 Over the years, I have also been a Teaching Assistant for several courses. 
 
 To know about my teaching philosophy you can read my [teaching statement](teaching%20statement.pdf).  
