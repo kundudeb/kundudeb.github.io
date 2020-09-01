@@ -2,7 +2,7 @@
 
 In June 2020, I earned my Ph.D in mathematics at the University of Toronto. My supervisor was [Prof. Kumar Murty](http://murty.math.toronto.edu/) and my co-advisor was [Prof R. Sujatha](https://www.math.ubc.ca/~sujatha/). In Fall 2020, I will be at CRM Montreal attending the [Thematic Program on Cohomology in Arithmetic](http://www.crm.umontreal.ca/2020/Nombres2020/index_e.php). Starting January 2021, I will be a PIMS Postdoctoral Fellow at UBC, Vancouver.
 
-I organize the weekly [GANITA seminars](http://www.fields.utoronto.ca/activities/20-21/ganita-seminar). If you are a number theorist ~~wandering in the Toronto region~~, eager to interact with others online, come listen to us. Or better yet, give a talk!
+I organize the weekly [GANITA seminars](http://www.fields.utoronto.ca/activities/20-21/ganita-seminar). If you are a number theorist ~~wandering in the Toronto region~~, eager to interact with others of your kind online, come listen to us. Or better yet, give a talk!
 
 My curriculum vitae can be found here: [CV](cv.pdf).
 
