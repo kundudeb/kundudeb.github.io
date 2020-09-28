@@ -58,7 +58,7 @@ Winter 2018: Anna Krokhine (graph theory and combinatorics)<br/>
 Winter 2019: Maya Bozzo-Ray (Benford's Law)<br/>
 Winter 2020: Jennifer Wang (Group Theory and Elementary Number Theory)
 
-I gave an invited talk  on [Möbius Functions](Mobius%20Functions.pdf) at the [Summer Math Academy](http://mathplus.math.utoronto.ca/home/ma) for High School students. I also volunteer to run the 
+I gave an invited talk  on [Möbius Functions](Mobius%20Functions.pdf) at the [Summer Math Academy](http://mathplus.math.utoronto.ca/home/ma) for High School students. I would also volunteer to run the 
 [monthly STEM Workshop](https://mathplus.math.utoronto.ca/home/girlsinstem). 
 
 I believe in the [axioms laid out by Federico Ardila-Mantilla](http://math.sfsu.edu/federico/Articles/noticesfinal.pdf).<br/>
