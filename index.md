@@ -53,7 +53,7 @@ To know about my teaching philosophy you can read my [teaching statement](teachi
 
 ## Outreach
 
-I am a mentor for the [University of Toronto High School Mentorship Program](http://mathplus.math.utoronto.ca/home/mentorship).<br/>
+I was a mentor for the [University of Toronto High School Mentorship Program](http://mathplus.math.utoronto.ca/home/mentorship).<br/>
 Winter 2018: Anna Krokhine (graph theory and combinatorics)<br/>
 Winter 2019: Maya Bozzo-Ray (Benford's Law)<br/>
 Winter 2020: Jennifer Wang (Group Theory and Elementary Number Theory)
