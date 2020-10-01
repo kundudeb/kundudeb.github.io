@@ -32,18 +32,6 @@ _Accepted for publication (Journal of the Ramanujan Math Society)._
 4. [Growth of (Fine) Selmer Groups in Uniform pro-$$p$$ Extensions](https://github.com/kundudeb/kundudeb.github.io/blob/master/Uniform%20Pro-p%20Extensions.pdf). <br/>
 _Accepted for publication (Annales mathématiques du Québec)_
 
-5. On an Analogue of Kida's Formula for Fine Selmer Groups. <br/>
-_Pre-print available upon request._ _Submitted._
-
-6. On a Relation Between Conjecture A and the Classical Iwasawa Conjecture. <br/>
-_Pre-print available upon request._ _Submitted._
-
-7. Structure of Fine Selmer Groups in $$p$$-adic Lie Extensions (with R. Sujatha). <br/> 
-_Pre-print available upon request._ _Submitted._
-
-8. Beyond Endoscopy via Trace Formula (with Melissa Emory, Malors Espinosa-Lara, Tian An
-Wong). _In preparation._
-
 ## Teaching
 
 At the University of Toronto, I have taught Calculus (single and multi-variable) and first year Linear Algebra. 
