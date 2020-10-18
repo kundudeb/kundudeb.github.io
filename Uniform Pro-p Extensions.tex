@@ -1,0 +1,1033 @@
+\documentclass{amsart}
+%\usepackage{array}
+\usepackage{amssymb}
+\usepackage{stmaryrd} 
+\usepackage{amsmath} 
+\usepackage{amscd}
+\usepackage{amsbsy}
+\usepackage{commath}
+\usepackage{comment, enumerate}
+\usepackage[matrix,arrow]{xy}
+\usepackage{hyperref}
+\usepackage{mathrsfs}
+\usepackage{color}
+\usepackage{mathtools,caption}
+%\usepackage{tabu}
+\usepackage{tikz-cd}
+\usepackage{longtable}
+\usepackage{natbib} 
+\usepackage[utf8]{inputenc}
+\usepackage[OT2,T1]{fontenc}
+
+\DeclareSymbolFont{cyrletters}{OT2}{wncyr}{m}{n}
+\DeclareMathSymbol{\Sha}{\mathalpha}{cyrletters}{"58}
+
+%%% Math operatorsAt the time of writing \cite{Kun20_uniform}, the first named author did not realize that the strategy developed in \cite[Section 3]{Kun20_uniform} can be extended to all $p$-adic Lie extensions since it would suffice to show that the $p$-rank of $\ker(r_{\Linf/F})$ has bounded $p$-rank.
+\DeclareMathOperator{\Hom}{Hom}
+\DeclareMathOperator{\rad}{Rad}
+\DeclareMathOperator{\Gal}{Gal}
+\DeclareMathOperator{\End}{End}
+\DeclareMathOperator{\Orb}{Orb}
+\DeclareMathOperator{\cyc}{cyc}
+\DeclareMathOperator{\Stab}{Stab}
+\DeclareMathOperator{\Cl}{Cl}
+\DeclareMathOperator{\ac}{nc}
+\DeclareMathOperator{\bad}{bad}
+\DeclareMathOperator{\tors}{tors}
+\DeclareMathOperator{\GL}{GL}
+\DeclareMathOperator{\SL}{SL}
+\DeclareMathOperator{\rank}{rank}
+\DeclareMathOperator{\Ann}{Ann}
+\DeclareMathOperator{\corank}{corank}
+\DeclareMathOperator{\divisible}{div}
+\DeclareMathOperator{\cont}{cont}
+\DeclareMathOperator{\Am}{Am}
+\DeclareMathOperator{\coker}{coker}
+\DeclareMathOperator{\Sel}{Sel}
+
+
+%%% newcommands
+\newcommand{\QQ}{\mathbb Q}
+\newcommand{\F}{\mathcal F}
+\newcommand{\K}{\mathcal K}
+\newcommand{\FF}{\mathbb M}
+\newcommand{\KK}{\mathbb K}
+\newcommand{\ZZ}{\mathbb Z}
+\newcommand{\NN}{\mathbb N}
+\newcommand{\OK}{\mathcal O_K}
+\newcommand{\fa}{\mathfrak a}
+\newcommand{\fb}{\mathfrak b}
+\newcommand{\fc}{\mathfrak c}
+\newcommand{\fp}{\mathfrak p}
+\newcommand{\fq}{\mathfrak q}
+\newcommand{\fl}{\mathfrak{l}}
+\newcommand{\Lga}{\Lambda(\Gamma)}
+\newcommand{\Linf}{\mathcal{L}}
+\newcommand{\X}{\mathfrak X}
+\newcommand{\Y}{\mathfrak Y}
+
+\newcommand{\Conv}{\mathop{\scalebox{1.5}{\raisebox{-0.2ex}{$\ast$}}}}%
+
+\def\quotient#1#2{%
+    \raise1ex\hbox{$#1$}\Big/\lower1ex\hbox{$#2$}%
+}
+
+
+\newenvironment{changemargin}[2]{%
+\begin{list}{}{%
+\setlength{\topsep}{0pt}%
+\setlength{\leftmargin}{#1}%
+\setlength{\rightmargin}{#2}%
+\setlength{\listparindent}{\parindent}%
+\setlength{\itemindent}{\parindent}%
+\setlength{\parsep}{\parskip}%
+}%
+\item[]}{\end{list}}
+
+%%%% may not be needed
+\newcommand{\fz}{\mathfrak z}
+\newcommand{\ga}{\mathfrak a}
+\newcommand{\OL}{\mathcal O_L}
+\newcommand{\linf}{\mathcal L}
+
+\newtheorem*{Theorem*}{Theorem}
+\newtheorem{Th}{Theorem}[section]
+\newtheorem{Lemma}[Th]{Lemma}
+\newtheorem*{Ques*}{Question}
+\newtheorem{Prop}[Th]{Proposition}
+%\newtheorem{rem}[Th]{Remark}
+\newtheorem{Cor}[Th]{Corollary}
+\newtheorem{Defi}[Th]{Definition}
+\newtheorem{Conj}[Th]{Conjecture}
+\newtheorem*{conj*}{Conjecture}
+
+\theoremstyle{definition}
+\theoremstyle{remark}
+\newtheorem{rem}[Th]{Remark}
+
+\newtheorem{ack}{Acknowledgement}
+
+
+
+\begin{document}
+
+
+\title[]{Growth of Selmer Groups and Fine Selmer Groups in Uniform Pro-$p$ Extensions}
+
+\author{Debanjana Kundu}
+\address{Department of Mathematics, University of Toronto\\
+Bahen Centre, 40 St. George St., Room 6290, Toronto, Ontario, Canada, M5S 2E4}
+\email{dkundu@math.utoronto.ca}
+
+\date{\today}
+
+\keywords{Selmer groups, Fine Selmer groups, Class groups, p-rank}
+\subjclass[2010]{Primary 11R23}
+
+\begin{abstract}
+In this article, we study the growth of (fine) Selmer groups of elliptic curves in certain infinite Galois extensions where the Galois group $G$, is a uniform, pro-$p$, $p$-adic Lie group.
+By comparing the growth of (fine) Selmer groups with that of class groups, we show that it is possible for the $\mu$-invariant of the (fine) Selmer group to become arbitrarily large in a certain class of nilpotent, uniform, pro-$p$ Lie extension.
+We also study the growth of fine Selmer groups in false Tate curve extensions.
+
+Dans cet article, nous {\'e}tudions la croissance de groupes de Selmer (fins) de courbes elliptiques dans certaines extensions infinies de Galois o{\'u} le groupe de Galois $G$ est un groupe de Lie uniforme, pro-$p$, $p$-adique.
+En comparant la croissance des groupes (fins) de Selmer avec celle des groupes de classes, nous montrons qu'il est possible que l'invariant $\mu$ du groupe (fin) de Selmer devienne arbitrairement grand dans une certaine classe de nilpotents, uniformes, pro-$p$ Lie extension.
+Nous {\'e}tudions {\'e}galement la croissance de groupes de Selmer fins dans de fausses extensions de courbe de Tate.
+\end{abstract}
+
+\maketitle
+
+%------------------------------------------
+\section{Introduction} \label{intro}
+%------------------------------------------
+Iwasawa theory began as the study of ideal class groups over infinite towers of number fields.
+Kenkichi Iwasawa introduced the notion of a $\mu$-invariant to study the growth of ($p$-ranks) of ideal class groups in $\ZZ_p$-extensions.
+In \cite{Iwa73_CounterAC}, he constructed $\ZZ_p$-extensions over number fields with arbitrarily large $\mu$-invariants.
+This notion of a $\mu$-invariant was later generalized to all uniform pro-$p$ groups \cite{How02}, \cite{Ven02}.
+In \cite{HM19}, Hajir and Maire investigated uniform pro-$p$ groups which are realisable as Galois groups of extensions of number fields with arbitrarily large $\mu$-invariant.
+
+In the study of rational points on Abelian varieties, the Selmer group plays an important role.
+In \cite{Maz72}, exploiting the intimate connection between class groups and Selmer groups, Mazur developed an analogous theory to study the growth of Selmer groups of Abelian varieties in $\ZZ_p$-extensions.
+He showed that the Selmer groups of Abelian varieties and ideal class groups have \textit{similar} growth patterns in $\ZZ_p$-extensions.
+When the Abelian variety has good ordinary reduction at $p$, it is possible to associate a $\mu$-invariant to the Selmer group. 
+In \cite{CS05}, Coates and Sujatha showed that the \textit{fine} Selmer group has even stronger finiteness properties than the classical Selmer group.
+They showed that the growth of fine Selmer groups mimics the growth of ideal class group in a general $p$-adic analytic extension containing the \textit{cyclotomic} $\ZZ_p$-extension.
+In \cite{LM15}, this was further investigated by Lim and Murty wherein they extended this analogy to some non $p$-adic analytic extensions as well.
+In \cite{Kun20}, the author showed that there exist non-cyclotomic $\ZZ_p$-extensions over number fields where the $\mu$-invariant associated to the fine Selmer group can be made arbitrarily large.
+In this article, the goal is to extend these methods and investigate the growth of Selmer groups and fine Selmer groups of Abelian varieties (and their associated $\mu$-invariants) in extensions of the kind studied by Hajir-Maire.
+
+In Section~\ref{Analogue of HM19}, we develop a general strategy to show that the $\mu$-invariant of (fine) Selmer groups can be arbitrarily large in extensions where it is known that the $\mu$-invariant associated to the class group is arbitrarily large.
+We give explicit examples of nilpotent, uniform, pro-$p$, $p$-adic Lie extensions of number fields with arbitrarily large $\mu$-invariant of (fine) Selmer groups.
+In Section \ref{Analogue of Lei17}, we study the growth of fine Selmer groups in metabelian extensions (in particular, false Tate curve extensions).
+All the results we prove in this paper are for elliptic curves, but can be easily generalized to Abelian varieties.
+
+%------------------------------------------
+\section{Preliminaries} \label{Preliminaries}
+%------------------------------------------
+
+Throughout this article, $p$ is an odd prime.
+
+\subsection{Selmer Groups and Fine Selmer Groups \cite{CS00}, \cite{CS05}, \cite{Wut04_thesis}}
+Let $E$ be an elliptic curve defined over a fixed number field $F$. 
+Let $S$ be a finite set of primes in $F$ containing the Archimedean primes, the primes above $p$, and the primes of bad reduction of $E$; for short write $S\supseteq S_\infty\cup S_p \cup S_{\bad}$. 
+For any (finite or infinite) extension $L/F$, denote by $L_S$ the maximal extension of $L$ unramified outside $S$; for the Galois group $\Gal(L_S/L)$, set the notation $G_S(L)$. 
+For a $G_S(L)$-module $M$, its $i$-th Galois cohomology group is denoted by $H^i\left(G_S\left(L\right), \ M\right)$. 
+If $w$ is a place of $L$, write $L_w$ for its completion at $w$; when $L/F$ is infinite, it is the union of completions of all finite sub-extensions of $L$. 
+For local fields, the cohomology group $H^i\left(L_w, \ M\right)$ is with respect to the absolute Galois group of $L_w$. 
+For an Abelian group $A$, we use the notation $A[p]$ to denote its $p$-torsion points and $A(p)$ to denote its $p$-primary part. 
+
+The $p$-\textbf{primary Selmer group} fits into an exact sequence
+\[
+0\rightarrow E(F)\otimes \QQ_p/\ZZ_p \rightarrow \Sel(E/F) \rightarrow \Sha(E/F)(p) \rightarrow 0
+\]
+where $E(F)$ is the group of $F$-rational points called the \textbf{Mordell-Weil group} and $\Sha(E/F)$ is the \textbf{Shafarevich-Tate group}. 
+
+The \textit{fine Selmer group} is a subgroup of the classical Selmer group obtained by imposing stronger conditions at primes above $p$.
+The $p$-\textbf{primary fine Selmer Group} is defined by the following kernel
+\[
+0\rightarrow R\left(E/F\right) \rightarrow \Sel\left(E/F\right) \rightarrow \bigoplus_{v\mid p}H^1\left(F_v, \ E[p^\infty]\right),
+\]
+where $E[p^\infty]$ is the set of all the $p$-power division points of the elliptic curve.
+
+For an infinite Galois extension $\Linf/F$, the $p$-primary Selmer group, $\Sel\left( E/\Linf\right)$, and the $p$-primary fine Selmer group, $R\left( E/\Linf\right)$, are defined as follows
+\begin{align*}
+0 \rightarrow \Sel\left( E/\Linf\right) \rightarrow H^1\left( G_S(\Linf), \ E[p^\infty]\right) \rightarrow \bigoplus_{v\in S} \left( \varinjlim_L \bigoplus_{w\mid v} H^1 \left( L_w, \ E \right)(p)\right),\\
+0 \rightarrow R\left( E/\Linf\right) \rightarrow H^1\left( G_S(\Linf), \ E[p^\infty]\right) \rightarrow \bigoplus_{v\in S} \left( \varinjlim_L \bigoplus_{w\mid v} H^1 \left( L_w, \ E[p^\infty]\right)\right).
+\end{align*}
+The inductive limit is taken with respect to the restriction maps and $L$ runs over all finite extensions of $F$ contained in $\Linf$.
+Also, note that
+\begin{align*}
+\Sel \left( E/\Linf\right) &= \varinjlim_L \Sel \left(E/L \right), \\
+R\left( E/\Linf\right) &= \varinjlim_L R\left(E/L \right).
+\end{align*}
+
+\subsubsection{\sc Control Theorem}
+Let $F$ be a number field and $\Linf/F$ be a $p$-adic analytic extension with Galois group $\Gal(\Linf/F)\simeq G$.
+Let $E$ be an elliptic curve defined over $F$.
+The study of the natural restriction map
+\[
+s_{\Linf/F}: \Sel\left(E/F\right) \rightarrow \Sel\left(E/\Linf\right)^{G}
+\]
+is called the \textbf{control problem}.
+Mazur proved the following result.
+\begin{Th}[Control Theorem \cite{Maz72}]
+Let $\Linf/F$ be a $\ZZ_p$-extension and let $E$ be an elliptic curve defined over $F$ with good ordinary reduction at primes above $p$.
+Then both $\ker(s_{\Linf/L})$ and $\coker(s_{\Linf/L})$ are finite and bounded as $L/F$ varies over all finite extensions inside $\Linf$.
+\end{Th}
+
+In \cite{Gre03}, Greenberg formulated a general plan to attack this problem.
+He proved generalizations of Mazur's Control Theorem stated below.
+
+Set $E(\Linf)[p^\infty]$ to denote all the $p$-power torsion points in $\Linf$, $\mathfrak{g}$ be the Lie algebra of $\Gal(\Linf/F)\simeq G$, and $\mathfrak{d_{p}}$ (resp. $\mathfrak{i_{p}}$) be the Lie algebra of the decomposition group (resp. inertia subgroup) at $\fp$.
+For any Lie algebra $\mathfrak{l}$, denote by $\mathfrak{l}^\prime$, the derived Lie subalgebra.
+
+\begin{Th}[Greenberg \cite{Gre03}]
+\label{control theorem}
+Assume $E$ has potentially ordinary reduction at all primes of $F$ lying over $p$.
+Assume that $\Linf/F$ is a $p$-adic Lie extension satisfying the property that $\mathfrak{d^\prime_{p}} = \mathfrak{i^\prime_{p}}$ for all primes $\fp$ above $p$.
+Further suppose that $\mathfrak{g}$ is reductive or $E(\Linf)[p^\infty]$ is finite.
+Then both $\ker(s_{\Linf/L})$ and $\coker(s_{\Linf/L})$ are finite as $L$ varies over all finite extensions of $F$ inside $\Linf$.
+\end{Th}
+
+Some examples of $p$-adic Lie extensions $\Linf/F$, where the property $\mathfrak{d^\prime_{p}} = \mathfrak{i^\prime_{p}}$ holds for all primes $\fp\mid p$, include:
+\begin{enumerate}
+\item when $G$ is Abelian.
+\item when the inertia subgroup has finite index in $G$ for all $\fp\mid p$.
+\item when $G$ admits a faithful, finite-dimensional $p$-adic representation of Hodge-Tate type at $\fp\mid p$.
+\end{enumerate}
+
+
+With the same setting as above, for the fine Selmer group, there is an analogous control problem.
+It involves studying the natural restriction map
+\[
+r_{\Linf/F}: R\left(E/F\right) \rightarrow R\left(E/\Linf\right)^{G}.
+\]
+The following result is known.
+\begin{Th}[Control theorem for fine Selmer groups {\cite[Chapter VII, Section 4]{Rub00}}]
+\label{control theorem for fsg}
+Let $F$ be a number field and $E$ be an elliptic curve defined over $F$.
+Let $\Linf/F$ be a $\ZZ_p^d$-extension where $d\geq 1$, and suppose all primes in $S$ are finitely decomposed.
+Then both $\ker(r_{\Linf/L})$ and $\coker(r_{\Linf/L})$ are finite as $L$ varies over all finite extensions of $F$ inside $\Linf$.
+\end{Th}
+
+\begin{rem}
+\begin{enumerate}
+\item The Control Theorem for fine Selmer groups is independent of the reduction type at $p$.
+\item When $d=1$, the Control Theorem is proved for \textit{all} $\ZZ_p$-extensions \cite{Wut04_thesis}.
+Moreover, the order of $\ker(r_{\Linf/L})$ and $\coker(r_{\Linf/L})$ are bounded independent of $L$.
+\end{enumerate}
+\end{rem}
+
+\subsection{Iwasawa Theory of Uniform pro-$p$ Groups \cite{DdSMS03}, \cite{How02}, \cite{Ven02}}
+Let $G$ be a finitely generated pro-$p$ group.
+For two elements $x, \ y\in G$, define the commutator $[x, \ y] := x^{-1}y^{-1}xy$.
+For closed subgroups $H_1, \ H_2$ of $G$, let $[H_1, \ H_2]$ be the closed subgroup generated by all commutators $[x_1, \ x_2]$ with $x_i \in H_i$.
+%Denote by $(G_n)$ the $p$-central descending series of $G$:
+%\[
+%G_1 := G, \ \cdots, \ G_{n+1} := G_n^p [G, \ G_n].
+%\]
+
+\begin{Defi}
+A profinite group $G$, is \textbf{uniform} if it is topologically finitely generated by $d$ generators, and there exists a (unique) filtration by the $p$-descending central series of $G$.
+In other words, we have
+\[
+G = G_0 \supset G_1 \supset \ldots G_n \supset \ldots
+\]
+such that each $G_{n+1}$ is normal in $G_n$, and $G_n/G_{n+1} \simeq \left(\ZZ/p\ZZ\right)^d$.
+In particular, a uniform $p$-adic analytic group is always pro-$p$.
+\end{Defi}
+
+For a $d$-dimensional uniform pro-$p$ group $G$,
+one has $[G: \ G_n]=p^{dn}$, for all $n$.
+A well-known and important fact is the following.
+
+\begin{Th}[{\cite[Theorem II.8.32]{DdSMS03}}]
+Every $p$-adic analytic pro-$p$ group is a closed subgroup of $\GL_m(\ZZ_p)$ for some integer $m$ and contains an open uniform subgroup.
+\end{Th}
+
+
+Let $\Lambda(G) = \ZZ_p \llbracket G \rrbracket := \varprojlim_{H} \ZZ_p[G/H]$ be the \textbf{completed Iwasawa algebra} of $G$, where $H$ runs over all open normal subgroups of $G$.
+Set $\Omega(G) = \mathbb{F}_p\llbracket G \rrbracket = \ZZ_p \llbracket G \rrbracket /p$.
+Both $\Omega(G)$ and $\Lambda(G)$ are local, Noetherian rings without zero divisors \cite[Chapter 7]{DdSMS03} (see also \cite{How02}).
+Denote by $\mathcal{Q}\left(\Omega\left(G\right)\right)$ the fraction skew field of $\Omega(G)$.
+If $M$ is a finitely generated $\Omega(G)$-module, the \textbf{rank} of $M$, written as $\rank_{\Omega(G)}(M)$, is the $\mathcal{Q}\left(\Omega\left(G\right)\right)$-dimension of $M\otimes_{\left(\Omega\left(G\right)\right)} \mathcal{Q}(\Omega(G))$.
+
+
+\begin{Defi}
+Let $M$ be a finitely generated $\Lambda(G)$-module.
+Set
+\[
+r(M) = \rank_{\Omega(G)}\left(M[p]\right); \qquad \mu(M)= \sum_{i\geq 0} \rank_{\Omega(G)} \left(M[p^{i+1}]/M[p^i]\right)
+\]
+where $M[p^i]$ denotes the $p^i$-torsion points of $M$ for all $i\in \ZZ^{\geq 0}$.
+\end{Defi} 
+It follows that $\mu(M)\geq r(M)$ and $r(M)=0$ if and only if $\mu(M)=0$.
+
+Recall that for any $G$-module $M$, the co-invariant $M_G$ is the largest quotient of $M$ on which $G$ acts trivially.
+When $M$ is a discrete $p$-primary Abelian group or a compact pro-$p$ Abelian group, define its \textbf{Pontryagin dual} $M^\vee := \Hom_{\cont} (M, \ \QQ_p/\ZZ_p)$.
+The following result of Perbet measures the growth of finitely generated $\Lambda(G)$-modules where $G$ is a uniform, pro-$p$, $p$-adic Lie group.
+
+\begin{Th}[Perbet \cite{Per12}]
+\label{perbet general result}
+Let $G$ be a uniform pro-$p$ group of dimension $d$ and $M$ be a $\Lambda(G)$-module of rank $\rho(M)$.
+Then for sufficiently large $n$,
+\begin{align*}
+\dim_{\mathbb{F}_p} \left(M_{G_n}/p\right) &= \left( \rho(M) + r(M)\right)p^{dn} + O\left(p^{n(d-1)}\right), \\
+\# \left( M_{G_n}/p^n\right) &= p^{\left( \rho(M)+\mu(M)\right)p^{dn} + O\left(np^{n(d-1)}\right)}.
+\end{align*}
+\end{Th}
+
+\subsection{Growth of Class Groups in Uniform pro-$p$ Lie Extensions}
+Let $p$ be an odd prime and let $F$ be a number field.
+Let $\Linf/F$ be a uniform pro-$p$ Lie extension, i.e. $\Gal(\Linf/F)\simeq G$ where $G$ is a uniform, pro-$p$, $p$-adic Lie group.
+Let $L/F$ be a finite subextension of $\Linf/F$.
+Denote by $\Cl(F)_p$ the $p$-Sylow subgroup of the class group of $F$.
+Define the Iwasawa module
+\[
+X\left(\Linf/F\right) := \varprojlim_L \Cl(L)_p
+\]
+where the inverse limit is taken over all number fields $L$ in $\Linf/F$ with respect to the norm map.
+By a Nakayama's Lemma argument, it is known that $X(\Linf/F)$ is a torsion $\Lambda(G)$-module \cite{BH97}(see also \cite{Har00}).
+Set $\mu_{\Linf/F} = \mu\left(X\left(\Linf/F\right)\right)$ and $r_{\Linf/F} = r\left(X\left(\Linf/F\right)\right)$. 
+Perbet proved the following result by classical descent.
+
+\begin{Th}[Perbet \cite{Per12}]
+\label{theorem of perbet}
+Let $X(\Linf/F)$ be as defined above.
+Then for sufficiently large $n$,
+\begin{align*}
+r_p \left( \Cl(F_n)\right) &= r_{\Linf/F}p^{dn} + O\left(p^{n(d-1)}\right),\\
+\log \abs{\Cl(F_n)_p/p^n} &= \mu_{\Linf/F}p^{dn} \log p + O\left(np^{d(n-1)}\right),
+\end{align*}
+where for any Abelian group $A$, the $p$-rank $r_p(A) := \dim_{\mathbb{F}_p}(A[p])$.
+\end{Th}
+
+\begin{rem}
+In \cite{Lei17}, Lei obtained a more precise version of the above result when $G$ is a metabelian extension.
+\end{rem}
+
+\subsection{$p$-Rational Fields}
+Let $p$ be an odd prime.
+Let $F$ be a number field and let $\F_{S_p}$ denote the maximal pro-$p$ extension of $F$ unramified outside $S_p$, i.e. the primes above $p$.
+The number field $F$ is called \textbf{$p$-rational} if $\Gal(\F_{S_p}/F)$ is pro-$p$ free.
+
+\begin{Th}[{\cite[Theorem IV.3.5]{Gra13}}]
+\label{theoretical condition for p-rationality}
+Let $F$ be a number field that contains a primitive $p$-th root of unity.
+Then, $F$ is $p$-rational if and only if there exists a unique prime $\fp$ above $p$ and the $p$-part of the $\fp$-class group of $F$ is trivial.
+\end{Th}
+
+\begin{rem}
+\label{greenberg's remark}
+\begin{enumerate}
+\item It is believed that given any number field, it should be $p$-rational for all primes $p$ outside a set of density zero \cite[Page 99]{Gre16}.
+\item Let $F$ be a $p$-rational number field which is Galois over $\QQ$.
+Suppose $\fp$ is the unique prime above $p$ in $F$, $p\nmid \abs{ \Cl(F)}$, and $p-1 \mid [F:\QQ]$.
+Then, $\fp$ is totally ramified in $\F_{S_p}/F$ \cite[Remark 6.4]{Gre16}. 
+\end{enumerate}
+\end{rem}
+
+\subsection{False Tate Curve Extensions}
+\label{false Tate curve preliminary} Let $p$ be a fixed odd prime and let $F$ be a number field containing the group of $p$-th roots of unity, denoted by $\mu_p$.
+The \textbf{false Tate curve extension}, denoted by $\F_\infty$, is obtained by adjoining the $p$-power roots of a fixed integer $m>1$ to the cyclotomic $\ZZ_p$-extension of $F$, which in turn is written as $F_{\cyc}$. 
+Therefore,
+\[
+\F_\infty = F\left( \mu_{p^\infty}, \ m^{\frac{1}{p^n}} : n = 1, 2, \ldots \right).
+\]  
+The Galois group, $G=\Gal\left( \F_\infty / F\right) \simeq \ZZ_p \rtimes \ZZ_p$, is a solvable group with no element of finite order. 
+This is a non-Abelian pro-$p$ $p$-adic Lie extension of cohomological dimension 2 \cite{Ser65}.
+Set $H= \Gal\left( \F_\infty / F_{\cyc}\right) \simeq \ZZ_p$.
+The extension $\F_\infty/F$ is contained in $G_S(F)$ where $S$ is a finite set of primes in $F$ containing the Archimedean primes, the primes above $p$, the primes of bad reduction of $E$ and primes dividing $m$.
+For short we write, $S\supseteq S_\infty \cup S_p \cup S_{\bad} \cup S_m$.
+
+%------------------------------------------
+\section{Growth of Selmer Groups in Uniform pro-$p$ Extensions} \label{Analogue of HM19}
+%------------------------------------------
+
+\subsection{Brief Review of the Result of Hajir-Maire \cite[Section 4]{HM19}}
+\label{HM brief review}
+Given a uniform pro-$p$ group $G$, Hajir-Maire developed a general strategy to construct $G$-extensions of number fields with arbitrarily large $\mu$-invariant.
+\begin{Prop}[{\cite[Proposition 4.1]{HM19}}]
+\label{prop: HM principle}
+Suppose $G$ is a uniform pro-$p$ group and $\Linf/\FF$ is a Galois extension of a number field such that
+\begin{enumerate}
+\item $\Gal(\Linf/\FF) \simeq G$;
+\item there are finitely many primes that are ramified in $\Linf/\FF$;
+\item there are infinitely many primes of $\FF$ that split completely in $\Linf/\FF$.
+\end{enumerate}
+Then, there exist $G$-extension of number fields with arbitrarily large associated $\mu$-invariant.
+\end{Prop}
+
+The main theorem they prove is the following.
+\begin{Th}[{\cite[Theorem 4.8]{HM19}}]
+\label{thm of HM}
+Let $G$ be a uniform pro-$p$ group having an automorphism $\tau$ of order $m$ with fixed-point-free action, where $m$ is coprime to $p$.
+Suppose $F_0$ is a totally imaginary field admitting a cyclic extension $F/F_0$ of degree $m$ such that $F$ is $p$-rational.
+Then there exists a finite $p$-extension $K/F$ unramified outside $p$ and a $G$-extension $\Linf/K$ such that for any given integer $N$, there exists a cyclic degree $p$ extension $K^\prime$ over $K(\mu_p)$ and a $G$-extension $\Linf^\prime/K^\prime$ where $\Linf^\prime = \Linf K^\prime$ whose associated $\mu$-invariant is greater than $N$. 
+\end{Th}
+
+\subsubsection{Construction/Discussion:}
+\label{Discussion}
+Let $G$ be a uniform pro-$p$ group having an automorphism $\tau$ of order $m$ with fixed-point-free action, where $m$ is coprime to $p$.
+If $m=2$, then $G\simeq \ZZ_p^d$ for some $d\geq 1$ \cite[Corollary 4.6.10]{RZ00}.
+
+Suppose $F_0$ is a totally imaginary field admitting a cyclic extension $F/F_0$ of degree $m$ such that $F$ is $p$-rational.
+For $n$ sufficiently large, set $K_0$ (resp. $K$) to be the $n$-th layer of the cyclotomic $\ZZ_p$-extension of $F_0$ (resp. $F$).
+It follows that $K$ is $p$-rational.
+% K is p-rational because free pro-p.
+By construction, $K/K_0$ is a cyclic extension of degree $m$.
+
+Let $\K_{S_p}$ be the maximal, pro-$p$, unramified outside $S_p$ extension of $K$.
+Then, there exists an intermediate field $K \subset \Linf \subset \K_{S_p}$ with $\Gal(\Linf/K_0)\simeq G \rtimes \langle \tau \rangle$ \cite[Proposition 4.6]{HM19}.
+The conjugation action of $\tau$ is fixed-point-free by assumption; equivalently the action of $\langle \tau \rangle$ is fixed-point-free, if $m$ is a prime (not equal to $p$). 
+Under this additional assumption, $G \rtimes \langle \tau \rangle$ is a Frobenius group \cite[Theorem 4.6.1(d)]{RZ00}.
+Hence $G$ is a nilpotent uniform pro-$p$ group \cite[Corollary 4.6.10]{RZ00}.
+
+Every place $\fq$ which is totally inert in $K/K_0$ and is not ramified in $\Linf/K$ splits completely in this extension \cite[Proposition 4.7]{HM19}.
+By the Chebotarev density theorem, there are infinitely many primes that remain totally inert in the Galois extension $K/K_0$.
+
+Without loss of generality assume $K$ contains $\mu_p$ (otherwise replace $K$ by $K(\mu_p)$ in this paragraph).
+Choose an integer $t\geq 1$, and primes $\fq_1, \ldots, \ \fq_t$ in $\mathcal{O}_K$ which split completely in $\Linf/K$.
+There exists a $\ZZ/p\ZZ$-extension, $K^\prime/K$ in which each of these $\fq_i$ ramify.
+Indeed, let $\fq_0$ be a prime ideal coprime to $\fq_1 \cdots \fq_t$ which is in the inverse of $\fq_1 \cdots \fq_t$, i.e. $\fq_0\fq_1 \cdots \fq_t$ is a principal ideal generated by $\alpha$ (say).
+Then $K^\prime := K(\alpha^{1/p})$ is a cyclic degree $p$ extension of $K$ where $\fq_1, \ldots, \ \fq_t$ ramify.
+
+\subsection{Strategy to Extend the Above Result}
+\label{strategy}
+To extend Theorem~\ref{thm of HM} to (fine) Selmer groups of elliptic curves, we adopt the following strategy.
+We write it down for Selmer groups.
+For fine Selmer groups, the strategy is identical.\\
+
+\noindent \textit{Step 1:}
+Let $G$ be a $d$-dimensional uniform pro-$p$ $p$-adic Lie group. 
+Let $K$ be a number field that admits an infinite extension $\Linf/K$ with $\Gal(\Linf/K)\simeq G$ such that the associated $\mu$-invariant in this extension is arbitrarily large.
+Recall that $[G:G_n]\simeq (\ZZ/p\ZZ)^{nd}$. 
+Let $K_n/K$ be the field fixed by $G_n$.
+Let $E/K$ be an elliptic curve such that $E(K)[p]\neq 0$.
+Then, the first task is to show 
+\begin{equation}
+\label{inequality from LM15}
+r_p \left( \Sel\left( E/K_n\right)\right) \geq r_p \left(\Cl(K_n)\right) r_p\left( E(K_n)[p]\right) - 2.
+\end{equation}
+
+This is a consequence of the following lemma.
+\begin{Lemma}[{\cite[Proposition 4.1(i)]{LM15_CM}}]
+Let $\FF$ be a number field and $E$ be an elliptic curve with good reduction everywhere over $\FF$ and $E(\FF)[p]\neq 0$. 
+Then,
+\begin{equation}
+\label{eqn: alter for fsg}
+r_p \left( \Sel\left( E/\FF\right)\right) \geq r_p \left(\Cl(\FF)\right) r_p\left( E(\FF)[p]\right) - 2.
+\end{equation}
+\end{Lemma}  
+
+\noindent \textit{Step 2:} With notation as in \textit{Step 1}, we construct a cyclic extension $K_n^\prime/K_n$ such that $r_p \left( \Sel\left( E/K_n^\prime\right)\right)$ can be made arbitrarily large.
+
+A key ingredient in this step is the following result from genus theory.
+\begin{Th}[\cite{Sch86}]
+\label{genus theory}
+Let $\FF$ be a number field and $\mathbb{L}/\FF$ be a $\ZZ/p\ZZ$-extension.
+Let $t$ be the number of primes that ramify in $\mathbb{L}/\FF$.
+Then,
+\[
+r_p \left( \Cl(\mathbb{L})\right) \geq t- 1 -r_p \left( \mathcal{O}_{\FF}^\times \right).
+\]
+\end{Th}
+
+Let $K$ be the number field considered in \textit{Step 1}.
+Suppose there exists a $\ZZ/p\ZZ$-extension $K^\prime/K$ such that the number of primes $t$ that ramify in $K^\prime/K$ can be made arbitrarily large.
+Further, suppose these primes split completely in the $G$-extension $\Linf/K$.
+Set $\Linf^\prime = \Linf K^\prime$; then $K_n^\prime = K_n K^\prime$ is the field fixed by $G_n$ in $\Linf^\prime/K^\prime$.
+
+By (the $K_n^\prime$-version of) Inequality~\ref{inequality from LM15} and Theorem~\ref{genus theory}, both $r_p \left( \Cl(K_n^\prime)\right)$ and $r_p \left( \Sel\left( E/K_n^\prime\right)\right)$ can be made arbitrarily large.
+In fact \cite[Page 609]{HM19},
+\begin{equation}
+\label{what genus theory gives us}
+r_p \left( \Sel(E/K_n^\prime)\right) \geq [K_n^\prime: K]\left(t-r_2(K^\prime)-1\right)-2
+\end{equation}
+where $r_2$ denotes the number of pairs of complex embeddings of the number field.
+In obtaining the above inequality we have used that $r_p\left(E(K_n^\prime)[p]\right)\geq 1$.
+
+\begin{rem}
+When $G$ is a uniform pro-$p$ group having an automorphism $\tau$ of order $m$ with fixed-point-free action, and $m$ is coprime to $p$, the number fields $K$ and $K^\prime$ exist by the work of Hajir-Maire.
+They are constructed as in Theorem~\ref{thm of HM} (see Section~\ref{Discussion} for the details).
+\end{rem}
+
+\noindent \textit{Step 3:} We apply Greenberg's Control Theorem (Theorem~\ref{control theorem}). 
+This allows the comparison of the growth estimate obtained from genus theory (in Inequality~\ref{what genus theory gives us}) and that obtained from the theorem of Perbet (Theorem~\ref{perbet general result}).
+
+Recall that the Pontryagin dual of the Selmer group (and hence the Pontryagin dual of the fine Selmer group) is \textit{always} a finitely generated $\Lambda(G)$-module where $G$ is a uniform pro-$p$ group.
+This is a consequence of the Nakayama's Lemma in this setting \cite{BH97}.
+
+In our setting, Perbet's theorem can be applied.
+It gives the following equality.
+\begin{equation}
+\label{what perbet gives us}
+r_p \left( \Sel\left( E/\Linf^\prime\right)^{G_n}\right) = \left( \rho(\X^\prime) + r(\X^\prime)\right)p^{dn} + O(p^{n(d-1)})
+\end{equation}
+where $\rho(\X^\prime)$ (resp. $r(\X^\prime)$) is the $\Lambda(G)$-rank (resp. $\Omega(G)$-rank) of the dual Selmer group $\X(E/\Linf^\prime)=\X^\prime$.
+By construction, $\Gal(\Linf^\prime/K^\prime)\simeq G$.
+If $\Linf^\prime/K^\prime$ is such that Greenberg's Control Theorem is applicable and the $p$-ranks of the kernel and cokernel of the restriction map are finite and bounded (see for example \cite[Proposition 3.4]{Gre03}), then for an elliptic curve $E$ with (potentially) ordinary reduction at $K^\prime$,
+\[
+r_p \left( \Sel\left( E/\Linf^\prime\right)^{G_n}\right) = r_p \left( \Sel\left( E/K_n^\prime\right)\right) + O(1).
+\]
+This allows the comparison of the leading terms of Inequality~\ref{what genus theory gives us} and Equation~\ref{what perbet gives us}.
+We get
+\[
+\rho(\X^\prime) + r(\X^\prime) \geq pt - p r_2(K^\prime) -p.
+\]
+In \textit{Step 2}, it was guaranteed by construction that $t$ can be made arbitrarily large.
+It follows that $\rho(\X^\prime) + r(\X^\prime)$ (and hence $\rho(\X^\prime) + \mu(\X^\prime)$) can be made arbitrarily large.
+If $\X^\prime$ is $\Lambda(G)$-torsion then $\rho(\X^\prime)=0$. 
+Hence, $\mu(\X^\prime)$ can be made arbitrarily large.
+
+\subsection{Growth of Selmer groups when $G$ is Abelian}
+When $G$ is an Abelian pro-$p$ group, i.e. $G\simeq \ZZ_p^d$ (for $d\geq 1$), the result of Hajir-Maire can be applied (with $m=2$) and Greenberg's Control Theorem holds.
+
+With notation as before, invoking the strategy described in Section~\ref{strategy}, the following result is immediate.
+
+\begin{Th}
+\label{selmer analogue of HM}
+Let $G\simeq \ZZ_p^d$ where $d\geq 1$.
+Suppose $F_0$ is a totally imaginary field.
+Let $E/F_0$ be an elliptic curve with good reduction everywhere over $F_0$ and ordinary reduction at primes above $p$.
+Further suppose $E(F_0)[p]\neq 0$.
+Let $F/F_0$ be a cyclic extension of degree coprime to $p$ such that $F$ is $p$-rational.
+Given any integer $N>0$, there exists a number field $K^\prime/F$ and a $\ZZ_p^d$-extension $\Linf^\prime/K^\prime$ such that $\rho(\X^\prime) + \mu(\X^\prime) \geq N$.
+If further, $\X^\prime$ is $\Lambda(G)$-torsion, then $\mu(\X^\prime) \geq N$.  
+\end{Th}
+
+\begin{rem} 
+If $E/F_0$ is an elliptic curve with complex multiplication (CM) by an imaginary quadratic field contained which is a subfield of $F_0$, then $E$ acquires good reduction everywhere over $F_0(E[p])$ \cite{ST68}.
+If $p\geq 5$, $[F_0(E[p]):F_0]$ is coprime to $p$ and by the Weil pairing $F_0(E[p]) \supseteq F_0(\mu_p)$.
+\end{rem}
+
+\subsection{Growth of Selmer groups when $G$ is a non-Abelian nilpotent uniform pro-$p$ group}
+Throughout this section, let $p \geq 5$.
+
+The nilpotent uniform pro-$p$ groups of dimension $\leq 2$ are always Abelian.
+This follows from the fact that every 2-dimensional nilpotent Lie algebra is Abelian.
+In this section, we work with a specific example of a non-Abelian nilpotent uniform pro-$p$ group of dimension 3 considered in \cite{HM19}.
+
+In \cite[Theorem 7.4]{GSK09}, Gonz{\'a}lez-S{\'a}nchez and Klopsch proved that up to isomorphism, every non-Abelian, nilpotent, uniform, pro-$p$ group of dimension 3 is parametrized by $s\in \NN$ and represented by
+\[
+G(s) = \left\langle x, \ y, \ z \mid [x, \ z] = [y, \ z] =1, \ [x, \ y]=z^{p^s}\right\rangle .
+\]
+The center of $G(s)$ is pro-cyclic and there exists a short exact sequence
+\[
+1 \rightarrow \ZZ_p \rightarrow G(s) \rightarrow \ZZ_p^2 \rightarrow 1.
+\]
+
+These groups were studied by Hajir-Maire.
+They proved that $G(s)$ is a uniform pro-$p$ group having an automorphism $\tau$ of order 3 with fixed-point-free action when $p\equiv 1 \pmod{3}$ \cite[Proposition 5.1]{HM19}.
+The following result is known about growth of class groups (and the associated $\mu$-invariant) in $G(s)$-extensions of number fields.
+\begin{Th}[{\cite[Corollary 5.3]{HM19}}]
+\label{HM particular}
+Suppose $p$ is a regular prime, i.e. $p\nmid \abs{\Cl(\QQ(\mu_p))}$ and satisfy the additional property $p\equiv 1 \pmod{3}$.
+For each $s\in \NN$, there exist $G(s)$-extensions of number fields with arbitrarily large $\mu$-invariants.
+\end{Th}
+
+In this section, we prove the following result.
+\begin{Th}
+\label{particular example our case}
+Let $s\in \NN$ and $G\simeq G(s)$.
+Suppose $p$ is a fixed regular prime with $p\equiv 1 \pmod{3}$.
+Suppose $F_0$ is a totally imaginary field containing $\mu_p$ and $E/F_0$ is an elliptic curve without CM with good reduction everywhere, ordinary reduction at $p$, and $E(F_0)[p]\neq 0$.
+Let $F/F_0$ be a cyclic $\ZZ/3\ZZ$ such that $F$ is $p$-rational, Galois over $\QQ$, and $p\nmid \abs{ \Cl(F)}$.
+Given any integer $N>0$, there exists a number field $K^\prime/F$ and a $G(s)$-extension $\Linf^\prime/K^\prime$ such that $\rho(\X^\prime) + \mu(\X^\prime) \geq N$.
+If further, $\X^\prime$ is $\Lambda(G)$-torsion, then $\mu(\X^\prime) \geq N$.  
+\end{Th}
+
+\begin{rem}
+Since $G(s)$ is a non-Abelian, nilpotent, uniform pro-$p$ group, the corresponding Lie algebra \textit{can not} be reductive.
+\end{rem}
+
+To prove the theorem, we adopt the general strategy developed in Section~\ref{strategy}.
+We need to verify that Greenberg's Control Theorem is in fact applicable to this extension.
+For this, we need the following lemmas.
+
+\begin{Lemma}
+\label{lemma finite torsion}
+Let the number field $K^\prime$ and a $G(s)$-extension $\Linf^\prime/K^\prime$ with arbitrarily large $\mu$-invariant be constructed as in Theorem~\ref{thm of HM}. 
+Let $E/K^\prime$ be an elliptic curve without CM.
+Then, $E(\Linf^\prime)[p^\infty]$ is finite.
+\end{Lemma}
+
+To prove the lemma, recall the following result of Zarhin.
+\begin{Th}[{\cite[Main Theorem]{Zar99}}]
+\label{main theorem zarhin}
+Let $X$ be a $g$-dimensional Abelian variety over a number field $\FF$.
+Assume that the Hodge group of $X$ is semi-simple.
+If $\Linf/\FF$ is an infinite extension such that its intersection with $\FF_{\cyc}/\FF$ is of finite degree over $\FF$, then $X(\Linf)_{\tors}$ is finite.  
+\end{Th}
+
+\begin{proof}[Proof of Lemma~\ref{lemma finite torsion}]
+When $E$ is an elliptic curve without CM, it is known that its Hodge group is $\SL_2$, and therefore semi-simple \cite[Section 2]{Mum69}.  
+Further, the intersection of the $G(s)$-extension $\Linf^\prime/K^\prime$ and $K^\prime_{\cyc}/K^\prime$ is necessarily of finite degree over $K^\prime$.
+This is because by construction of $\Linf^\prime/K^\prime$, there are infinitely many primes that are not finitely decomposed in $\Linf^\prime/K^\prime$.
+However, in $K^\prime_{\cyc}/K^\prime$ all primes are finitely decomposed. 
+Thus, for a non-CM elliptic curve $E/K^\prime$, Theorem~\ref{main theorem zarhin} implies that $E(\Linf^\prime)[p^\infty]$ is finite.
+\end{proof}
+
+\begin{Lemma}
+\label{lemma: checking inertia}
+Keep the notation as in Theorem~\ref{particular example our case}.
+Let the number field $K^\prime$ and a $G(s)$-extension $\Linf^\prime/K^\prime$ with arbitrarily large $\mu$-invariant be constructed as in Theorem~\ref{thm of HM}. 
+Let $E/K^\prime$ be an elliptic curve.
+The inertia subgroup has finite index in $G(s)$ for all primes above $p$ in $K^\prime$.
+\end{Lemma}
+
+\begin{proof}
+Recall that by construction, $K$ is the $n$-th layer of the cyclotomic $\ZZ_p$-extension of $F$.
+Therefore, $K/F$ is $p$-rational number field containing $\mu_p$ such that $\mathcal{K}_{S_p} \subseteq \mathcal{F}_{S_p}$.
+There is a unique prime $\fp$ above $p$ in $K$ (see Theorem~\ref{theoretical condition for p-rationality}), i.e. $S_p =\{ \fp \}$.
+Recall that the $p$-adic Lie extension $\Linf/K$ with $\Gal(\Linf/K)\simeq G(s)$ is contained in $\K_{S_p}$.
+Since $K/F$ is a $p$-power extension and $p\nmid \abs{\Cl(F)}$, it follows that $p\nmid \abs{\Cl(K)}$ \cite[Theorem 10.4(1)]{Was97}.
+By Remark~\ref{greenberg's remark}(2), the unique prime $\fp \mid p$ is totally ramified in $\F_{S_p}/F$. 
+Hence, the unique prime above $p$ in $K$ is totally ramified in $\K_{S_p}/K$; the inertia subgroup of $G(s) \simeq \Gal(\Linf/K)$ is maximal (in this case, of dimension 3).
+Upon performing a base change to $K^\prime/ K$, for every prime above $\fp$ in $K^\prime$, the dimension of the inertia subgroup is still 3, i.e. the inertia subgroup has finite index in the $G(s)$-extension over $K^\prime$.
+\end{proof}
+
+\begin{proof}[Proof of Theorem~\ref{particular example our case}]
+Given $F_0$ as in the statement of the theorem, construct $K^\prime/F_0$ as in Theorem~\ref{thm of HM} and let $\Linf^\prime/K^\prime$ be a $G(s)$-extension with arbitrarily large $\mu$-invariant.
+Such a $G(s)$-extension $\Linf^\prime/K^\prime$ exists by the proof of Theorem~\ref{HM particular}.
+
+By hypothesis, $E/K^\prime$ has good reduction everywhere and good ordinary reduction at primes above $p$.
+To apply Greenberg's Control Theorem, the following two properties need to be verified.
+\begin{enumerate}[(i)] 
+\item $E(\Linf^\prime)[p^\infty]$ is finite.
+\item The inertia subgroup has finite index in $G(s)$ for all primes $\fp \mid p$.
+\end{enumerate}  
+ 
+The first property is verified in Lemma~\ref{lemma finite torsion}.
+This guarantees that the kernel of the restriction map is finite and bounded \cite[Proposition 3.1]{Gre03}. 
+%Note that if $\Linf/K$ is a $p$-adic Lie extension with $\Gal(\Linf/K)\simeq G(s)$ such that for all prime $\fp \mid p$, the inertia subgroup has finite index in $G(s)$   
+The second property is verified in Lemma~\ref{lemma: checking inertia}.
+This guarantees that the cokernel is also finite and bounded \cite[Proposition 4.4]{Gre03}.
+The general strategy developed in Section~\ref{strategy} proves the theorem.
+\end{proof}
+
+\begin{rem}
+If $p$ is a regular prime and $m$ is an odd divisor of $p-1$, then for any $k\geq 1$, the cyclotomic field $\QQ(\mu_{p^k})$ admits a $\ZZ/m\ZZ$ extension $K/\QQ(\mu_{p^k})$ which is $p$-rational (see discussion following \cite[Theorem 1.1]{HM19}).
+\end{rem}
+
+\subsection{Growth of fine Selmer groups when $G$ is Abelian}
+When $G\simeq \ZZ_p^d$ (for $d\geq 1$), it is possible to prove an analogue of Theorem~\ref{selmer analogue of HM} for the fine Selmer groups.
+The difficulty lies in the fact that the \textit{control problem} for fine Selmer groups is less understood.
+Set the notation $\Y=\Y(E/\Linf)$ (resp. $\Y^\prime=\Y(E/\Linf^\prime)$) to denote the Pontryagin dual of the fine Selmer group over $\Linf$ (resp. $\Linf^\prime$).
+
+\begin{Th}
+\label{thm: fsg in general}
+Let $G\simeq \ZZ_p^d$ where $d\geq 1$.
+Suppose $F_0$ is a totally imaginary field containing $\mu_p$.
+Let $E/F_0$ be an elliptic curve with good reduction everywhere and  $E(F_0)[p]\neq 0$.
+Let $F/F_0$ be a cyclic extension of degree coprime to $p$ such that $F$ is $p$-rational and $p\nmid \Cl(F)$.
+Given any integer $N>0$, there exists a number field $K^\prime/F$ and a $\ZZ_p^d$-extension $\Linf^\prime/K^\prime$ such that $\rho(\Y^\prime) + \mu(\Y^\prime) \geq N$.
+If further, $\Y^\prime$ is $\Lambda(G)$-torsion, then $\mu(\Y^\prime) \geq N$.  
+\end{Th}
+
+\begin{rem}
+\begin{enumerate}
+\item The definition of the fine Selmer group is independent of the choice of the set $S$.
+By hypothesis, $E$ has good reduction everywhere.
+Hence, choose $S = S_p \cup S_\infty$.
+In our setting, the unique prime $\fp \mid p$ is totally ramified in $\Linf/K$.
+Observe that the prime(s) above $p$ in $K^\prime$ are finitely decomposed in the $\ZZ_p^d$-extension $\Linf^\prime/K^\prime$.
+\item When $d=1$, Wuthrich proved the Control Theorem for all $\ZZ_p$-extensions.
+As will be clear from the proof, in this case there is no hypothesis on the reduction type \cite{Kun20}.
+\item It is always possible to choose $S=S_p \cup S_{\bad} \cup S_\infty$.
+If all the bad primes in $S$ are finitely decomposed in $\Linf^\prime/K^\prime$, we need not assume $E/F_0$ has good reduction everywhere.
+\end{enumerate}
+\end{rem}
+
+\begin{Defi}
+Let $H_S(\FF)$ be the maximal Abelian unramified extension of $\FF$ such that all the primes in $S$ split completely in $H_S(\FF)$. 
+By class field theory, the Galois group $\Gal\left(H_S(\FF)/\FF\right)\simeq \Cl_S(\FF)$ where $\Cl_S(\FF)$ is the $S$-class group of $\FF$.
+\end{Defi}
+
+We begin by recording two elementary estimates.
+\begin{Lemma}[{\cite[Lemma 3.2]{LM15_CM}}]
+\label{LM15_CM lemma 3.2}
+Let $G$ be a pro-$p$ group and let $M$ be a discrete $G$-module that is cofinitely generated over $\ZZ_p$.
+If $r_p\left(H^1\left(G, \ \ZZ/p\ZZ\right)\right)$ is finite then 
+\[
+r_p\left( H^1\left(G, \ M\right)\right) \leq r_p\left(H^1\left(G, \ \ZZ/p\ZZ\right)\right) \left( \corank_{\ZZ_p}M + \log_p\left( \abs{M/M_{\divisible}}\right)\right).
+\]
+\end{Lemma}
+\begin{Lemma}[{\cite[Lemma 3.2]{LM15}}]
+\label{lemma: repeated use in the following proof}
+Consider the following short exact sequence of cofinitely generated Abelian groups
+\[
+P \rightarrow Q \rightarrow R \rightarrow S.
+\]
+Then
+\[
+\abs{ r_p\left( Q\right) - r_p\left( R\right)} \leq 2r_p\left(P\right) + r_p \left(S\right).
+\]
+\end{Lemma}
+
+To prove Theorem~\ref{thm: fsg in general}, we will apply the general strategy.
+To complete \textit{Step 1} of the general strategy, we need the following lemmas.
+\begin{Lemma}
+\label{this lemma shows up again later but with finite decomposition}
+Let $\Linf$ be any $\ZZ_p^d$ extension of a number field $\FF$.
+Let $S(\FF)$ be a finite set of primes in $\FF$ containing the primes above $p$ and the Archimedean primes.
+Let $s_0$ be the number of non-Archimedean primes in $S(\FF)$.
+Let $\FF_n$ be the subfield of $\Linf$ such that $[\FF: \FF_n] = p^{dn}$.
+Then
+\[
+\abs{r_p \left( \Cl\left(\FF_n\right)\right) - r_p \left( \Cl_S\left(\FF_n \right)\right)} \leq 2s_0 p^{dn}.
+\]
+\end{Lemma}
+
+\begin{proof}
+Let $S(\FF_n)$ denote the primes in $\FF_n$ above the primes in $S(\FF)$.
+Set $S_f(\FF_n)$ to denote all the non-Archimedean primes of $S(\FF_n)$.
+Consider the following short exact sequence for all $n$ \cite[Lemma 10.3.12]{NSW08},
+\[
+\ZZ^{\abs{S_f(\FF_n)}} \rightarrow \Cl(\FF_n) \xrightarrow{\alpha_n} \Cl_S(\FF_n) \rightarrow 0.
+\]
+Observe that $\ker(\alpha_n)$ is finite because the class group is always finite.
+Note that $r_p\left( \ker\left( \alpha_n\right)\right) \leq \abs{S_f\left(\FF_n\right)}$ and by finiteness it follows that $r_p\left( \ker\left( \alpha_n\right)/p\right) \leq \abs{S_f\left(\FF_n\right)}$.
+Using Lemma~\ref{lemma: repeated use in the following proof}, compare the $p$-ranks in this short exact sequence; this gives
+\[
+\abs{r_p \left( \Cl\left(\FF_n\right)\right) - r_p \left( \Cl_S\left(\FF_n \right)\right)} \leq  2\abs{S_f(\FF_n)} \leq 2s_0 p^{dn}.
+\]
+The last inequality follows from the fact that if \textit{all} the non-Archimedean primes in $S(\FF)$ undergo complete splitting in $\FF_n$, there are $s_0 p^{dn}$ finite primes in $S(\FF_n)$.  
+\end{proof}
+
+\begin{Lemma}[{\cite[Lemma 4.3]{LM15}}]
+\label{fsg and S-class group}
+Let $E$ be an elliptic curve defined over the number field $\FF$ with $E(\FF)[p]\neq 0$.
+Let $S$ be a finite set of primes in $\FF$ containing the primes above $p$, the primes of bad reduction, and the Archimedean primes.
+Then,
+\[
+r_p \left( R\left( E/\FF\right)\right) \geq r_p \left(\Cl_S(\FF)\right) r_p\left( E(\FF)[p]\right) - 2.
+\]
+\end{Lemma}
+
+We can now prove Theorem~\ref{thm: fsg in general}.
+The proof involves invoking the strategy in Section~\ref{strategy}. 
+We briefly explain some of the differences.
+
+\begin{proof}[Proof of Theorem~\ref{thm: fsg in general}]
+Let $F_0$ be as in the statement.
+Construct $K$ and $K^\prime$ as in Theorem~\ref{thm of HM}.
+Let $t$ be the number of primes that are inert in $K/K_0$ and totally split completely in $\Linf/K$.
+By construction, these primes ramify in $K^\prime/K$.
+Since $E/F_0$ has good reduction everywhere, set $S=S_p \cup S_\infty$.
+Recall that the prime(s) above $p$ in $K^\prime$ are finitely decomposed in $\Linf^\prime$.
+It follows that for $n$ sufficiently large, $\abs{r_p \left( \Cl\left(\FF_n\right)\right) - r_p \left( \Cl_S\left(\FF_n \right)\right)}$ is finite and bounded. 
+Over the $n$-th layer of the $\ZZ_p^d$ extension $\Linf^\prime/K^\prime$, we have
+\begin{align}
+r_p \left( R \left( E/K_n^\prime \right)\right) &\geq r_p \left( \Cl_S \left( K_n^\prime \right)\right) r_p\left( E\left(K_n^\prime \right)[p] \right) -2 \\
+&= \left( r_p \left( \Cl \left( K_n^\prime \right)\right) + O(1) \right) r_p\left(  E\left(K_n^\prime \right)[p] \right) -2\\
+&\geq \left( pt - r_2\left(K^\prime\right) -p  \right)p^{dn} +O(1).
+\label{fsg and genus theory}
+\end{align}
+The first inequality is an application of Lemma~\ref{fsg and S-class group}.
+The equality in the second line follows from Lemma~\ref{this lemma shows up again later but with finite decomposition}.
+The last inequality is obtained by an application of Theorem~\ref{genus theory} and noting that $r_p\left(  E\left(K_n^\prime \right)[p] \right) \geq 1$.
+By Theorem~\ref{perbet general result},
+\begin{equation}
+\label{perbet and fsg}
+r_p\left( R\left(E/\Linf^\prime\right)^{G_n}\right) = \left(\rho(\Y^\prime) +r(\Y^\prime)\right) p^{dn} + O(p^{n(d-1)}).
+\end{equation}
+\textit{Step 3} of the general strategy can now be carried out.
+The Control Theorem for fine Selmer groups holds when $G$ is Abelian and primes in $S$ are finitely decomposed (Theorem~\ref{control theorem for fsg}).
+This is independent of the reduction type at primes above $p$.
+The $p$-rank of the kernel and cokernel of the (global) restriction map 
+\[
+h_{\Linf^\prime/ K_n^\prime}: H^1\left( K_n^\prime, \ E[p^\infty]\right) \rightarrow H^1\left( \Linf^\prime, \ E[p^\infty]\right)^{G_n} 
+\]
+is known to be finite and bounded independent of $n$ \cite[Proposition 3.4]{Gre03}.
+Therefore, the $p$-rank of $\ker\left( r_{\Linf^\prime/ K_n^\prime}\right)$ enjoys the same properties.
+The above mentioned result of Greenberg also ensures that $\coker\left( r_{\Linf^\prime/ K_n^\prime}\right)$ is finite and bounded independent of $n$, if the same holds for the $p$-rank of the kernel of the local restriction map.
+But the latter follows from Lemma~\ref{LM15_CM lemma 3.2} upon observing that $r_p\left( H^1\left(G_{n,v}, \ZZ/p\ZZ\right)\right)$ is bounded independent of $n$.
+Now by Lemma~\ref{lemma: repeated use in the following proof}, it is possible to compare the leading terms of Inequality~\ref{fsg and genus theory} and Equation~\ref{perbet and fsg}.
+By construction, $t$ can be made arbitrarily large. 
+This proves the theorem. 
+\end{proof}
+
+\begin{rem}
+At this point, we are unable to prove a Control Theorem for fine Selmer groups in $G(s)$-extensions.
+%This is because we are unable to show that for all $w\in S$, $E(\Linf^\prime_w)[p^\infty]$ is finite.
+This prevents us from completing \textit{Step 3} of the general strategy and proving an analogue of Theorem~\ref{particular example our case} for fine Selmer groups.
+\end{rem}
+
+\begin{rem}
+It was only after this paper was published, while discussing with Meng Fai Lim on another problem, we realized that the strategy developed in Subsection~\ref{strategy} can be extended to all $p$-adic Lie extensions.
+Indeed, the strategy works whenever the $p$-rank of $\ker(r_{\Linf^\prime/K^\prime})$ has bounded $p$-rank which is trivially true for $p$-adic Lie extensions.
+\end{rem}
+%------------------------------------------
+\section{Growth of Fine Selmer Groups in False Tate Curve Extensions} \label{Analogue of Lei17}
+%------------------------------------------
+
+We will use the notation introduced in Section~\ref{false Tate curve preliminary}.
+In this section, the goal is to prove a non-commutative version of results in \cite[Section 5]{LM15} and \cite[Section 3.3]{Kun20}.
+We prove our results for the false Tate curve extension $\F_\infty/F$ with Galois group $G=\Gal(\F_\infty/F)\simeq H \rtimes \Gamma$ where both $H$ and $\Gamma$ are isomorphic to $\ZZ_p$.
+The action of $\Gamma$ on $H$ is non-trivial; hence $G$ is non-Abelian.
+Note that $G$ is a solvable uniform pro-$p$ group which is \textit{not} nilpotent.
+%uniform is mentioned in cor 2.9 of HV03
+This is because all nilpotent uniform pro-$p$ groups of dimension $\leq 2$ are Abelian.
+Thus, we do not expect that the results proved in Section~\ref{Analogue of HM19} will extended easily to the false Tate curve extension.
+%it can not be reductive either because solvable intersection reductive is commutative
+
+Consider the setting described in Section~\ref{false Tate curve preliminary}.
+Let $p$ be a fixed odd prime and for simplicity, set $F= \QQ(\mu_p)$.
+Throughout this section, we make either of the following hypothesis on $m$:
+\begin{enumerate}
+\item let $m$ be an integer which is not a $p$-th power \textit{or}
+\item let $p\mid m$.
+\end{enumerate} 
+In either of the cases, it is guaranteed that the unique prime above $p$ is totally ramified in $\F_\infty/F$ (see \cite[Lemma 3.9(ii)]{HV03} or \cite{Lee13}).
+
+By a deep result of Kato, for a modular elliptic curve, an analogue of the Weak Leopoldt Conjecture (WLC) holds over the cyclotomic extension $F_{\cyc}/F$, i.e. $H^2\left( G_S\left( F_{\cyc} \right), \ E_{p^\infty}\right)$ is trivial \cite{Kat04}.
+By a Hochschild-Serre spectral seqeunce argument it follows that $H^2\left( G_S\left( \F_\infty \right), \ E_{p^\infty}\right) =0$.
+Thus, the elliptic curve analogue of the WLC is true over this false Tate curve extension \cite[Remark 2.2]{HV03}.
+
+In the main theorem of this section, we relate the growth of fine Selmer groups and class groups in the false Tate curve extension. 
+
+\begin{Th}
+\label{thm: relate fsg and class group in false tate curve}
+Let $E$ be an elliptic curve defined over a number field $F$.
+Let $\F_\infty$ be the false Tate curve extension such that primes of bad reduction of $E$ divide $m$.
+Further assume $E[p]\subseteq E(F)$. 
+Then,
+\[
+\abs{r_p\left(R\left(E/F_n\right)\right) - 2 r_p\left(\Cl\left(F_n\right)\right) } = O(1).
+\] 
+\end{Th}
+
+\begin{rem}
+\begin{enumerate}
+\item It should be possible to weaken the hypothesis $E[p]\subseteq E(F)$ slightly, i.e. the above theorem should hold under the weaker hypothesis $E(F)[p]\neq 0$ (see \cite{Kun20_thesis}).
+\item It should be possible to generalize this result to any metabelian extension considered in \cite{Lei17}.
+\end{enumerate}
+\end{rem}
+
+To prove the theorem, we need a series of lemmas.
+In the first lemma we prove that the class group and $S$-class group have the same order of growth in the false Tate curve extension.
+Recall that $S\supseteq S_p \cup S_{\bad} \cup S_m \cup S_\infty$.
+
+\begin{Lemma}
+\label{lemma relate S class group to the regular one}
+Let $\F_\infty/F$ be the false Tate curve extension of $F$. 
+Let $F_n$ be the $n$-th layer of this false Tate curve extension, i.e.
+\[
+F_n = \QQ\left(\mu_{p^n}, \ \sqrt[p^n]{m}\right),
+\]
+where either $p\mid m$ or $m$ is an integer that is not a $p$-th power.
+Then for sufficiently large $n$,
+\[
+\abs{r_p\left(\Cl(F_n)\right) - r_p\left(\Cl_S(F_n)\right) } = O(1).
+\]
+\end{Lemma}
+
+The proof is similar to Lemma~\ref{this lemma shows up again later but with finite decomposition} (see also \cite[Lemma 5.2]{LM15}).
+
+\begin{proof}
+As in the proof of Lemma~\ref{this lemma shows up again later but with finite decomposition}, we obtain
+\[
+\abs{r_p \left(\Cl\left( F_n\right)\right) - r_p \left(\Cl_S\left( F_n\right)\right)} \leq 2\abs{S_f(F_n)} =O(1).
+\]
+By the hypothesis on $m$, the last equality follows from the fact that primes in $S$ are finitely decomposed in the false Tate curve extension $\mathcal{F}_\infty/F$ \cite[Lemmas 3.9]{HV03}. 
+\end{proof}
+% note that here S is independent of the bad primes.
+
+We now define the $p$-fine Selmer group of an elliptic curve.
+Let $S$ be a finite set of primes containing the primes above $p$, the primes of bad reduction of $E$, the primes above $m$, and the Archimedean primes.
+Define
+\[
+R_{S}\left( E[p]/F\right) = \ker\left( H^1\left( G_S\left( F\right), \ E[p]\right) \rightarrow \bigoplus_{v\in S} H^1\left( F_v, \ E[p]\right)\right).
+\]
+The next lemma is the fine Selmer group analogue of Lemma~\ref{lemma relate S class group to the regular one}.
+As will be shown in the proof of Theorem~\ref{thm: relate fsg and class group in false tate curve}, the $p$-fine Selmer group indeed depends on the set $S$.
+\begin{Lemma}
+\label{lemma relate p fsg to the primary one}
+Let $\F_\infty/F$ be the false Tate curve extension of $F$. 
+Let $F_n$ be the $n$-th layer of this false Tate curve extension, i.e.
+\[
+F_n = \QQ\left(\mu_{p^n}, \ \sqrt[p^n]{m}\right).
+\]
+Let $E$ be an elliptic curve defined over $F$ satisfying the additional property that $\displaystyle\prod_{v\in S_{bad}} v$ divides $m$.
+Then for sufficiently large $n$,
+\[
+\abs{r_p\left(R\left(E/F_n\right)\right) - r_p\left(R_S\left(E[p]/F_n\right)\right) } = O(1).
+\]
+\end{Lemma}
+
+\begin{proof}
+Consider the commutative diagram below.
+\begin{align*}
+\begin{matrix}
+0&\rightarrow &R_S(E[p]/F_n)&\rightarrow&H^1\left(G_S\left(F_n\right), \ E[p]\right)&\rightarrow& \bigoplus_{v\in S(F_n)} H^1\left(F_{n,v_n}, \ E[p]\right)
+\cr \hbox{ } &&\Bigg\downarrow s_n &&\Bigg\downarrow f_n &&\Bigg\downarrow \gamma_n
+\cr 0&\rightarrow &R\left(E/F_n\right)[p]&\rightarrow &H^1\left(G_S\left(F_n\right), \  E[p^\infty]\right)[p]&\rightarrow&  \bigoplus_{v_n \in S(F_n)} H^1\left(F_{n,v_n}, \ E[p^\infty]\right)[p] 
+\end{matrix}
+\end{align*}
+Both $f_n$ and $\gamma_n$ are surjective. 
+%think of h_n as the multiplictaion by p map for the module A[p^\infty].. then this is the standard kummer sequence sort of argument that gives selmer groups etc... https://warwick.ac.uk/fac/sci/maths/people/staff/david_loeffler/research/galcoho/selmer_goups_and_kummer_theory.pdf
+The kernel of these maps are
+\begin{align*}
+\ker(f_n) & = E(F_n)[p^\infty]/p\\
+\ker(\gamma_n) & = \bigoplus_{v_n\in S(F_n)} E(F_{n,v_n})[p^\infty]/p.
+\end{align*}
+Observe that $r_p \left( \ker\left(s_n\right)\right) \leq r_p \left( \ker\left(f_n\right)\right) \leq 2$.
+Also, $r_p \left( \ker\left(\gamma_n \right)\right)\leq 2 \abs{ S_f(F_n)}$.
+By assuming that $\displaystyle\prod_{v\in S_{bad}} v$ divides $m$, it is guaranteed that all primes are finitely decomposed in the false Tate curve extension \cite[Lemma 3.11]{HV03}, i.e. for $n$ sufficiently large, $\abs{S_f(F_n)} =O(1)$.
+By an application of the Snake Lemma, it follows that $r_p \left( \coker\left( s_n \right)\right)$ is finite and bounded.
+Applying Lemma~\ref{lemma: repeated use in the following proof} to the map $s_n$ gives the desired result.
+\end{proof}
+
+We are now in a position to prove the theorem.
+\begin{proof}[Proof of Theorem~\ref{thm: relate fsg and class group in false tate curve}]
+Let $S$ be a finite set of primes containing the primes above $p$, the primes above $m$ and the Archimedean primes.
+By hypothesis, it is not needed to assume that $S$ also contains the primes of bad reduction of $E$.
+Since $E[p]\subseteq E(F)$, we have the following isomorphism (as $G_S(F_n)$-modules)
+\[
+E[p]\simeq \ZZ/p\ZZ \times \ZZ/p\ZZ.
+\]
+Since the action of $G_S(F_n)$ is trivial, the following equality holds
+\[
+H^1\left( G_S\left( F_n\right), \ E[p]\right) = \Hom \left( G_S\left( F_n\right), \ E[p]\right). 
+\]
+There are similar identifications for the local cohomology groups.
+It follows that (see \cite[Lemma 3.8]{CS05} or \cite[Chapter I 6.1]{Rub00})
+\[
+R_S\left( E[p]/F_n\right) = \Hom\left( \Cl_S\left( F_n\right), \ E[p]\right) \simeq \left(\Cl_S\left( F_n\right)[p]\right)^2.
+\]
+Thus, $r_p \left( R_S\left( E[p]/F_n\right)\right) = 2 r_p \left( \Cl_S\left( F_n\right)[p]\right)$.
+Combined with Lemmas~\ref{lemma relate S class group to the regular one} and \ref{lemma relate p fsg to the primary one}, the proof of the theorem is complete.
+\end{proof}
+
+
+%-----------------------------------------------------------------------
+\section*{Acknowledgements}
+We thank Kumar Murty for his continued support and all members of the GANITA Lab for listening to the details.
+We extend our gratitude to Prof. Sujatha Ramdorai, Prof. Christian Maire, Prof. Karl Rubin, Meng Fai Lim and Jishnu Ray for answering many questions along the way.
+We thank Prof. Antonio Lei for his comments on an earlier draft of this article. 
+Finally, we thank the referee for a careful reading of the article which helped improve the exposition.
+%-----------------------------------------------------------------------------------------------------------
+
+\bibliographystyle{abbrv}
+\bibliography{references}
+
+\end{document}
+
+In \cite[Corollaries 5.3 and 6.2]{Lei17}, Lei proved the following strengthening of Perbet's theorem.
+\begin{Th}
+Consider the false Tate curve extension $\F_\infty/F$ where the unique prime above $p$ is totally ramified.
+Then,
+\[
+r_p \left( \Cl\left( F_n\right)\right) \leq \tau np^n + O(p^n)
+\]
+where $\tau = \rank_{\Lambda(H)}\left( X\left( \F_\infty/F\right)\right)$ and $H=\Gal(\F_\infty/F_{\cyc})$.
+\end{Th}
+
+\begin{rem}
+Note that $\tau$ exists and is well-defined. 
+Indeed, since $X\left( F_{\cyc}/F\right)$ is a finitely generated $\ZZ_p$-module by the theorem of Ferrero-Washington \cite{FW79}, it follows that $X\left( \F_\infty/F\right)$ is a finitely generated $\Lambda(H)$-module  (see \cite[Theorem 4.11]{CS05}).
+\end{rem}
+
+\begin{Cor}
+Let $F=\QQ(\mu_p)$ and $\F_\infty$ be the false Tate curve extension such that either
+\begin{enumerate}
+\item the unique prime above $p$ in $F$ divides $m$ \textit{or}
+\item $m$ is not a $p$-th power.
+\end{enumerate}  
+Let $E$ be an elliptic curve defined over $F$ such that $E[p]\subseteq E(F)$.
+Further suppose the primes of bad reduction of $E$ divide $m$.
+Then,
+\[
+r_p\left(R\left(E/F_n\right)\right) \leq 2 \tau np^{n} + O \left( p^n\right),
+\] 
+where $\tau = \rank_{\Lambda(H)}\left( X\left( \F_\infty/F\right)\right)$.
+\end{Cor}
+
+
+\begin{Th}
+\label{thm: fsg in CM case}
+Let $G\simeq \ZZ_p^d$ where $d\geq 1$.
+Let $\mathbb{K}$ be an imaginary quadratic field such that $p\neq 2, \ 3$ splits completely.
+Suppose $F_0$ is a totally imaginary field containing $\mathbb{K}$.
+Let $E/F_0$ be an elliptic curve with CM by $\mathcal{O}_{\mathbb{K}}$ such that $E[p]\subseteq E(F_0)$.
+Let $F/F_0$ be a cyclic extension of degree coprime to $p$ such that $F$ is $p$-rational.
+Given any integer $N>0$, there exists a number field $K^\prime/F$ and a $\ZZ_p^d$-extension $\Linf^\prime/K^\prime$ such that $\rho(\Y^\prime) + \mu(\Y^\prime) \geq N$.
+If further, $\Y^\prime$ is $\Lambda(G)$-torsion, then $\mu(\Y^\prime) \geq N$.  
+\end{Th}
+
+\begin{rem}
+\begin{enumerate}
+\item Our hypothesis $E[p]\subseteq E(F_0)$ guarantees that $E$ has good reduction everywhere over $F_0$ \cite{ST68}.
+Since 
+\item 
+\end{enumerate}
+\end{rem}
+
+For CM elliptic curves, the following lemma can be proven by adapting the proof of \cite[Proposition 4.1(ii)]{LM15_CM}.
+It is also proven in \cite[Theorem 5.5]{Kun20}.
+\begin{Lemma}
+\label{fsg and class group}
+Let $\KK$ be an imaginary quadratic field such that $p\neq 2, \ 3$ splits in $\KK$. 
+Let $\FF/\KK$ be a finite Galois extension and $E/\FF$ be an elliptic curve with CM by $\mathcal{O}_{\KK}$ such that $E(\FF)[p]\neq 0$.
+Then,
+\[
+r_p \left( R \left( E/\FF\right)\right) \geq r_p \left( \Cl(\FF)\right) r_p \left( E(\FF)[p]\right) -2.
+\]
+\end{Lemma}
+
+
+\begin{proof}[Sketch of Proof of Theorem~\ref{thm: fsg in CM case}]
+Construct number fields $K/F_0$ and $K^\prime/K$ as in Theorem~\ref{thm of HM} (see Sectione~\ref{Discussion}).
+An application of Lemma~\ref{genus theory} and Lemma~\ref{fsg and class group} (with $\FF = K_n^\prime$) yields,
+\begin{equation}
+r_p \left( R(E/K_n^\prime)\right) \geq [K_n^\prime: K]\left(t-r_2(K^\prime)-1\right)-2.
+\end{equation}
+
+\end{proof}
+
+
+\item Let $\FF$ be a number field.
+It is believed that for all $\ZZ_p$-extensions $\FF_\infty/\FF$, the elliptic curve analogue of the Weak Leopoldt Conjecture (WLC) over $\FF$ holds, i.e. the cohomology group $H^2\left( G_S(\FF_\infty), \ E[p^\infty]\right)$ is trivial.
+This implies $\Y(E/\FF_\infty)$ is $\Lga$-torsion where $\Gamma = \Gal(\FF_\infty/\FF) \simeq \ZZ_p$ (see \cite[Theorem 2.2]{Mat19} or \cite[Lemma 3.1]{CS05} for the case when primes in $S$ are finitely decomposed).
+If $H^2\left( G_S(\FF_\infty), \ E[p^\infty]\right)=0$, it follows that $H^2\left( G_S(\Linf), \ E[p^\infty]\right)=0$ holds for any $p$-adic Lie extension $\Linf/\FF$ that contains $\FF_\infty$.
+In particular, it is expected that $\Y(E/\Linf)$ is always $\Lambda(G)$-torsion where $\Gal(\Linf/F)=G\simeq \ZZ_p^d$ (for some $d\geq 1$).
