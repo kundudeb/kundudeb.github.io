@@ -63,9 +63,11 @@ demographic, and economic boundaries. <br/>
 
 I co-organized a [mini-course on Iwasawa Theory](https://winter19.cms.math.ca/index.php/mini-courses/) at the 2019 CMS Winter Meeting. Here is a [PDF](CMS%20Winter%20meet.pdf).
 
-## Expository Articles and Course Notes
+## Expository Talks, Articles and Course Notes
 
 1. [MSRI Summer School (2017): Automorphic Forms and the Langlands' Program](https://github.com/kundudeb/kundudeb.github.io/blob/master/MSRI_Summer_School__Automorphic_forms_and_the_Langlands_program.pdf)
+2. [Introduction to Iwasawa Theory (of Fine Selmer Groups)]
+(https://youtu.be/CiwR-YcEetI)
 
 ## Travel Calendar
 
