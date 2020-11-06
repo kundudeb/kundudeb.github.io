@@ -38,7 +38,7 @@ This is an important paper but difficult to read. He defines the Coleman $$p$$-a
 
 This paper has a chapter in which slope decomposition of a compact operator on a Banach module is explained very well.
 
-7) V. Pilloni: Formes modulaires surconvergents (French).
+7) V. Pilloni: [Formes modulaires surconvergentes](http://perso.ens-lyon.fr/vincent.pilloni/formes_surc.pdf) (French).
 
 Here the Coleman families of elliptic modular forms are defined geometrically by first defining modular sheaves of arbitrary $$p$$-adic weight.
 
