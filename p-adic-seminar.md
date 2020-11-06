@@ -14,15 +14,15 @@ Here is some material to prepare for the upcoming workshop (suggestions by Prof.
 
 1) J.-P. Serre: A course in Arithmetic. 
 
-This is a good intro. to modular forms for people who didn't see them.
+This is a good introduction to modular forms for people who didn't see them.
 
 2) Swinnerton-Dyer: $$\ell$$-Adic representations and congruences for coefficients of modular forms.
 
 This paper has a chapter in which he defines modular forms modulo $$p$$.
 
-3) J.-P. Serre, Formes modulaires et fonctions zeta $$p$$-adiques (French).
+3) J.-P. Serre: Formes modulaires et fonctions zeta $$p$$-adiques (French).
 
-In this article Serre defines $$p$$-adic modular forms as $$q$$-expansions.
+In this article, Serre defines $$p$$-adic modular forms as $$q$$-expansions.
 
 4) N. Katz: $$p$$-Adic properties of modular forms and modular schemes.
 
@@ -57,3 +57,4 @@ In this paper the general machine of vector bundles with marked sections is cons
 2)  G. Boxer, V. Pilloni: [Higher Hida and Coleman theory for modular curves.](https://arxiv.org/pdf/2002.06845.pdf) 
 
 3) D. Loeffler, V. Pilloni, C. Skinner, S. Zerbes: [Higher Hida theory and $$p$$-adic $$L$$-functions for $$\rm {GSp}_4$$.](https://arxiv.org/pdf/1905.08779.pdf)
+
