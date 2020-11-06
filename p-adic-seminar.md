@@ -46,7 +46,7 @@ Here the Coleman families of elliptic modular forms are defined geometrically by
 
 Here the $$p$$-adic families of Siegel modular cuspforms are defined geometrically.
 
-9) F. Andreatta, A. Iovita, V. Pilloni: $$p$$-Adic variation of automorphic sheaves.
+9) F. Andreatta, A. Iovita, V. Pilloni: [$$p$$-Adic variation of automorphic sheaves.](https://github.com/kundudeb/kundudeb.github.io/blob/master/ICM.pdf)
 
 In this paper the general machine of vector bundles with marked sections is constructed. This machine produces $$p$$-adic families of everything: modular sheaves, modular symbols, de Rham classes.
 
