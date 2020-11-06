@@ -34,7 +34,7 @@ Articles 2, 3, 4 can be found [here](https://github.com/kundudeb/kundudeb.github
 
 This is an important paper but difficult to read. He defines the Coleman $$p$$-adic families of elliptic modular forms and $$q$$-expansions.
 
-6) A. Ash, G. Stevens: $$p$$-Adic Deformation of Arithmetic Cohomology.
+6) A. Ash, G. Stevens: [$$p$$-Adic Deformation of Arithmetic Cohomology.](http://math.bu.edu/people/ghs/preprints/Ash-Stevens-02-08.pdf)
 
 This paper has a chapter in which slope decomposition of a compact operator on a Banach module is explained very well.
 
@@ -46,7 +46,7 @@ Here the Coleman families of elliptic modular forms are defined geometrically by
 
 Here the $$p$$-adic families of Siegel modular cuspforms are defined geometrically.
 
-9) F. Andreatta, A. Iovita, V. Pilloni: [$$p$$-Adic variation of automorphic sheaves.](http://math.bu.edu/people/ghs/preprints/Ash-Stevens-02-08.pdf)
+9) F. Andreatta, A. Iovita, V. Pilloni: $$p$$-Adic variation of automorphic sheaves.
 
 In this paper the general machine of vector bundles with marked sections is constructed. This machine produces $$p$$-adic families of everything: modular sheaves, modular symbols, de Rham classes.
 
