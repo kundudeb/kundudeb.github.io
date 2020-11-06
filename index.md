@@ -63,6 +63,8 @@ demographic, and economic boundaries. <br/>
 
 I co-organized a [mini-course on Iwasawa Theory](https://winter19.cms.math.ca/index.php/mini-courses/) at the 2019 CMS Winter Meeting. Here is a [PDF](CMS%20Winter%20meet.pdf).
 
+You can click [here](https://kundudeb.github.io/p-adic-seminar.html) to access the homepage of the seminar series meant to prepare participants for the workshop on Higher Coleman Theory and its Applications to be held at the CRM (December 7-11, 2020).
+
 ## Expository Talks, Articles and Course Notes
 
 1. [MSRI Summer School (2017): Automorphic Forms and the Langlands' Program](https://github.com/kundudeb/kundudeb.github.io/blob/master/MSRI_Summer_School__Automorphic_forms_and_the_Langlands_program.pdf)
