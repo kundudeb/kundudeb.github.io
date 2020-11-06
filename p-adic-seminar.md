@@ -40,7 +40,7 @@ This paper has a chapter in which slope decomposition of a compact operator on a
 
 Here the Coleman families of elliptic modular forms are defined geometrically by first defining modular sheaves of arbitrary $$p$$-adic weight.
 
-8) F. Andreatta, A. Iovita, V. Pilloni: $$p$$-Adic families of Siegel modular cuspforms.
+8) F. Andreatta, A. Iovita, V. Pilloni: [$$p$$-Adic families of Siegel modular cuspforms.](https://github.com/kundudeb/kundudeb.github.io/blob/master/p%20adic%20families%20of%20Siegel%20modular%20cuspforms.pdf)
 
 Here the $$p$$-adic families of Siegel modular cuspforms are defined geometrically.
 
