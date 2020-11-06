@@ -2,8 +2,6 @@
 
 In June 2020, I earned my Ph.D in mathematics at the University of Toronto. My supervisor was [Prof. Kumar Murty](http://murty.math.toronto.edu/) and my co-advisor was [Prof R. Sujatha](https://www.math.ubc.ca/~sujatha/). In Fall 2020, I will be at CRM Montreal attending the [Thematic Program on Cohomology in Arithmetic](http://www.crm.umontreal.ca/2020/Nombres2020/index_e.php). Starting January 2021, I will be a [PIMS Postdoctoral Fellow](https://www.pims.math.ca/scientific/postdoctoral/postdoctoral-fellows#pdf-2020) at [UBC, Vancouver](https://www.math.ubc.ca/Research/NumberTheory/index.shtml?overview).
 
-I organize the weekly [GANITA seminars](http://www.fields.utoronto.ca/activities/20-21/ganita-seminar). If you are a number theorist ~~wandering in the Toronto region~~, eager to interact with others of your kind online, come listen to us. Or better yet, give a talk!
-
 My curriculum vitae can be found here: [CV](cv.pdf).
 
 ## Research
@@ -60,6 +58,8 @@ demographic, and economic boundaries. <br/>
 4. Every student deserves to be treated with dignity and respect.
 
 ## Organization
+
+While I was a graduate student, I organized the weekly [GANITA seminars](http://www.fields.utoronto.ca/activities/20-21/ganita-seminar). Unfortunately, I can no longer attend these seminars regularly. If you are a number theorist ~~wandering in the Toronto region~~, eager to interact with others of your kind online, you are welcome to participate. Or better yet, give a talk!
 
 I co-organized a [mini-course on Iwasawa Theory](https://winter19.cms.math.ca/index.php/mini-courses/) at the 2019 CMS Winter Meeting. Here is a [PDF](CMS%20Winter%20meet.pdf).
 
