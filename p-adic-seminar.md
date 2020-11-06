@@ -8,7 +8,7 @@ filename: p-adic-seminar.md
 
 Welcome! This site is the homepage of the seminar series meant to prepare participants for the workshop on [Higher Coleman Theory and its Applications](http://www.crm.umontreal.ca/2020/Coleman20/index_e.php) to be held at the CRM (December 7-11, 2020).
 
-Here is some material to prepare for the upcoming workshop:
+Here is some material to prepare for the upcoming workshop (suggestions by Prof. Adrian Iovita):
 
 ## Background.
 
