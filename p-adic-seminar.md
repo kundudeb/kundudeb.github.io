@@ -58,7 +58,7 @@ In this paper the general machine of vector bundles with marked sections is cons
 
 3) D. Loeffler, V. Pilloni, C. Skinner, S. Zerbes: [Higher Hida theory and $$p$$-adic $$L$$-functions for $$\rm {GSp}_4$$.](https://arxiv.org/pdf/1905.08779.pdf)
 
-## Seminars
+## Seminar Schedule
 
 | Date/Time        |      Speaker  | Topic |
 |:----------------:|:-------------:|:-----:|
