@@ -58,3 +58,11 @@ In this paper the general machine of vector bundles with marked sections is cons
 
 3) D. Loeffler, V. Pilloni, C. Skinner, S. Zerbes: [Higher Hida theory and $$p$$-adic $$L$$-functions for $$\rm {GSp}_4$$.](https://arxiv.org/pdf/1905.08779.pdf)
 
+## Seminars
+
+| Date/Time|      Speaker  | Topic |
+|:--------:|:-------------:|:-----:|
+| 12 Nov, 10-11:30 | Francesc | Modular forms $$\pmod p$$ and $$p$$-adic modular forms. Hecke operators. |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
