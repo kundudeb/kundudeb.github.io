@@ -59,12 +59,14 @@ In this paper the general machine of vector bundles with marked sections is cons
 3) D. Loeffler, V. Pilloni, C. Skinner, S. Zerbes: [Higher Hida theory and $$p$$-adic $$L$$-functions for $$\rm {GSp}_4$$.](https://arxiv.org/pdf/1905.08779.pdf)
 
 ## Seminar Schedule
+All talks will be in room 5340 (the amphitheater of 5-th floor. These talks will not be recorded) 
 
 | Date/Time        |      Speaker  | Topic |
 |:----------------:|:-------------:|:-----:|
 | 12 Nov, 10-11:30 | Francesc | Modular forms $$\pmod p$$ and $$p$$-adic modular forms. Hecke operators. |
 | 12 Nov, 13:30-15 |    Giovanni   |    Katz modular forms. $$p$$-Adic modular forms viewed geometrically. Canonical subgroups of supersingular elliptic curves |
-| TBA, 10-11:30    | Adrian |  Coleman families. Deformation of modular sheaves and Coleman families seen geometrically. |
+| 19 Nov, 14-15:30    | Adrian |  Coleman families. Deformation of modular sheaves and Coleman families seen geometrically. |
 | 26 Nov, 10-11:30 | Antonio C. | Cohomology of coherent sheaves with support in a closed, on schemes and adic spaces. |
 | 26 Nov, 13:30-15 |  TBA   |  Eichler-Shimura isomorphisms. |
+| 3 Dec, 10-11:30 |  Henri   |  Euler systems and $$p$$-adic $$L$$-functions. |
 
