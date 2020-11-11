@@ -27,7 +27,7 @@ _Accepted for publication (Canadian Mathematics Bulletin)._
 3. [Growth of $$p$$-Fine Selmer Groups and $$p$$-Fine Shafarevich-Tate Group in $$\mathbb{Z}/p\mathbb{Z}$$ Extensions](growth%20in%20degree%20p%20extensions%20new%20version.pdf). <br/>
 _Accepted for publication (Journal of the Ramanujan Math Society)._
 
-4. [Growth of (Fine) Selmer Groups in Uniform pro-$$p$$ Extensions](https://github.com/kundudeb/kundudeb.github.io/blob/master/Uniform%20Pro-p%20Extensions.pdf). <br/>
+4. [Growth of (Fine) Selmer Groups in Uniform pro-$$p$$ Extensions](Uniform%20Pro-p%20Extensions.pdf). <br/>
 _Accepted for publication (Annales mathématiques du Québec)_
 
 ## Teaching
