@@ -63,7 +63,7 @@ All talks will be in room 5340 (the amphitheater of 5-th floor. These talks will
 
 | Date/Time        |      Speaker  | Topic |
 |:----------------:|:-------------:|:-----:|
-| 12 Nov, 10-11:30 | Francesc | Modular forms $$\pmod p$$ and $$p$$-adic modular forms. Hecke operators. |
+| 12 Nov, 10-11:30 | Francesc | [Modular forms $$\pmod p$$ and $$p$$-adic modular forms. Hecke operators.](Francesc.pdf) |
 | 12 Nov, 13:30-15 |    Giovanni   |    Katz modular forms. $$p$$-Adic modular forms viewed geometrically. Canonical subgroups of supersingular elliptic curves |
 | 19 Nov, 14-15:30    | Adrian |  Coleman families. Deformation of modular sheaves and Coleman families seen geometrically. |
 | 26 Nov, 10-11:30 | Antonio C. | Cohomology of coherent sheaves with support in a closed, on schemes and adic spaces. |
