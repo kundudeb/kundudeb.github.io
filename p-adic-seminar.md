@@ -28,9 +28,9 @@ In this article, Serre defines $$p$$-adic modular forms as $$q$$-expansions.
 
 This is an important, but long paper: he defines overconvergent modular forms, he constructs canonical subgroups of elliptic curves, finally she defines geometrically the $$p$$-adic modular forms of Serre.
 
-Articles 2, 3, 4 can be found [here](https://github.com/kundudeb/kundudeb.github.io/blob/master/1973_Book_ModularFunctionsOfOneVariableI.pdf)
+Articles 2, 3, 4 can be found [here](1973_Book_ModularFunctionsOfOneVariableI.pdf)
 
-5) R. Coleman: [$$p$$-Adic Banach spaces and families of modular forms.](https://github.com/kundudeb/kundudeb.github.io/blob/master/1997_Coleman.pdf) 
+5) R. Coleman: [$$p$$-Adic Banach spaces and families of modular forms.](1997_Coleman.pdf) 
 
 This is an important paper but difficult to read. He defines the Coleman $$p$$-adic families of elliptic modular forms and $$q$$-expansions.
 
@@ -42,11 +42,11 @@ This paper has a chapter in which slope decomposition of a compact operator on a
 
 Here the Coleman families of elliptic modular forms are defined geometrically by first defining modular sheaves of arbitrary $$p$$-adic weight.
 
-8) F. Andreatta, A. Iovita, V. Pilloni: [$$p$$-Adic families of Siegel modular cuspforms.](https://github.com/kundudeb/kundudeb.github.io/blob/master/p%20adic%20families%20of%20Siegel%20modular%20cuspforms.pdf)
+8) F. Andreatta, A. Iovita, V. Pilloni: [$$p$$-Adic families of Siegel modular cuspforms.](p%20adic%20families%20of%20Siegel%20modular%20cuspforms.pdf)
 
 Here the $$p$$-adic families of Siegel modular cuspforms are defined geometrically.
 
-9) F. Andreatta, A. Iovita, V. Pilloni: [$$p$$-Adic variation of automorphic sheaves.](https://github.com/kundudeb/kundudeb.github.io/blob/master/ICM.pdf)
+9) F. Andreatta, A. Iovita, V. Pilloni: [$$p$$-Adic variation of automorphic sheaves.](ICM.pdf)
 
 In this paper the general machine of vector bundles with marked sections is constructed. This machine produces $$p$$-adic families of everything: modular sheaves, modular symbols, de Rham classes.
 
