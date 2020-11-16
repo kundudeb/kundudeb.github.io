@@ -22,7 +22,7 @@ To know more about my research you can look at my [research statement](Research%
 [arXiv:1809.09167](https://arxiv.org/pdf/1809.09167.pdf) _Submitted._
 
 2. [Growth of Fine Selmer Groups in Infinite Towers](Growth%20of%20ranks%20of%20Fine%20Selmer%20Groups%20in%20Infinite%20Towers.pdf). <br/>
-_Accepted for publication (Canadian Mathematics Bulletin)._ 
+_Canadian Mathematics Bulletin, Volume 63 / Issue 4. [Journal version](http://dx.doi.org/10.4153/S0008439520000168)._ 
 
 3. [Growth of $$p$$-Fine Selmer Groups and $$p$$-Fine Shafarevich-Tate Group in $$\mathbb{Z}/p\mathbb{Z}$$ Extensions](growth%20in%20degree%20p%20extensions%20new%20version.pdf). <br/>
 _Accepted for publication (Journal of the Ramanujan Math Society)._
