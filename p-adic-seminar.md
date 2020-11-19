@@ -62,7 +62,7 @@ In this paper the general machine of vector bundles with marked sections is cons
 All talks will be in room 5340 (the amphitheater of 5-th floor. These talks will not be recorded) 
 
 | Date/Time        |      Speaker  | Topic |
-|:----------------:|:-------------:|:-----:|
+|:----------------:|:-------------:|:-----|
 | 12 Nov, 10-11:30 | Francesc | [Modular forms $$\pmod p$$ and $$p$$-adic modular forms. Hecke operators.](Francesc.pdf) |
 | 12 Nov, 13:30-15 |    Giovanni   | [Katz modular forms. $$p$$-Adic modular forms viewed geometrically. Canonical subgroups of supersingular elliptic curves.](Giovanni.pdf)<br/>[(Supplementary material)](https://www.math.ias.edu/~vonk/documents/Bordeaux.pdf) |
 | 19 Nov, 10-11:30    | Adrian |  Coleman families. Deformation of modular sheaves and Coleman families seen geometrically. |
