@@ -70,4 +70,4 @@ All talks will be in room 5340 (the amphitheater of 5-th floor. These talks will
 | 26 Nov, 13:30-15 |  Ju-Feng   |  Eichler-Shimura isomorphisms. |
 | 3 Dec, 14-15:30 |  Henri   |  Euler systems and $$p$$-adic $$L$$-functions. |
 
-Disclaimer: The attached hand-written notes were by your truly and may not be 100% accurate.
+Disclaimer: The attached hand-written notes were taken by yours truly during the lecture and may not be fully accurate.
