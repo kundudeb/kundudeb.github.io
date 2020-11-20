@@ -18,8 +18,8 @@ To know more about my research you can look at my [research statement](Research%
 
 ## Publications and Preprints
 
-1. Perfect Powers that are Sums of Squares of an Arithmetic Progression (with Vandita Patel).<br/>
-[arXiv:1809.09167](https://arxiv.org/pdf/1809.09167.pdf) _Submitted._
+1. [Perfect Powers that are Sums of Squares of an Arithmetic Progression](https://arxiv.org/pdf/1809.09167.pdf) (with Vandita Patel).<br/>
+_Accepted for publication (Rocky Mountain Journal of Mathematics)_ 
 
 2. [Growth of Fine Selmer Groups in Infinite Towers](Growth%20of%20ranks%20of%20Fine%20Selmer%20Groups%20in%20Infinite%20Towers.pdf). <br/>
 _Canadian Mathematics Bulletin (2020) Volume 63 / Issue 4 pp. 921-936. [Journal version](http://dx.doi.org/10.4153/S0008439520000168)._ 
