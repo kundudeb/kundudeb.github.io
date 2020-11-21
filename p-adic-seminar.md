@@ -54,9 +54,11 @@ In this paper the general machine of vector bundles with marked sections is cons
 
 1) V. Pilloni: [Higher coherent cohomology and $$p$$-adic modular forms of singular weight.](https://hal.archives-ouvertes.fr/hal-01393374/document)
 
-2)  G. Boxer, V. Pilloni: [Higher Hida and Coleman theory for modular curves.](https://arxiv.org/pdf/2002.06845.pdf) 
+2) G. Boxer, V. Pilloni: [Higher Hida and Coleman theory for modular curves.](https://arxiv.org/pdf/2002.06845.pdf) 
 
 3) D. Loeffler, V. Pilloni, C. Skinner, S. Zerbes: [Higher Hida theory and $$p$$-adic $$L$$-functions for $$\rm {GSp}_4$$.](https://arxiv.org/pdf/1905.08779.pdf)
+
+4) G. Boxer, V. Pilloni: [Higher Coleman Theory](HigherColeman.pdf) 
 
 ## Seminar Schedule
 All talks will be in room 5340 (the amphitheater of 5-th floor. These talks will not be recorded) 
