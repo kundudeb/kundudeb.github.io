@@ -69,7 +69,7 @@ All talks will be in room 5340 (the amphitheater of 5-th floor. These talks will
 | 12 Nov, 13:30-15 |    Giovanni   | [Katz modular forms. $$p$$-Adic modular forms viewed geometrically. Canonical subgroups of supersingular elliptic curves.](Giovanni.pdf)<br/>[Some supplementary material](https://www.math.ias.edu/~vonk/documents/Bordeaux.pdf) |
 | 19 Nov, 10-11:30    | Adrian |  [Coleman families. Deformation of modular sheaves and Coleman families seen geometrically.](Adrian.pdf) |
 | 26 Nov, 10-11:30 | Antonio C. | [Cohomology of coherent sheaves with support in a closed, on schemes and adic spaces.](Antonio.pdf) |
-| 26 Nov, 13:30-15 |  Ju-Feng   |  [Overconvergent Eichler-Shimura.](Ju%Feng.pdf) |
+| 26 Nov, 13:30-15 |  Ju-Feng   |  [Overconvergent Eichler-Shimura.](Ju%20Feng.pdf) |
 | 3 Dec, 14-15:30 |  Henri   |  Euler systems and $$p$$-adic $$L$$-functions. |
 
 Disclaimer: The attached hand-written notes were taken by yours truly during the lecture and may not be fully accurate.
