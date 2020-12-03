@@ -70,6 +70,6 @@ All talks will be in room 5340 (the amphitheater of 5-th floor. These talks will
 | 19 Nov, 10-11:30    | Adrian |  [Coleman families. Deformation of modular sheaves and Coleman families seen geometrically.](Adrian.pdf) |
 | 26 Nov, 10-11:30 | Antonio C. | [Cohomology of coherent sheaves with support in a closed, on schemes and adic spaces.](Antonio.pdf) |
 | 26 Nov, 13:30-15 |  Ju-Feng   |  [Overconvergent Eichler-Shimura.](Ju%20Feng.pdf) |
-| 3 Dec, 14-15:30 |  Henri   |  Euler systems and $$p$$-adic $$L$$-functions. |
+| 3 Dec, 14-15:30 |  Henri   |  [Euler systems and $$p$$-adic $$L$$-functions.](Henri.pdf) <br/> [Some Supplementary material](https://www.math.mcgill.ca/darmon/pub/Articles/Research/61.Durham-ES/durham.pdf) |
 
 Disclaimer: The attached hand-written notes were taken by yours truly during the lecture and may not be fully accurate.
