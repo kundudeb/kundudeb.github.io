@@ -30,6 +30,9 @@ _Accepted for publication (Journal of the Ramanujan Math Society)._
 4. [Growth of (Fine) Selmer Groups in Uniform pro-$$p$$ Extensions](Uniform%20Pro-p%20Extensions.pdf). <br/>
 _Accepted for publication (Annales mathématiques du Québec)_
 
+5. Analogue of Kida's Formula for Fine Selmer Groups. <br/>
+_Preprint Available. Submitted._
+
 ## Teaching
 
 At the University of Toronto, I have taught Calculus (single and multi-variable) and first year Linear Algebra. 
