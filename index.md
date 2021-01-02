@@ -1,6 +1,6 @@
 ## About Me
 
-In June 2020, I earned my Ph.D in mathematics at the University of Toronto. My supervisor was [Prof. Kumar Murty](http://murty.math.toronto.edu/) and my co-advisor was [Prof R. Sujatha](https://www.math.ubc.ca/~sujatha/). In Fall 2020, I will be at CRM Montreal attending the [Thematic Program on Cohomology in Arithmetic](http://www.crm.umontreal.ca/2020/Nombres2020/index_e.php). Starting January 2021, I will be a [PIMS Postdoctoral Fellow](https://www.pims.math.ca/scientific/postdoctoral/postdoctoral-fellows#pdf-2020) at [UBC, Vancouver](https://www.math.ubc.ca/Research/NumberTheory/index.shtml?overview).
+In June 2020, I earned my Ph.D in mathematics at the University of Toronto. My supervisor was [Prof. Kumar Murty](http://murty.math.toronto.edu/) and my co-advisor was [Prof R. Sujatha](https://www.math.ubc.ca/~sujatha/). In Fall 2020, I was at CRM Montreal attending the [Thematic Program on Cohomology in Arithmetic](http://www.crm.umontreal.ca/2020/Nombres2020/index_e.php). Starting January 2021, I am a [PIMS Postdoctoral Fellow](https://www.pims.math.ca/scientific/postdoctoral/postdoctoral-fellows#pdf-2020) at [UBC, Vancouver](https://www.math.ubc.ca/Research/NumberTheory/index.shtml?overview).
 
 My curriculum vitae can be found here: [CV](cv.pdf).
 
@@ -66,7 +66,7 @@ While I was a graduate student, I organized the weekly [GANITA seminars](http://
 
 I co-organized a [mini-course on Iwasawa Theory](https://winter19.cms.math.ca/index.php/mini-courses/) at the 2019 CMS Winter Meeting. Here is a [PDF](CMS%20Winter%20meet.pdf).
 
-You can click [here](https://kundudeb.github.io/p-adic-seminar.html) to access the homepage of the seminar series meant to prepare participants for the workshop on Higher Coleman Theory and its Applications to be held at the CRM (December 7-11, 2020).
+You can click [here](https://kundudeb.github.io/p-adic-seminar.html) to access the homepage of the seminar series meant to prepare participants for the workshop on Higher Coleman Theory and its Applications which was held at the CRM (December 7-11, 2020).
 
 ## Expository Talks, Articles and Course Notes
 
