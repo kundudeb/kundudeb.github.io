@@ -31,7 +31,7 @@ _Accepted for publication (Journal of the Ramanujan Math Society)._
 _Accepted for publication (Annales mathématiques du Québec)_
 
 5. [Analogue of Kida's Formula for Fine Selmer Groups](Kida's%20Formula%20for%20Fine%20Selmer%20Groups.pdf). <br/>
-_Accepted for publication (Journal of Number Theory)_
+_Accepted for publication (Journal of Number Theory) [Journal version](https://www.sciencedirect.com/science/article/pii/S0022314X21000160)._
 
 ## Teaching
 
