@@ -18,22 +18,22 @@ To know more about my research you can look at my [research statement](Research%
 
 ## Publications and Preprints
 
-6. [Statistics for Iwasawa Invariants of Elliptic Curves](https://arxiv.org/pdf/2102.02411.pdf) (with Anwesh Ray). <br/>
+1. [Statistics for Iwasawa Invariants of Elliptic Curves](https://arxiv.org/pdf/2102.02411.pdf) (with Anwesh Ray). <br/>
 _Preprint available_
 
-5. [Analogue of Kida's Formula for Fine Selmer Groups](Kida's%20Formula%20for%20Fine%20Selmer%20Groups.pdf). <br/>
+2. [Analogue of Kida's Formula for Fine Selmer Groups](Kida's%20Formula%20for%20Fine%20Selmer%20Groups.pdf). <br/>
 _Accepted for publication (Journal of Number Theory) [Journal version](https://www.sciencedirect.com/science/article/pii/S0022314X21000160)._
 
-4. [Perfect Powers that are Sums of Squares of an Arithmetic Progression](https://arxiv.org/pdf/1809.09167.pdf) (with Vandita Patel).<br/>
+3. [Perfect Powers that are Sums of Squares of an Arithmetic Progression](https://arxiv.org/pdf/1809.09167.pdf) (with Vandita Patel).<br/>
 _Accepted for publication (Rocky Mountain Journal of Mathematics)_ 
 
-3. [Growth of (Fine) Selmer Groups in Uniform pro-$$p$$ Extensions](Uniform%20Pro-p%20Extensions.pdf). <br/>
+4. [Growth of (Fine) Selmer Groups in Uniform pro-$$p$$ Extensions](Uniform%20Pro-p%20Extensions.pdf). <br/>
 _Accepted for publication (Annales mathématiques du Québec)_
 
-2. [Growth of $$p$$-Fine Selmer Groups and $$p$$-Fine Shafarevich-Tate Group in $$\mathbb{Z}/p\mathbb{Z}$$ Extensions](growth%20in%20degree%20p%20extensions%20new%20version.pdf). <br/>
+5. [Growth of $$p$$-Fine Selmer Groups and $$p$$-Fine Shafarevich-Tate Group in $$\mathbb{Z}/p\mathbb{Z}$$ Extensions](growth%20in%20degree%20p%20extensions%20new%20version.pdf). <br/>
 _Accepted for publication (Journal of the Ramanujan Math Society)._
 
-1. [Growth of Fine Selmer Groups in Infinite Towers](Growth%20of%20ranks%20of%20Fine%20Selmer%20Groups%20in%20Infinite%20Towers.pdf). <br/>
+6. [Growth of Fine Selmer Groups in Infinite Towers](Growth%20of%20ranks%20of%20Fine%20Selmer%20Groups%20in%20Infinite%20Towers.pdf). <br/>
 _Canadian Mathematics Bulletin (2020) Volume 63 / Issue 4 pp. 921-936. [Journal version](http://dx.doi.org/10.4153/S0008439520000168)._ 
 
 ## Teaching
