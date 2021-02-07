@@ -42,7 +42,7 @@ _Canadian Mathematics Bulletin (2020) Volume 63 / Issue 4 pp. 921-936. [Journal 
 ## Teaching
 
 I have taught Calculus (single and multi-variable) and first year Linear Algebra at the University of Toronto and UBC (Vancouver). 
-Over the years, I have also been a Teaching Assistant for several courses. 
+While I was a graduate student at the University of Toronto, I have also been a Teaching Assistant for several courses. 
 
 To know about my teaching philosophy you can read my [teaching statement](teaching%20statement.pdf).  
 
