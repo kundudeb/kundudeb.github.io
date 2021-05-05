@@ -22,7 +22,7 @@ To know more about my research you can look at my [research statement](Research%
 ## Publications and Preprints
 
 1. [Statistics for Iwasawa Invariants of Elliptic Curves](https://arxiv.org/pdf/2102.02411.pdf) (with Anwesh Ray). <br/>
-_Preprint available_
+_Accepted for publication (Transactions of the AMS)_
 
 2. [Analogue of Kida's Formula for Fine Selmer Groups](Kida's%20Formula%20for%20Fine%20Selmer%20Groups.pdf). <br/>
 _Accepted for publication (Journal of Number Theory) [Journal version](https://www.sciencedirect.com/science/article/pii/S0022314X21000160)._
