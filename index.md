@@ -34,7 +34,7 @@ _Accepted for publication (Rocky Mountain Journal of Mathematics)_
 _Accepted for publication (Annales mathématiques du Québec)_
 
 5. [Growth of $$p$$-Fine Selmer Groups and $$p$$-Fine Shafarevich-Tate Group in $$\mathbb{Z}/p\mathbb{Z}$$ Extensions](growth%20in%20degree%20p%20extensions%20new%20version.pdf). <br/>
-_Accepted for publication (Journal of the Ramanujan Math Society)._
+_Journal of the Ramanujan Math Society (2021) Volume 36, No. 1._
 
 6. [Growth of Fine Selmer Groups in Infinite Towers](Growth%20of%20ranks%20of%20Fine%20Selmer%20Groups%20in%20Infinite%20Towers.pdf). <br/>
 _Canadian Mathematics Bulletin (2020) Volume 63 / Issue 4 pp. 921-936. [Journal version](http://dx.doi.org/10.4153/S0008439520000168)._ 
