@@ -28,7 +28,7 @@ _Submitted_
 _Accepted for publication (Transactions of the AMS)_
 
 3. [Analogue of Kida's Formula for Fine Selmer Groups](Kida's%20Formula%20for%20Fine%20Selmer%20Groups.pdf). <br/>
-_Accepted for publication (Journal of Number Theory) [Journal version](https://www.sciencedirect.com/science/article/pii/S0022314X21000160)._
+_Journal of Number Theory 222 (2021): 249-261. [Journal version](https://www.sciencedirect.com/science/article/pii/S0022314X21000160)._
 
 4. [Perfect Powers that are Sums of Squares of an Arithmetic Progression](https://arxiv.org/pdf/1809.09167.pdf) (with Vandita Patel).<br/>
 _Accepted for publication (Rocky Mountain Journal of Mathematics)_ 
