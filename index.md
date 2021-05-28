@@ -8,11 +8,11 @@ My curriculum vitae can be found here: [CV](cv.pdf).
 
 My research interests include Diophantine equations, Iwasawa theory, and Beyond Endoscopy. 
 
-For my PhD thesis, my focus is to understand growth patterns of fine Selmer groups in infinite towers of number fields.
-In the process, I have been able to provide non-trivial evidence for Coates-Sujatha Conjecture A. I have worked on questions in non-commutative Iwasawa theory and have provided evidence for Coates-Sujatha pseudo-nullity conjecture.
+For my PhD thesis, I studied growth patterns of fine Selmer groups in infinite towers of number fields.
+In the process, I provided non-trivial evidence for Coates-Sujatha Conjecture A. I have also worked on questions in non-commutative Iwasawa theory and have provided evidence for Coates-Sujatha pseudo-nullity conjecture.
 
 Recently, I have started studying questions which lie at the intersection of Iwasawa theory and arithmetic statistics. 
-In particular, I would like to understand the average behaviour of the Iwasawa invariants for class groups and Selmer groups of elliptic curves.
+In particular, a long-term goal is to understand the average behaviour of the Iwasawa invariants for class groups and Selmer groups of elliptic curves.
 
 I am also interested in Langlands' Functoriality Conjecture and related problems in the Langlands program 
 like the Langlands' Beyond Endoscopy idea.
