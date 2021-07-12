@@ -22,7 +22,7 @@ To know more about my research you can look at my [research statement](Research%
 ## Publications and Preprints
 
 1. [Anticyclotomic $$\mu$$-Invariants of Residually Reducible Galois Representations](https://arxiv.org/pdf/2103.02092.pdf) (with Anwesh Ray). <br/>
-_Submitted_
+_Accepted for publication (Journal of Number Theory)_
 
 2. [Statistics for Iwasawa Invariants of Elliptic Curves](https://arxiv.org/pdf/2102.02411.pdf) (with Anwesh Ray). <br/>
 _Accepted for publication (Transactions of the AMS)_
