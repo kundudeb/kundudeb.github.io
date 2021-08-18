@@ -31,7 +31,7 @@ _Accepted for publication (Transactions of the AMS)_
 _Journal of Number Theory 222 (2021): 249-261. [Journal version](https://www.sciencedirect.com/science/article/pii/S0022314X21000160)._
 
 4. [Perfect Powers that are Sums of Squares of an Arithmetic Progression](https://arxiv.org/pdf/1809.09167.pdf) (with Vandita Patel).<br/>
-_Rocky Mountain Journal of Mathematics (2021) Volume 51 / No. 3 pp. 933-949._ 
+_Rocky Mountain Journal of Mathematics (2021) Volume 51 / No. 3 pp. 933-949. [Journal version](rmj-v51-n3-p12-s.pdf)_ 
 
 5. [Growth of (Fine) Selmer Groups in Uniform pro-$$p$$ Extensions](Uniform%20Pro-p%20Extensions.pdf). <br/>
 _Accepted for publication (Annales mathématiques du Québec)_
