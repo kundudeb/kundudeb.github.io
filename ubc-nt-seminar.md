@@ -1,6 +1,6 @@
 ---
 title: UBC-Number Theory Seminar
-layout: empty
+layout: ubc
 filename: ubc-nt-seminar.md
 --- 
 
