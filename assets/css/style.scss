@@ -12,3 +12,28 @@ section#content
 {
   max-width: 50%;
 }
+
+html, body
+{
+  height: 100%;
+}
+
+section#content
+{
+  min-height: 100%;
+  /* equal to footer height */
+  margin-bottom: -50px; 
+}
+
+section#content:after
+{
+  content: "";
+  display: block;
+}
+
+footer, section#content:after
+{
+  height: 50px;
+  font-size: 70%;
+  text-align: center;
+}
