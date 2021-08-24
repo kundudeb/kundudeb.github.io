@@ -8,7 +8,7 @@ filename: ubc-nt-seminar.md
 
 Welcome! This site is the homepage of the UBC Number Theory Seminar.
 
-Starting _September 15, 2021_, the weekly seminar will be held online (via Zoom) on _Wednesdays 3:00PM-4:00PM_.
+Starting _September 15, 2021_, the weekly seminar will be held online (via Zoom) on _Wednesday_ at _3:00PM_.
 This will be followed by informal discussion with the speaker.
 If you happen to be on campus, you are also welcome to attend the seminar in _Room 126_, which can accommodate approximately 18 people with space.
 
