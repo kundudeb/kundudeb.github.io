@@ -23,4 +23,4 @@ To register for this seminar series please click on the following link: [Registr
 |13 Oct| 3-4 PM| [Anwesh Ray](https://www.anweshray.com/)| UBC | TBA |
 |20 Oct| 3-4 PM| [Soumya Sankar](https://sites.google.com/site/soumya3sankar/)| Ohio State University | TBA |
 
-If you have chanced upon this page and would like to give a talk _or_ if you have any questions, please feel free to contact <a href="mailto:anweshray@math.ubc.ca">Anwesh Ray</a> or <a href="mailto:dkundu@math.ubc.ca">Debanjana Kundu</a>.
+If you have any questions, please feel free to contact <a href="mailto:anweshray@math.ubc.ca">Anwesh Ray</a> or <a href="mailto:dkundu@math.ubc.ca">Debanjana Kundu</a>.
