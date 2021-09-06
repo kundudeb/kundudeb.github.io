@@ -26,7 +26,7 @@ To register for this seminar series please click on the following link: [Registr
 |3 Nov| 3-4 PM| TBA | TBA  | TBA |
 |10 Nov| 3-4 PM| No seminar | (Midterm Break)  | -- |
 |17 Nov| 3-4 PM| [Chi Hoi (Kyle) Yip](https://sites.google.com/view/kyle-chi-hoi-yip/home) | UBC  | TBA |
-|24 Nov| 3-4 PM| TBA | TBA  | TBA |
+|24 Nov| 3-4 PM| [Ashay Burungale](https://sites.google.com/view/ashayk/home) | Caltech  | TBA |
 |1 Dec| 3-4 PM| [Ellen Eischen](http://www.elleneischen.com/)| U Oregon | TBA |
 |8 Dec| 3-4 PM| TBA | TBA  | TBA |
 |15 Dec| 3-4 PM| TBA | TBA  | TBA |
