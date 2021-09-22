@@ -23,7 +23,7 @@ To register for this seminar series please click on the following link: [Registr
 |13 Oct| 3-4 PM| [Anwesh Ray](https://www.anweshray.com/)| UBC | TBA |
 |20 Oct| 3-4 PM| [Soumya Sankar](https://sites.google.com/site/soumya3sankar/)| Ohio State University | TBA |
 |27 Oct| 3-4 PM| [Artane Siad](https://www.math.toronto.edu/ajsiad/)| IAS/Princeton  | TBA |
-|3 Nov| 3-4 PM| TBA | TBA  | TBA |
+|3 Nov| 3-4 PM| [Natalia García-Fritz](http://www.mat.uc.cl/~natalia.garcia/) | TBA  | TBA |
 |10 Nov| 3-4 PM| No seminar | (Midterm Break)  | -- |
 |17 Nov| 3-4 PM| [Chi Hoi (Kyle) Yip](https://sites.google.com/view/kyle-chi-hoi-yip/home) | UBC  | TBA |
 |24 Nov| 3-4 PM| [Ashay Burungale](https://sites.google.com/view/ashayk/home) | Caltech/ UT Austin  | TBA |
