@@ -20,10 +20,10 @@ To register for this seminar series please click on the following link: [Registr
 |22 Sep| 3-4 PM| [Naomi Sweeting](https://www.math.harvard.edu/people/sweeting-naomi/)|Harvard | [Heegner points and patched Euler systems in anticyclotomic Iwasawa theory](Naomi.pdf) |
 |29 Sep| 3-4 PM| [Francesc Castella](https://web.math.ucsb.edu/~castella/) | UC Santa Barbara | [Heegner points and generalised Kato classes](Francesc.pdf) |
 |6 Oct| 3-4 PM| [Rylan Gajek-Leonard](https://www.math.umass.edu/directory/graduate-students/rylan-gajek-leonard) | UMass Amherst | TBA |
-|13 Oct| 3-4 PM| [Anwesh Ray](https://www.anweshray.com/)| UBC | TBA |
+|13 Oct| 3-4 PM| [Anwesh Ray](https://www.anweshray.com/)| UBC | [Arithmetic statistics and diophantine stability for elliptic curves](Anwesh.pdf) |
 |20 Oct| 3-4 PM| [Soumya Sankar](https://sites.google.com/site/soumya3sankar/)| Ohio State University | TBA |
 |27 Oct| 3-4 PM| [Artane Siad](https://www.math.toronto.edu/ajsiad/)| IAS/Princeton  | TBA |
-|3 Nov| 3-4 PM| [Natalia García-Fritz](http://www.mat.uc.cl/~natalia.garcia/) | TBA  | TBA |
+|3 Nov| 3-4 PM| [Natalia García-Fritz](http://www.mat.uc.cl/~natalia.garcia/) | Pontificia Universidad Católica de Chile  | TBA |
 |10 Nov| 3-4 PM| No seminar | (Midterm Break)  | -- |
 |17 Nov| 3-4 PM| [Chi Hoi (Kyle) Yip](https://sites.google.com/view/kyle-chi-hoi-yip/home) | UBC  | TBA |
 |24 Nov| 3-4 PM| [Ashay Burungale](https://sites.google.com/view/ashayk/home) | Caltech/ UT Austin  | TBA |
