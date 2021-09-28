@@ -29,7 +29,7 @@ To register for this seminar series please click on the following link: [Registr
 |24 Nov| 3-4 PM| [Ashay Burungale](https://sites.google.com/view/ashayk/home) | Caltech/ UT Austin  | TBA |
 |1 Dec| 3-4 PM| [Ellen Eischen](http://www.elleneischen.com/)| U Oregon | TBA |
 |8 Dec| 3-4 PM| [Prajeet Bajpai](https://personal.math.ubc.ca/~prajeet/index.php) | UBC  | TBA |
-|15 Dec| 3-4 PM| TBA | TBA  | TBA |
+|15 Dec| 3-4 PM| [Julia Hartmann](https://www2.math.upenn.edu/~hartmann/) | UPenn  | TBA |
 |22 Dec| 3-4 PM| TBA | TBA  | TBA |
 
 If you have any questions, please feel free to contact <a href="mailto:anweshray@math.ubc.ca">Anwesh Ray</a> or <a href="mailto:dkundu@math.ubc.ca">Debanjana Kundu</a>.
