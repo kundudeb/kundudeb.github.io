@@ -34,7 +34,7 @@ _Journal of Number Theory 222 (2021): 249-261._ [Journal version](https://www.sc
 _Rocky Mountain Journal of Mathematics (2021) Volume 51 / No. 3 pp. 933-949._ [Journal version](rmj-v51-n3-p12-s.pdf)
 
 5. [Growth of (Fine) Selmer Groups in Uniform pro-$$p$$ Extensions](Uniform%20Pro-p%20Extensions.pdf). <br/>
-_Annales mathématiques du Québec (2021) Volume 45, pp. 347–362_ [Journal version](https://link.springer.com/article/10.1007/s40316-020-00147-1)
+_Annales mathématiques du Québec (2021) Volume 45, pp. 347–362._ [Journal version](https://link.springer.com/article/10.1007/s40316-020-00147-1)
 
 6. [Growth of $$p$$-Fine Selmer Groups and $$p$$-Fine Shafarevich-Tate Group in $$\mathbb{Z}/p\mathbb{Z}$$ Extensions](growth%20in%20degree%20p%20extensions%20new%20version.pdf). <br/>
 _Journal of the Ramanujan Math Society (2021) Volume 36, No. 1._
