@@ -28,19 +28,19 @@ _Accepted for publication (Journal of Number Theory)_
 _Accepted for publication (Transactions of the AMS)_
 
 3. [Analogue of Kida's Formula for Fine Selmer Groups](Kida's%20Formula%20for%20Fine%20Selmer%20Groups.pdf). <br/>
-_Journal of Number Theory 222 (2021): 249-261. [Journal version](https://www.sciencedirect.com/science/article/pii/S0022314X21000160)._
+_Journal of Number Theory 222 (2021): 249-261._ [Journal version](https://www.sciencedirect.com/science/article/pii/S0022314X21000160).
 
 4. [Perfect Powers that are Sums of Squares of an Arithmetic Progression](https://arxiv.org/pdf/1809.09167.pdf) (with Vandita Patel).<br/>
-_Rocky Mountain Journal of Mathematics (2021) Volume 51 / No. 3 pp. 933-949. [Journal version](rmj-v51-n3-p12-s.pdf)_ 
+_Rocky Mountain Journal of Mathematics (2021) Volume 51 / No. 3 pp. 933-949._ [Journal version](rmj-v51-n3-p12-s.pdf)
 
 5. [Growth of (Fine) Selmer Groups in Uniform pro-$$p$$ Extensions](Uniform%20Pro-p%20Extensions.pdf). <br/>
-_Accepted for publication (Annales mathématiques du Québec)_
+_Annales mathématiques du Québec (2021) Volume 45, pp. 347–362_ [Journal version](https://link.springer.com/article/10.1007/s40316-020-00147-1)
 
 6. [Growth of $$p$$-Fine Selmer Groups and $$p$$-Fine Shafarevich-Tate Group in $$\mathbb{Z}/p\mathbb{Z}$$ Extensions](growth%20in%20degree%20p%20extensions%20new%20version.pdf). <br/>
 _Journal of the Ramanujan Math Society (2021) Volume 36, No. 1._
 
 7. [Growth of Fine Selmer Groups in Infinite Towers](Growth%20of%20ranks%20of%20Fine%20Selmer%20Groups%20in%20Infinite%20Towers.pdf). <br/>
-_Canadian Mathematics Bulletin (2020) Volume 63 / Issue 4 pp. 921-936. [Journal version](http://dx.doi.org/10.4153/S0008439520000168)._ 
+_Canadian Mathematics Bulletin (2020) Volume 63 / Issue 4 pp. 921-936._ [Journal version](http://dx.doi.org/10.4153/S0008439520000168).
 
 ## Teaching
 
