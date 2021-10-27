@@ -49,6 +49,10 @@ While I was a graduate student at the University of Toronto, I have also been a 
 
 To know about my teaching philosophy you can read my [teaching statement](teaching%20statement.pdf).  
 
+## Service
+
+I am a member of the UBC [Math Department's Equity, Diversity, and Inclusion Committee](https://www.math.ubc.ca/about-our-department/equity-diversity-and-inclusion) for the academic year 2021-22.
+
 ## Outreach
 
 I was a mentor for the [University of Toronto High School Mentorship Program](http://mathplus.math.utoronto.ca/home/mentorship).<br/>
