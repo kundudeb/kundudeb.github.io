@@ -21,26 +21,34 @@ To know more about my research you can look at my [research statement](Research%
 
 ## Publications and Preprints
 
-1. [Anticyclotomic $$\mu$$-Invariants of Residually Reducible Galois Representations](https://arxiv.org/pdf/2103.02092.pdf) (with Anwesh Ray). <br/>
-_Accepted for publication (Journal of Number Theory)_
+1.[Control Theorems for Fine Selmer Groups](Control_Theorems_for_fine_Selmer_Groups.pdf) (with Meng Fai Lim). <br/>
+_Submitted_
 
-2. [Statistics for Iwasawa Invariants of Elliptic Curves](https://arxiv.org/pdf/2102.02411.pdf) (with Anwesh Ray). <br/>
+2. [Anticyclotomic $$\mu$$-Invariants of Residually Reducible Galois Representations](https://arxiv.org/pdf/2103.02092.pdf) (with Anwesh Ray). <br/>
+_Accepted for publication (Journal of Number Theory)_ <br/>
+[Journal version](https://www.sciencedirect.com/science/article/pii/S0022314X21002328?casa_token=DIpsElKGr9kAAAAA:NLCzr5I6b9LxSA7jVhrV3KSx3FEGGDumBQd7zs4Xyvqyesu4z4y0G24O3L8vz9UyVFn--WzPIw)
+
+3. [Statistics for Iwasawa Invariants of Elliptic Curves](https://arxiv.org/pdf/2102.02411.pdf) (with Anwesh Ray). <br/>
 _Accepted for publication (Transactions of the AMS)_
 
-3. [Analogue of Kida's Formula for Fine Selmer Groups](Kida's%20Formula%20for%20Fine%20Selmer%20Groups.pdf). <br/>
-_Journal of Number Theory 222 (2021): 249-261._ [Journal version](https://www.sciencedirect.com/science/article/pii/S0022314X21000160).
+4. [Analogue of Kida's Formula for Fine Selmer Groups](Kida's%20Formula%20for%20Fine%20Selmer%20Groups.pdf). <br/>
+_Journal of Number Theory 222 (2021): 249-261._ <br/>
+[Journal version](https://www.sciencedirect.com/science/article/pii/S0022314X21000160).
 
-4. [Perfect Powers that are Sums of Squares of an Arithmetic Progression](https://arxiv.org/pdf/1809.09167.pdf) (with Vandita Patel).<br/>
-_Rocky Mountain Journal of Mathematics (2021) Volume 51 / No. 3 pp. 933-949._ [Journal version](rmj-v51-n3-p12-s.pdf)
+5. [Perfect Powers that are Sums of Squares of an Arithmetic Progression](https://arxiv.org/pdf/1809.09167.pdf) (with Vandita Patel).<br/>
+_Rocky Mountain Journal of Mathematics (2021) Volume 51 / No. 3 pp. 933-949._ <br/>
+[Journal version](rmj-v51-n3-p12-s.pdf)
 
-5. [Growth of (Fine) Selmer Groups in Uniform pro-$$p$$ Extensions](Uniform%20Pro-p%20Extensions.pdf). <br/>
-_Annales mathématiques du Québec (2021) Volume 45, pp. 347–362._ [Journal version](https://link.springer.com/article/10.1007/s40316-020-00147-1)
+6. [Growth of (Fine) Selmer Groups in Uniform pro-$$p$$ Extensions](Uniform%20Pro-p%20Extensions.pdf). <br/>
+_Annales mathématiques du Québec (2021) Volume 45, pp. 347–362._ <br/>
+[Journal version](https://link.springer.com/article/10.1007/s40316-020-00147-1)
 
-6. [Growth of $$p$$-Fine Selmer Groups and $$p$$-Fine Shafarevich-Tate Group in $$\mathbb{Z}/p\mathbb{Z}$$ Extensions](growth%20in%20degree%20p%20extensions%20new%20version.pdf). <br/>
+7. [Growth of $$p$$-Fine Selmer Groups and $$p$$-Fine Shafarevich-Tate Group in $$\mathbb{Z}/p\mathbb{Z}$$ Extensions](growth%20in%20degree%20p%20extensions%20new%20version.pdf). <br/>
 _Journal of the Ramanujan Math Society (2021) Volume 36, No. 1._
 
-7. [Growth of Fine Selmer Groups in Infinite Towers](Growth%20of%20ranks%20of%20Fine%20Selmer%20Groups%20in%20Infinite%20Towers.pdf). <br/>
-_Canadian Mathematics Bulletin (2020) Volume 63 / Issue 4 pp. 921-936._ [Journal version](http://dx.doi.org/10.4153/S0008439520000168).
+8. [Growth of Fine Selmer Groups in Infinite Towers](Growth%20of%20ranks%20of%20Fine%20Selmer%20Groups%20in%20Infinite%20Towers.pdf). <br/>
+_Canadian Mathematics Bulletin (2020) Volume 63 / Issue 4 pp. 921-936._ <br/>
+[Journal version](http://dx.doi.org/10.4153/S0008439520000168).
 
 ## Teaching
 
