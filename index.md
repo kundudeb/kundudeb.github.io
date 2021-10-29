@@ -22,7 +22,7 @@ To know more about my research you can look at my [research statement](Research%
 ## Publications and Preprints
 
 1. [Control Theorems for Fine Selmer Groups](Control_Theorems_for_fine_Selmer_Groups.pdf) (with Meng Fai Lim). <br/>
-_Submitted_
+_Accepted for publication (Journal de Th{\'e}orie des Nombres de Bordeaux)_
 
 2. [Anticyclotomic $$\mu$$-Invariants of Residually Reducible Galois Representations](https://arxiv.org/pdf/2103.02092.pdf) (with Anwesh Ray). <br/>
 _Accepted for publication (Journal of Number Theory)_ <br/>
