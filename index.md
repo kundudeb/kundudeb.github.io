@@ -29,7 +29,8 @@ _Accepted for publication (Journal of Number Theory)_ <br/>
 [Journal version](https://www.sciencedirect.com/science/article/pii/S0022314X21002328?casa_token=DIpsElKGr9kAAAAA:NLCzr5I6b9LxSA7jVhrV3KSx3FEGGDumBQd7zs4Xyvqyesu4z4y0G24O3L8vz9UyVFn--WzPIw)
 
 3. [Statistics for Iwasawa Invariants of Elliptic Curves](https://arxiv.org/pdf/2102.02411.pdf) (with Anwesh Ray). <br/>
-_Accepted for publication (Transactions of the AMS)_
+_Trans. Amer. Math. Soc. 374 (2021), no. 11, 7945–7965._ <br/>
+[Journal version](https://www.ams.org/journals/tran/2021-374-11/S0002-9947-2021-08478-0/S0002-9947-2021-08478-0.pdf)
 
 4. [Analogue of Kida's Formula for Fine Selmer Groups](Kida's%20Formula%20for%20Fine%20Selmer%20Groups.pdf). <br/>
 _Journal of Number Theory 222 (2021): 249-261._ <br/>
