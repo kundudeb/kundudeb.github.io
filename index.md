@@ -81,7 +81,9 @@ demographic, and economic boundaries. <br/>
 
 3. Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.<br/>
 
-4. Every student deserves to be treated with dignity and respect.
+4. Every student deserves to be treated with dignity and respect. <br/>
+
+5. (My addition) Mathematics will be better with you in it. 
 
 ## Organization
 
