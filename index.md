@@ -22,7 +22,7 @@ To know more about my research you can look at my [research statement](Research%
 ## Publications and Preprints
 
 1. [Arithmetic Statistics and Iwasawa Theory](https://arxiv.org/pdf/2109.13330.pdf) (with Antonio Lei and Anwesh Ray). <br/>
-2. _Accepted for publication (Documenta Mathematica)_
+ _Accepted for publication (Documenta Mathematica)_
 
 2. [Control Theorems for Fine Selmer Groups](Control_Theorems_for_fine_Selmer_Groups.pdf) (with Meng Fai Lim). <br/>
 _Accepted for publication (Journal de Théorie des Nombres de Bordeaux)_
