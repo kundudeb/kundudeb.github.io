@@ -69,8 +69,8 @@ I am a member of the UBC [Math Department's Equity, Diversity, and Inclusion Com
 ## Undergraduate Mentorship
 
 I have mentored the following students for their Bachelors project/ thesis: <br/>
-Adithya Chakravarthy (University of Toronto): Aug 2021-present on _Iwasawa Theory_ <br/>
-Vitthal Yelambase (BITS Goa): starting Jan 2022 <br/>
+Aug 2021-present: Adithya Chakravarthy (University of Toronto), project on _Iwasawa Theory_ <br/>
+starting Jan 2022: Vitthal Yelambase (BITS Goa), reading project on _cyclotomic fields_ <br/>
 
 ## Outreach
 
