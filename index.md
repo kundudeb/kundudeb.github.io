@@ -66,6 +66,12 @@ To know about my teaching philosophy you can read my [teaching statement](teachi
 
 I am a member of the UBC [Math Department's Equity, Diversity, and Inclusion Committee](https://www.math.ubc.ca/about-our-department/equity-diversity-and-inclusion) for the academic year 2021-22.
 
+## Undergraduate Mentorship
+
+I have mentored the following students for their Bachelors project/ thesis:
+Adithya Chakravarthy (University of Toronto): Aug 2021-present on _Iwasawa Theory_
+Vitthal Yelambase (BITS Goa): starting Jan 2022
+
 ## Outreach
 
 I was a mentor for the [University of Toronto High School Mentorship Program](http://mathplus.math.utoronto.ca/home/mentorship).<br/>
