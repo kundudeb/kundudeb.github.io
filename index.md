@@ -28,8 +28,8 @@ To know more about my research you can look at my [research statement](Research%
 _Accepted for publication (Journal de Théorie des Nombres de Bordeaux)_
 
 3. [Anticyclotomic $$\mu$$-Invariants of Residually Reducible Galois Representations](https://arxiv.org/pdf/2103.02092.pdf) (with Anwesh Ray). <br/>
-_Accepted for publication (Journal of Number Theory)_ <br/>
-[Journal version](https://www.sciencedirect.com/science/article/pii/S0022314X21002328?casa_token=DIpsElKGr9kAAAAA:NLCzr5I6b9LxSA7jVhrV3KSx3FEGGDumBQd7zs4Xyvqyesu4z4y0G24O3L8vz9UyVFn--WzPIw)
+_Journal of Number Theory 234 (2022): 476-498._ <br/>
+[Journal version](https://www.sciencedirect.com/science/article/pii/S0022314X21002328?via%3Dihub)
 
 4. [Statistics for Iwasawa Invariants of Elliptic Curves](https://arxiv.org/pdf/2102.02411.pdf) (with Anwesh Ray). <br/>
 _Trans. Amer. Math. Soc. 374 (2021), no. 11, 7945–7965._ <br/>
