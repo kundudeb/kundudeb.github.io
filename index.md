@@ -21,7 +21,7 @@ To know more about my research you can look at my [research statement](Research%
 
 ## Publications and Preprints
 
-10. [Control theorems for fine Selmer groups, and  duality of fine Selmer groups attached to modular forms](Fine_Selmer_and_duals.pdf) (with Jeffrey Hatley, Antonio Lei, and Jishnu Ray). <br/>
+10. [Control theorems for fine Selmer groups, and  duality of fine Selmer groups attached to modular forms](https://arxiv.org/pdf/2201.10629.pdf) (with Jeffrey Hatley, Antonio Lei, and Jishnu Ray). <br/>
 _Accepted for publication (The Ramanujan Journal)_
 
 9. [Arithmetic Statistics and Noncommutative Iwasawa Theory](https://arxiv.org/pdf/2109.13330v2.pdf) (with Antonio Lei and Anwesh Ray). <br/>
