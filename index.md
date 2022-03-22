@@ -28,7 +28,8 @@ _Accepted for publication (Forum Mathematicum)_
 _Accepted for publication (The Ramanujan Journal)_
 
 9. [Arithmetic Statistics and Noncommutative Iwasawa Theory](https://arxiv.org/pdf/2109.13330v2.pdf) (with Antonio Lei and Anwesh Ray). <br/>
- _Accepted for publication (Documenta Mathematica)_
+ _Documenta Mathematica 27, 89-149 (2022)._ <br/>
+ [Journal version](https://elibm.org/article/10012180)
 
 8. [Control Theorems for Fine Selmer Groups](Control_Theorems_for_fine_Selmer_Groups.pdf) (with Meng Fai Lim). <br/>
 _Accepted for publication (Journal de Théorie des Nombres de Bordeaux)_
