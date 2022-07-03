@@ -22,7 +22,7 @@ To know more about my research you can look at my [research statement](Research%
 ## Publications and Preprints
 
 11. [Iwasawa Invariants for elliptic curves over $$\mathbb{Z}$$<sub>$$p$$</sub> extensions and Kida's Formula](https://arxiv.org/pdf/2103.16005v2.pdf) (with Anwesh Ray)<br/>
-_Accepted for publication (Forum Mathematicum)_
+_Forum Math. 34 (2022), no. 4, 945–967_
 
 10. [Control theorems for fine Selmer groups, and  duality of fine Selmer groups attached to modular forms](https://arxiv.org/pdf/2201.10629.pdf) (with Jeffrey Hatley, Antonio Lei, and Jishnu Ray). <br/>
 _Accepted for publication (The Ramanujan Journal)_ <br/>
