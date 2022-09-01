@@ -21,7 +21,7 @@ like the Langlands' Beyond Endoscopy idea.
 
 To know more about my research you can look at my [research statement](RS2022_website.pdf). If you prefer a shorter read, without much technical details you can look at this [research statement](non%20technical%20research%20proposal.pdf).
 
-## Publications and Preprints
+## Publications
 
 11. [Iwasawa Invariants for elliptic curves over $$\mathbb{Z}$$<sub>$$p$$</sub> extensions and Kida's Formula](https://arxiv.org/pdf/2103.16005v2.pdf) (with Anwesh Ray)<br/>
 _Forum Math. 34 (2022), no. 4, 945–967_ <br/>
@@ -66,6 +66,8 @@ _Journal of the Ramanujan Math Society (2021) Volume 36, No. 1._ <br/>
 _Canadian Mathematics Bulletin (2020) Volume 63 / Issue 4 pp. 921-936._ <br/>
 [Journal version](http://dx.doi.org/10.4153/S0008439520000168).
 
+(For preprints you may check [arXiv](https://arxiv.org/find/all/1/au:+kundu_debanjana/0/1/0/all/0/1?skip=0&query_id=305e10b27284e50d) or my CV.)
+
 ## Teaching
 
 I have taught Calculus (single and multi-variable) and first year Linear Algebra at the University of Toronto and UBC (Vancouver). 
@@ -75,7 +77,7 @@ To know about my teaching philosophy you can read my [teaching statement](teachi
 
 ## Service
 
-I am a member of the UBC [Math Department's Equity, Diversity, and Inclusion Committee](https://www.math.ubc.ca/about-our-department/equity-diversity-and-inclusion) for the academic year 2021-22.
+I was a member of the UBC [Math Department's Equity, Diversity, and Inclusion Committee](https://www.math.ubc.ca/about-our-department/equity-diversity-and-inclusion) for the academic year 2021-22.
 
 ## Undergraduate Mentorship
 
