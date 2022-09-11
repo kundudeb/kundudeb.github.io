@@ -95,7 +95,7 @@ Winter 2020: Jennifer Wang (Group Theory and Elementary Number Theory)
 I gave an invited talk  on [Möbius Functions](Mobius%20Functions.pdf) at the [Summer Math Academy](http://mathplus.math.utoronto.ca/home/ma) for high school students. I would also volunteer to run the 
 [monthly STEM Workshop](https://mathplus.math.utoronto.ca/home/girlsinstem). 
 
-I believe in the [axioms laid out by Federico Ardila-Mantilla](http://math.sfsu.edu/federico/Articles/noticesfinal.pdf).<br/>
+I believe in the [axioms laid out by Federico Ardila-Mantilla](https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf).<br/>
 1. Mathematical talent is distributed equally among different groups, irrespective of geographic,
 demographic, and economic boundaries. <br/>
 
@@ -115,7 +115,7 @@ I co-organized a [mini-course on Iwasawa Theory](https://winter19.cms.math.ca/in
 
 You can click [here](https://kundudeb.github.io/p-adic-seminar.html) to access the homepage of the seminar series meant to prepare participants for the workshop on Higher Coleman Theory and its Applications which was held at the CRM (December 7-11, 2020).
 
-For the academic year 2021-22, I am a co-organizer of the weekly [UBC Number Theory Seminar](https://www.anweshray.com/ubcnumbertheoryseminar).
+Since September 2021, I am an organizer of the weekly [UBC Number Theory Seminar](https://www.math.ubc.ca/news-events/seminars-and-colloquia). 
 
 ## Expository Talks, Articles and Course Notes
 
