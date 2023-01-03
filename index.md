@@ -23,6 +23,9 @@ To know more about my research you can look at my [research statement](RS2022_we
 
 ## Publications
 
+12. [Structure of Fine Selmer Groups in abelian $$p$$-adic Lie extensions](Conjecture_B_Kundu_Nuccio_Sujatha.pdf) (with F. Nuccio and R. Sujatha)<br/>
+_Accepted by the referee (Osaka Journal of Mathematics)_
+
 11. [Iwasawa Invariants for elliptic curves over $$\mathbb{Z}$$<sub>$$p$$</sub> extensions and Kida's Formula](https://arxiv.org/pdf/2103.16005v2.pdf) (with Anwesh Ray)<br/>
 _Forum Math. 34 (2022), no. 4, 945–967_ <br/>
 [Journal version](https://www.degruyter.com/document/doi/10.1515/forum-2021-0203/html)
