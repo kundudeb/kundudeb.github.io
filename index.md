@@ -112,13 +112,13 @@ demographic, and economic boundaries. <br/>
 
 ## Organization
 
-While I was a graduate student, I organized the weekly [GANITA seminars](http://www.fields.utoronto.ca/activities/20-21/ganita-seminar). Unfortunately, I can no longer attend these seminars regularly. If you are a number theorist ~~wandering in the Toronto region~~, eager to interact with others of your kind online, you are welcome to participate. Or better yet, give a talk!
+While I was a graduate student, I organized the weekly [GANITA seminars](http://www.fields.utoronto.ca/activities/20-21/ganita-seminar). I still attend these seminars whenever I can. If you are a number theorist wandering in the Toronto region, eager to interact with others of your kind, you are welcome to participate. Or better yet, give a talk!
 
 I co-organized a [mini-course on Iwasawa Theory](https://winter19.cms.math.ca/index.php/mini-courses/) at the 2019 CMS Winter Meeting. Here is a [PDF](CMS%20Winter%20meet.pdf).
 
 You can click [here](https://kundudeb.github.io/p-adic-seminar.html) to access the homepage of the seminar series meant to prepare participants for the workshop on Higher Coleman Theory and its Applications which was held at the CRM (December 7-11, 2020).
 
-Since September 2021, I am an organizer of the weekly [UBC Number Theory Seminar](https://www.math.ubc.ca/news-events/seminars-and-colloquia). 
+Between September 2021 and December 2022, I was an organizer of the weekly [UBC Number Theory Seminar](https://www.math.ubc.ca/news-events/seminars-and-colloquia). 
 
 ## Expository Talks, Articles and Course Notes
 
