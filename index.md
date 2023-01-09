@@ -27,7 +27,7 @@ To know more about my research you can look at my [research statement](RS2022_we
 _Accepted by the referee (Osaka Journal of Mathematics)_
 
 11. [Control theorems for fine Selmer groups, and  duality of fine Selmer groups attached to modular forms](https://arxiv.org/pdf/2201.10629.pdf) (with Jeffrey Hatley, Antonio Lei, and Jishnu Ray). <br/>
-_The Ramanujan Journal 60, pages237–258 (2023)_ <br/>
+_The Ramanujan Journal 60, 237–258 (2023)_ <br/>
 [Journal version](https://link.springer.com/article/10.1007/s11139-022-00560-w)
 
 10. [Iwasawa Invariants for elliptic curves over $$\mathbb{Z}$$<sub>$$p$$</sub> extensions and Kida's Formula](https://arxiv.org/pdf/2103.16005v2.pdf) (with Anwesh Ray)<br/>
