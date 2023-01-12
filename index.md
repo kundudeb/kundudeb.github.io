@@ -118,7 +118,9 @@ I co-organized a [mini-course on Iwasawa Theory](https://winter19.cms.math.ca/in
 
 You can click [here](https://kundudeb.github.io/p-adic-seminar.html) to access the homepage of the seminar series meant to prepare participants for the workshop on Higher Coleman Theory and its Applications which was held at the CRM (December 7-11, 2020).
 
-Between September 2021 and December 2022, I was an organizer of the weekly [UBC Number Theory Seminar](https://www.math.ubc.ca/news-events/seminars-and-colloquia). 
+Between September 2021 and December 2022, I was an organizer of the weekly [UBC Number Theory Seminar](https://www.math.ubc.ca/news-events/seminars-and-colloquia).
+
+I will be co-organizing the Beyond Endoscopy Mini Conference in April 2023. 
 
 ## Expository Talks, Articles and Course Notes
 
