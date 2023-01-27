@@ -39,7 +39,8 @@ _Forum Math. 34 (2022), no. 4, 945–967_ <br/>
  [Journal version](https://elibm.org/article/10012180)
 
 8. [Control Theorems for Fine Selmer Groups](Control_Theorems_for_fine_Selmer_Groups.pdf) (with Meng Fai Lim). <br/>
-_Accepted for publication (Journal de Théorie des Nombres de Bordeaux)_
+_Journal de théorie des nombres de Bordeaux, Volume 34 (2022) no. 3, pp. 851-880._ <br/>
+[Journal version](https://jtnb.centre-mersenne.org/item/10.5802/jtnb.1231.pdf)
 
 7. [Anticyclotomic $$\mu$$-Invariants of Residually Reducible Galois Representations](https://arxiv.org/pdf/2103.02092.pdf) (with Anwesh Ray). <br/>
 _Journal of Number Theory 234 (2022): 476-498._ <br/>
