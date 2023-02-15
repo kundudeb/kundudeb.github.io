@@ -27,7 +27,7 @@ To know more about my research you can look at my [research statement](RS2022_we
 _Accepted for publication by Israel Journal of Mathematics_
 
 13. [Growth of $$p$$-parts of ideal class groups and fine Selmer groups in $$\mathbb{Z}_q$$-extensions with $$p\neq q$$](FSG_p_neq_q.pdf) (with Antonio Lei)<br/>
-_Accepted for publication by Acta Arithmetica_
+_Accepted for publication (final revisions) by Acta Arithmetica_
 
 12. [Structure of Fine Selmer Groups in abelian $$p$$-adic Lie extensions](Conjecture_B_Kundu_Nuccio_Sujatha.pdf) (with Filippo Nuccio and R. Sujatha)<br/>
 _Accepted by the referee (Osaka Journal of Mathematics)_
