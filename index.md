@@ -127,7 +127,7 @@ You can click [here](https://kundudeb.github.io/p-adic-seminar.html) to access t
 
 Between September 2021 and December 2022, I was an organizer of the weekly [UBC Number Theory Seminar](https://www.math.ubc.ca/news-events/seminars-and-colloquia).
 
-I will be co-organizing the Beyond Endoscopy Mini Conference in April 2023. 
+I will be co-organizing the [Beyond Endoscopy Mini Conference](http://www.fields.utoronto.ca/activities/22-23/endoscopy) in April 2023. 
 
 ## Expository Talks, Articles and Course Notes
 
