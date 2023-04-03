@@ -129,6 +129,8 @@ Between September 2021 and December 2022, I was an organizer of the weekly [UBC 
 
 I will be co-organizing the [Beyond Endoscopy Mini Conference](http://www.fields.utoronto.ca/activities/22-23/endoscopy) in April 2023. 
 
+I will be leading a project group at the [Rethinking Number Theory Workshop](https://sites.google.com/view/rethinkingnumbertheory/home) in June 2023.
+
 ## Expository Talks, Articles and Course Notes
 
 1. [MSRI Summer School (2017): Automorphic Forms and the Langlands' Program](https://github.com/kundudeb/kundudeb.github.io/blob/master/MSRI_Summer_School__Automorphic_forms_and_the_Langlands_program.pdf)
