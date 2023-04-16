@@ -23,11 +23,14 @@ To know more about my research you can look at my [research statement](RS2022_we
 
 ## Publications
 
+15. [ Rank Jumps and Growth of Shafarevich--Tate Groups for Elliptic Curves in $\mathbb{Z}/p\mathbb{Z}$-Extensions](https://arxiv.org/pdf/2107.09166.pdf) (with Lea Beneish and Anwesh Ray)<br/>
+_Accepted for publication (Journal of the Australian Mathematical Society)_
+
 14. [Non-vanishing modulo $$p$$ of Hecke $$L$$-values over imaginary quadratic fields](2-variable%20Hida.pdf) (with Antonio Lei)<br/>
-_Accepted for publication by Israel Journal of Mathematics_
+_Accepted for publication (Israel Journal of Mathematics)_
 
 13. [Growth of $$p$$-parts of ideal class groups and fine Selmer groups in $$\mathbb{Z}_q$$-extensions with $$p\neq q$$](FSG_p_neq_q.pdf) (with Antonio Lei)<br/>
-_Accepted for publication by Acta Arithmetica_
+_Accepted for publication (Acta Arithmetica)_
 
 12. [Structure of Fine Selmer Groups in abelian $$p$$-adic Lie extensions](Conjecture_B_Kundu_Nuccio_Sujatha.pdf) (with Filippo Nuccio and R. Sujatha)<br/>
 _Accepted by the referee (Osaka Journal of Mathematics)_
