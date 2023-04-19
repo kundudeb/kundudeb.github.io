@@ -33,7 +33,7 @@ _Accepted for publication (Israel Journal of Mathematics)_
 _Accepted for publication (Acta Arithmetica)_
 
 12. [Structure of Fine Selmer Groups in abelian $$p$$-adic Lie extensions](Conjecture_B_Kundu_Nuccio_Sujatha.pdf) (with Filippo Nuccio and R. Sujatha)<br/>
-_Accepted by the referee (Osaka Journal of Mathematics)_
+_Accepted for publication (Osaka Journal of Mathematics)_
 
 11. [Control theorems for fine Selmer groups, and  duality of fine Selmer groups attached to modular forms](https://arxiv.org/pdf/2201.10629.pdf) (with Jeffrey Hatley, Antonio Lei, and Jishnu Ray). <br/>
 _The Ramanujan Journal 60 (2023), 237–258_ <br/>
