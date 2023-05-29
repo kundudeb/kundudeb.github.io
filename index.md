@@ -27,7 +27,8 @@ To know more about my research you can look at my [research statement](RS2022_we
 _Accepted for publication (Proceedings of the AMS)_
 
 15. [Rank Jumps and Growth of Shafarevich--Tate Groups for Elliptic Curves in $$\mathbb{Z}/p\mathbb{Z}$$-Extensions](https://arxiv.org/pdf/2107.09166.pdf) (with Lea Beneish and Anwesh Ray)<br/>
-_Accepted for publication (Journal of the Australian Mathematical Society)_
+_Accepted for publication (Journal of the Australian Mathematical Society)_ <br/>
+[Journal version](https://www.cambridge.org/core/journals/journal-of-the-australian-mathematical-society/article/rank-jumps-and-growth-of-shafarevichtate-groups-for-elliptic-curves-in-mathbb-zboldsymbolpmathbb-z-extensions/56B088DD6B916D3FC47C530376BB7F06)
 
 14. [Non-vanishing modulo $$p$$ of Hecke $$L$$-values over imaginary quadratic fields](2-variable%20Hida.pdf) (with Antonio Lei)<br/>
 _Accepted for publication (Israel Journal of Mathematics)_
