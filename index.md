@@ -23,7 +23,10 @@ To know more about my research you can look at my [research statement](RS2022_we
 
 ## Publications
 
-16. [Cotorsion of Anti-Cyclotomic Selmer groups on average](countiq.pdf) (with Florian Sprung)<br/>
+17. [Heuristics for  anti-cyclotomic $$\mathbb{Z}_{p}$$-Extensions](https://arxiv.org/abs/2207.13199) (with Lawrence Washington)<br/>
+_Accepted for publication (Experimental Math)_ 
+
+16. [Cotorsion of Anti-Cyclotomic Selmer groups on average](https://arxiv.org/abs/2305.10571) (with Florian Sprung)<br/>
 _Accepted for publication (Proceedings of the AMS)_
 
 15. [Rank Jumps and Growth of Shafarevich--Tate Groups for Elliptic Curves in $$\mathbb{Z}/p\mathbb{Z}$$-Extensions](https://arxiv.org/pdf/2107.09166.pdf) (with Lea Beneish and Anwesh Ray)<br/>
