@@ -24,7 +24,8 @@ To know more about my research you can look at my [research statement](RS2022_we
 ## Publications
 
 17. [Heuristics for  anti-cyclotomic $$\mathbb{Z}_{p}$$-Extensions](https://arxiv.org/abs/2207.13199) (with Lawrence Washington)<br/>
-_Accepted for publication (Experimental Math)_ 
+_Accepted for publication (Experimental Math)_ <br/>
+[Journal version](https://www.tandfonline.com/doi/full/10.1080/10586458.2023.2221866)
 
 16. [Cotorsion of Anti-Cyclotomic Selmer groups on average](https://arxiv.org/abs/2305.10571) (with Florian Sprung)<br/>
 _Accepted for publication (Proceedings of the AMS)_
