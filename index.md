@@ -38,7 +38,8 @@ _Accepted for publication (Journal of the Australian Mathematical Society)_ <br/
 _Accepted for publication (Israel Journal of Mathematics)_
 
 13. [Growth of $$p$$-parts of ideal class groups and fine Selmer groups in $$\mathbb{Z}_q$$-extensions with $$p\neq q$$](FSG_p_neq_q.pdf) (with Antonio Lei)<br/>
-_Accepted for publication (Acta Arithmetica)_
+_Acta Arithmetica 207 (2023), 297-313_<br/>
+[Journal version](https://www.impan.pl/en/publishing-house/journals-and-series/acta-arithmetica/all/207/4/115087/growth-of-p-parts-of-ideal-class-groups-and-fine-selmer-groups-in-mathbb-z-q-extensions-with-p-ne-q)
 
 12. [Structure of Fine Selmer Groups in abelian $$p$$-adic Lie extensions](Conjecture_B_Kundu_Nuccio_Sujatha.pdf) (with Filippo Nuccio and R. Sujatha)<br/>
 _Accepted for publication (Osaka Journal of Mathematics)_
