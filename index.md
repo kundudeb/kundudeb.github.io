@@ -23,7 +23,7 @@ To know more about my research you can look at my [research statement](RS2022_we
 
 ## Publications
 
-18. [$$\lambda$$-Invariant Stability in Families of Modular Galois Representations](https://arxiv.org/abs/2207.02280)(with Jeffrey Hatley)<br/>
+18. [$$\lambda$$-Invariant Stability in Families of Modular Galois Representations](https://arxiv.org/abs/2207.02280) (with Jeffrey Hatley)<br/>
 _Accepted for publication (Research in Mathematical Sciences)_
 
 17. [Heuristics for  anti-cyclotomic $$\mathbb{Z}_{p}$$-Extensions](https://arxiv.org/abs/2207.13199) (with Lawrence Washington)<br/>
