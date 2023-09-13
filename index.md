@@ -1,6 +1,6 @@
 ## About Me
 
-In June 2020, I earned my Ph.D in mathematics at the University of Toronto. My supervisor was [Prof. Kumar Murty](http://murty.math.toronto.edu/) and my co-advisor was [Prof R. Sujatha](https://www.math.ubc.ca/~sujatha/). In Fall 2020, I was at CRM Montreal attending the [Thematic Program on Cohomology in Arithmetic](http://www.crm.umontreal.ca/2020/Nombres2020/index_e.php). Between January 2021 and December 2022, I was a [PIMS Postdoctoral Fellow](https://www.pims.math.ca/scientific/postdoctoral/postdoctoral-fellows#pdf-2020) at [UBC, Vancouver](https://www.math.ubc.ca/Research/NumberTheory/index.shtml?overview). Since January 2023, I am affiliated with the [Fields Institute](http://www.fields.utoronto.ca/). I will join [UTRGV](https://www.utrgv.edu/math/) as a tenure track assistant professor starting Fall 2023. 
+In June 2020, I earned my Ph.D in mathematics at the University of Toronto. My supervisor was [Prof. Kumar Murty](http://murty.math.toronto.edu/) and my co-advisor was [Prof R. Sujatha](https://www.math.ubc.ca/~sujatha/). In Fall 2020, I was at CRM Montreal attending the [Thematic Program on Cohomology in Arithmetic](http://www.crm.umontreal.ca/2020/Nombres2020/index_e.php). Between January 2021 and December 2022, I was a [PIMS Postdoctoral Fellow](https://www.pims.math.ca/scientific/postdoctoral/postdoctoral-fellows#pdf-2020) at [UBC, Vancouver](https://www.math.ubc.ca/Research/NumberTheory/index.shtml?overview). I was affiliated with the [Fields Institute](http://www.fields.utoronto.ca/) between January and August 2023. Starting Fall 2023, I am a tenure track assistant professor at [UTRGV](https://www.utrgv.edu/math/). 
 
 My curriculum vitae can be found here: [CV](cv.pdf).
 
@@ -110,8 +110,9 @@ I was a member of the UBC [Math Department's Equity, Diversity, and Inclusion Co
 I have mentored the following students for their Bachelors project/ thesis. <br/>
 Aug 2021 -- April 2023: Adithya Chakravarthy (University of Toronto), thesis on _Iwasawa Theory_ <br/>
 Jan -- May 2022: Vitthal Yellambalse (BITS Goa), reading project on _cyclotomic fields_ <br/>
-May 2023 -- present: Shubhrojyoti Dhara (CMI), reading project on _elliptic curves_ <br/>
-May 2023 -- present: Léonie Chipot (UOttawa), learning to write mathematical proofs <br/>
+May -- July 2023: Shubhrojyoti Dhara (CMI), reading project on _elliptic curves_ <br/>
+May -- June 2023: Léonie Chipot (UOttawa), learning to write mathematical proofs <br/>
+Sep 2023 -- present: Raul Marquez (UTRGV), $$L$$-functions <br/>
 
 ## Outreach
 
@@ -145,9 +146,9 @@ You can click [here](https://kundudeb.github.io/p-adic-seminar.html) to access t
 
 Between September 2021 and December 2022, I was an organizer of the weekly [UBC Number Theory Seminar](https://www.math.ubc.ca/news-events/seminars-and-colloquia).
 
-I will be co-organizing the [Beyond Endoscopy Mini Conference](http://www.fields.utoronto.ca/activities/22-23/endoscopy) in April 2023. 
+I was a co-organizer for the [Beyond Endoscopy Mini Conference](http://www.fields.utoronto.ca/activities/22-23/endoscopy) in April 2023. 
 
-I will be leading a project group at the [Rethinking Number Theory Workshop](https://sites.google.com/view/rethinkingnumbertheory/home) in June 2023.
+I was a project leader at the [Rethinking Number Theory Workshop](https://sites.google.com/view/rethinkingnumbertheory/home) in June 2023.
 
 ## Expository Talks, Articles and Course Notes
 
