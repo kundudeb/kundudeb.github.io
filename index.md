@@ -23,6 +23,9 @@ To know more about my research you can look at my [research statement](RS2022_we
 
 ## Publications
 
+19. [Statistics for Iwasawa Invariants of Elliptic Curves II](https://arxiv.org/abs/2106.12095) (with Anwesh Ray)<br/>
+_Accepted for publication (International Journal of Number Theory)_ <br/>
+
 18. [$$\lambda$$-Invariant Stability in Families of Modular Galois Representations](https://arxiv.org/abs/2207.02280) (with Jeffrey Hatley)<br/>
 _Accepted for publication (Research in Mathematical Sciences)_ <br/>
 [Journal version](https://link.springer.com/article/10.1007/s40687-023-00396-w)
