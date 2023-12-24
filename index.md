@@ -35,7 +35,8 @@ _Accepted for publication (Experimental Math)_ <br/>
 [Journal version](https://www.tandfonline.com/doi/full/10.1080/10586458.2023.2221866)
 
 16. [Cotorsion of Anti-Cyclotomic Selmer groups on average](https://arxiv.org/abs/2305.10571) (with Florian Sprung)<br/>
-_Accepted for publication (Proceedings of the AMS)_
+_Accepted for publication (Proceedings of the AMS)_ <br/>
+[Journal version](https://www.ams.org/journals/proc/0000-000-00/S0002-9939-2023-16543-0/S0002-9939-2023-16543-0.pdf)
 
 15. [Rank Jumps and Growth of Shafarevich--Tate Groups for Elliptic Curves in $$\mathbb{Z}/p\mathbb{Z}$$-Extensions](https://arxiv.org/pdf/2107.09166.pdf) (with Lea Beneish and Anwesh Ray)<br/>
 _Accepted for publication (Journal of the Australian Mathematical Society)_ <br/>
