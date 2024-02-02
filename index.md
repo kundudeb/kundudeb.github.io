@@ -158,7 +158,7 @@ I was a co-organizer for the [Beyond Endoscopy Mini Conference](http://www.field
 
 I was a project leader at the [Rethinking Number Theory Workshop](https://sites.google.com/view/rethinkingnumbertheory/home) in June 2023.
 
-I am currently organizing the Algebra/Number Theory Seminar at UTRGV with my colleague Luigi Ferraro.
+I am currently organizing the [Algebra/Number Theory Seminar](https://faculty.utrgv.edu/luigi.ferraro/ANT/Spring24.html) at UTRGV with my colleague Luigi Ferraro.
 
 ## Expository Talks, Articles and Course Notes
 
