@@ -100,6 +100,10 @@ _Canadian Mathematics Bulletin 63 (2020), Issue 4, 921-936._ <br/>
 
 ## Teaching
 
+In Spring 2024, I am teaching MATH 3363 (Modern Algebra I).
+
+In Fall 2023, I taught MATH 2413 (Calculus I).
+
 I have taught Calculus (single and multi-variable) and first year Linear Algebra at the University of Toronto and UBC (Vancouver). 
 While I was a graduate student at the University of Toronto, I have also been a Teaching Assistant for several courses. 
 
@@ -154,7 +158,7 @@ I was a co-organizer for the [Beyond Endoscopy Mini Conference](http://www.field
 
 I was a project leader at the [Rethinking Number Theory Workshop](https://sites.google.com/view/rethinkingnumbertheory/home) in June 2023.
 
-I am currently organizing the Algebra/Number Theory Seminar at UTRGV.
+I am currently organizing the Algebra/Number Theory Seminar at UTRGV with my colleague Luigi Ferraro.
 
 ## Expository Talks, Articles and Course Notes
 
