@@ -160,6 +160,8 @@ I was a project leader at the [Rethinking Number Theory Workshop](https://sites.
 
 I am currently organizing the [Algebra/Number Theory Seminar](https://faculty.utrgv.edu/luigi.ferraro/ANT/Spring24.html) at UTRGV with my colleague Luigi Ferraro.
 
+I will be organizing a special session with my colleague Brandt Kronholm at the AMS Fall Sectional Meeting in San Antonio (Sep 15-16, 2024).
+
 ## Expository Talks, Articles and Course Notes
 
 1. [MSRI Summer School (2017): Automorphic Forms and the Langlands' Program](https://github.com/kundudeb/kundudeb.github.io/blob/master/MSRI_Summer_School__Automorphic_forms_and_the_Langlands_program.pdf)
