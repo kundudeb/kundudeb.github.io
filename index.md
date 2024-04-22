@@ -4,6 +4,8 @@ In June 2020, I earned my Ph.D in mathematics at the University of Toronto. My s
 
 My curriculum vitae can be found here: [CV](cv.pdf).
 
+I am currently recruiting Masters and PhD students for positions starting Spring/Fall 2025. 
+
 ## Research
 
 My research interests include Diophantine equations, Iwasawa theory, and Beyond Endoscopy. 
