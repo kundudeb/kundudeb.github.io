@@ -27,6 +27,7 @@ To know more about my research you can look at my [research statement](RS2022_we
 
 20. [Studying Hilbert's 10th Problem Via Explicit Elliptic Curves](https://arxiv.org/abs/2207.07021) (with Antonio Lei and Florian Sprung)<br/>
 _Accepted for publication (Math Annalen)_ <br/>
+[Journal version](https://link.springer.com/article/10.1007/s00208-024-02879-9)
 
 19. [Statistics for Iwasawa Invariants of Elliptic Curves II](https://arxiv.org/abs/2106.12095) (with Anwesh Ray)<br/>
 _Accepted for publication (International Journal of Number Theory)_ <br/>
@@ -55,7 +56,8 @@ _Acta Arithmetica 207 (2023), 297-313_<br/>
 [Journal version](https://www.impan.pl/en/publishing-house/journals-and-series/acta-arithmetica/all/207/4/115087/growth-of-p-parts-of-ideal-class-groups-and-fine-selmer-groups-in-mathbb-z-q-extensions-with-p-ne-q)
 
 12. [Structure of Fine Selmer Groups in abelian $$p$$-adic Lie extensions](Conjecture_B_Kundu_Nuccio_Sujatha.pdf) (with Filippo Nuccio and R. Sujatha)<br/>
-_Accepted for publication (Osaka Journal of Mathematics)_
+_Osaka J. Math. 61(1): 121-146 (January 2024)._<br/>
+[Journal version](https://projecteuclid.org/journals/osaka-journal-of-mathematics/volume-61/issue-1/Structure-of-fine-Selmer-groups-in-abelian-p-adic-Lie/5819ojm.full)
 
 11. [Control theorems for fine Selmer groups, and  duality of fine Selmer groups attached to modular forms](https://arxiv.org/pdf/2201.10629.pdf) (with Jeffrey Hatley, Antonio Lei, and Jishnu Ray). <br/>
 _The Ramanujan Journal 60 (2023), 237–258_ <br/>
@@ -126,7 +128,9 @@ Jan -- May 2022: Vitthal Yellambalse (BITS Goa), reading project on _cyclotomic 
 May -- July 2023: Shubhrojyoti Dhara (CMI), reading project on _elliptic curves_ <br/>
 May -- June 2023: Léonie Chipot (UOttawa), learning to write mathematical proofs <br/>
 Sep -- Dec 2023: Samyak Jha (IIT Bombay), $$p$$-adic $$L$$-functions <br/>
-Sep 2023 -- present: Raul Marquez (UTRGV), $$L$$-functions <br/>
+Sep 2023 -- present: Raul Marquez (UTRGV), elliptic curves and $$L$$-functions <br/>
+May -- July 2024: Nandini Parkhi (IISER Bhopal), reading project on _$$p$$-adic numbers_ <br/>
+May -- July 2024: Aniruddha Mondal (IISER Mohali), TBA <br/>
 
 ## Outreach
 
