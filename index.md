@@ -48,7 +48,7 @@ _Proceedings of the American Math Society 152 (2024), 521-535_ <br/>
 [Journal version](https://www.ams.org/journals/proc/0000-000-00/S0002-9939-2023-16543-0/S0002-9939-2023-16543-0.pdf)
 
 15. [Rank Jumps and Growth of Shafarevich--Tate Groups for Elliptic Curves in $$\mathbb{Z}/p\mathbb{Z}$$-Extensions](https://arxiv.org/pdf/2107.09166.pdf) (with Lea Beneish and Anwesh Ray)<br/>
-_Accepted for publication (Journal of the Australian Mathematical Society)_ <br/>
+_Journal of the Australian Mathematical Society. Volume 116, Issue 1, Pages 1-38, February 2024_ <br/>
 [Journal version](https://www.cambridge.org/core/journals/journal-of-the-australian-mathematical-society/article/rank-jumps-and-growth-of-shafarevichtate-groups-for-elliptic-curves-in-mathbb-zboldsymbolpmathbb-z-extensions/56B088DD6B916D3FC47C530376BB7F06)
 
 14. [Non-vanishing modulo $$p$$ of Hecke $$L$$-values over imaginary quadratic fields](2-variable%20Hida.pdf) (with Antonio Lei)<br/>
