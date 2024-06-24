@@ -36,7 +36,7 @@ _Accepted for publication (Math Annalen)_ <br/>
 _Accepted for publication (International Journal of Number Theory)_ <br/>
 
 18. [$$\lambda$$-Invariant Stability in Families of Modular Galois Representations](https://arxiv.org/abs/2207.02280) (with Jeffrey Hatley)<br/>
-_Accepted for publication (Research in Mathematical Sciences)_ <br/>
+_Research in the Mathematical Sciences 10.3 (2023): article 33_ <br/>
 [Journal version](https://link.springer.com/article/10.1007/s40687-023-00396-w)
 
 17. [Heuristics for  anti-cyclotomic $$\mathbb{Z}_{p}$$-Extensions](https://arxiv.org/abs/2207.13199) (with Lawrence Washington)<br/>
