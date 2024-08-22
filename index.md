@@ -15,8 +15,9 @@ I have also worked on questions in non-commutative Iwasawa theory.
 
 I have started studying questions which lie at the intersection of Iwasawa theory and arithmetic statistics. 
 In particular, a long-term goal is to understand the average behaviour of the Iwasawa invariants for class groups and Selmer groups of elliptic curves.
+Questions pertaining to Iwasawa theory of graphs have also piqued my interest.
 
-More recently, I have started thinking about questions related to Diophantine stability and Hilbert's 10th Problem.
+More recently, I have started thinking about questions related to Diophantine stability and Hilbert's 10th Problem. 
 
 I am interested in Langlands' Functoriality Conjecture and related problems in the Langlands program 
 like the Langlands' Beyond Endoscopy idea.
@@ -110,12 +111,12 @@ _Canadian Mathematics Bulletin 63 (2020), Issue 4, 921-936._ <br/>
 
 ## Teaching
 
-In Spring 2024, I am teaching MATH 3363 (Modern Algebra I).
+Fall 2024: MATH 2318 (Linear Algebra) <br/>
+Spring 2024: MATH 3363 (Modern Algebra I) <br/>
+Fall 2023: MATH 2413 (Calculus I) <br/>
 
-In Fall 2023, I taught MATH 2413 (Calculus I).
-
-I have taught Calculus (single and multi-variable) and first year Linear Algebra at the University of Toronto and UBC (Vancouver). 
-While I was a graduate student at the University of Toronto, I have also been a Teaching Assistant for several courses. 
+Previously, I taught Calculus (single and multi-variable) and first year Linear Algebra at the University of Toronto and UBC (Vancouver). 
+While I was a graduate student at the University of Toronto, I was a Teaching Assistant for several courses. 
 
 To know about my teaching philosophy you can read my [teaching statement](teaching%20statement.pdf).  
 
@@ -126,14 +127,14 @@ I was a member of the UBC [Math Department's Equity, Diversity, and Inclusion Co
 ## Undergraduate Mentorship
 
 I have mentored the following students for their Bachelors project/ thesis. <br/>
-Aug 2021 -- April 2023: Adithya Chakravarthy (University of Toronto), thesis on _Iwasawa Theory_ <br/>
+Aug 2021 -- April 2023: [Adithya Chakravarthy](https://adithya-chakravarthy.motif.land/) (University of Toronto), thesis on _Iwasawa Theory_ <br/>
 Jan -- May 2022: Vitthal Yellambalse (BITS Goa), reading project on _cyclotomic fields_ <br/>
 May -- July 2023: Shubhrojyoti Dhara (CMI), reading project on _elliptic curves_ <br/>
 May -- June 2023: Léonie Chipot (UOttawa), learning to write mathematical proofs <br/>
 Sep -- Dec 2023: Samyak Jha (IIT Bombay), $$p$$-adic $$L$$-functions <br/>
 Sep 2023 -- present: Raul Marquez (UTRGV), elliptic curves and $$L$$-functions <br/>
 May -- July 2024: Nandini Parkhi (IISER Bhopal), reading project on _$$p$$-adic numbers_ <br/>
-May -- July 2024: Aniruddha Mondal (IISER Mohali), TBA <br/>
+May -- July 2024: Aniruddha Mondal (IISER Mohali), reading project on _$$p$$-adic numbers_ <br/>
 
 ## Outreach
 
@@ -173,7 +174,11 @@ I was a project leader at the [Rethinking Number Theory Workshop](https://sites.
 
 I am currently organizing the [Algebra/Number Theory Seminar](https://faculty.utrgv.edu/luigi.ferraro/ANT/Spring24.html) at UTRGV with my colleague Luigi Ferraro.
 
-I will be organizing a special session with my colleague Brandt Kronholm at the AMS Fall Sectional Meeting in San Antonio (Sep 15-16, 2024).
+I will be (co)-organizing a special session on 'Additive Number Theory and Modular Forms' with my colleague Brandt Kronholm at the [AMS Fall Sectional Meeting in San Antonio](https://www.ams.org/meetings/sectional/2319_program.html) (Sep 14-15, 2024).
+
+I will be (co)-organizing a special session on 'Arithmetic Aspects of Galois Representations' with Antonio Lei at the [CMS Winter Meeting in Vancouver, BC](https://www2.cms.math.ca/Events/winter24/sessions_scientific#aag) (Nov 29 - Dec 2, 2024). 
+
+I will be (co)-organizing the [37th Automorphic Forms Workshop](http://automorphicformsworkshop.org/index.html) to be held at the University of North Texas, Denton (Apr 30 - May 4, 2025).
 
 ## Expository Talks, Articles and Course Notes
 
