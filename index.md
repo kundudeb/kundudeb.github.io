@@ -129,7 +129,7 @@ I was a member of the UBC [Math Department's Equity, Diversity, and Inclusion Co
 I have mentored the following students for their Bachelors project/ thesis. <br/>
 Aug 2021 -- April 2023: [Adithya Chakravarthy](https://adithya-chakravarthy.motif.land/) (University of Toronto), thesis on _Iwasawa Theory_ <br/>
 Jan -- May 2022: Vitthal Yellambalse (BITS Goa), reading project on _cyclotomic fields_ <br/>
-May -- July 2023: Shubhrojyoti Dhara (CMI), reading project on _elliptic curves_ <br/>
+May -- July 2023: Shubhrojyoti Dhara (ISI Bangalore), reading project on _elliptic curves_ <br/>
 May -- June 2023: Léonie Chipot (UOttawa), learning to write mathematical proofs <br/>
 Sep -- Dec 2023: Samyak Jha (IIT Bombay), $$p$$-adic $$L$$-functions <br/>
 Sep 2023 -- present: Raul Marquez (UTRGV), elliptic curves and $$L$$-functions <br/>
