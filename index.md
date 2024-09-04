@@ -172,7 +172,7 @@ I was a co-organizer for the [Beyond Endoscopy Mini Conference](http://www.field
 
 I was a project leader at the [Rethinking Number Theory Workshop](https://sites.google.com/view/rethinkingnumbertheory/home) in June 2023.
 
-I am currently organizing the [Algebra/Number Theory Seminar](https://faculty.utrgv.edu/luigi.ferraro/ANT/Spring24.html) at UTRGV with my colleague Luigi Ferraro.
+I am currently organizing the [Algebra/Number Theory Seminar](https://faculty.utrgv.edu/luigi.ferraro/ANT/Fall24.html) at UTRGV with my colleague Luigi Ferraro.
 
 I will be (co)-organizing a special session on 'Additive Number Theory and Modular Forms' with my colleague Brandt Kronholm at the [AMS Fall Sectional Meeting in San Antonio](https://www.ams.org/meetings/sectional/2319_program.html) (Sep 14-15, 2024).
 
