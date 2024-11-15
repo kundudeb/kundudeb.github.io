@@ -174,7 +174,7 @@ I was a project leader at the [Rethinking Number Theory Workshop](https://sites.
 
 I am currently organizing the [Algebra/Number Theory Seminar](https://faculty.utrgv.edu/luigi.ferraro/ANT/Fall24.html) at UTRGV with my colleague Luigi Ferraro.
 
-I will be (co)-organizing a special session on 'Additive Number Theory and Modular Forms' with my colleague Brandt Kronholm at the [AMS Fall Sectional Meeting in San Antonio](https://www.ams.org/meetings/sectional/2319_program.html) (Sep 14-15, 2024).
+I (co)-organized a special session on 'Additive Number Theory and Modular Forms' with my colleague Brandt Kronholm at the [AMS Fall Sectional Meeting in San Antonio](https://www.ams.org/meetings/sectional/2319_program.html) (Sep 14-15, 2024).
 
 I will be (co)-organizing a special session on 'Arithmetic Aspects of Galois Representations' with Antonio Lei at the [CMS Winter Meeting in Vancouver, BC](https://www2.cms.math.ca/Events/winter24/sessions_scientific#aag) (Nov 29 - Dec 2, 2024). 
 
