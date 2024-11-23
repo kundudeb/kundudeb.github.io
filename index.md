@@ -35,7 +35,7 @@ _Math Annalen Volume 390, pages 5153–5183 (2024)_ <br/>
 [Journal version](https://link.springer.com/article/10.1007/s00208-024-02879-9)
 
 19. [Statistics for Iwasawa Invariants of Elliptic Curves II](https://arxiv.org/abs/2106.12095) (with Anwesh Ray)<br/>
-_International Journal of Number Theory Vol. 20, No. 04, pp. 1099-1124 (2024)_ <br/>
+_Int. J. Number Theory Vol. 20, No. 04, pp. 1099-1124 (2024)_ <br/>
 [Journal version](https://www.worldscientific.com/doi/abs/10.1142/S1793042124500556)
 
 18. [$$\lambda$$-Invariant Stability in Families of Modular Galois Representations](https://arxiv.org/abs/2207.02280) (with Jeffrey Hatley)<br/>
