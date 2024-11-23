@@ -171,6 +171,7 @@ Between September 2021 and December 2022, I was an organizer of the weekly [UBC 
 I was a co-organizer for the [Beyond Endoscopy Mini Conference](http://www.fields.utoronto.ca/activities/22-23/endoscopy) in April 2023. 
 
 I was a project leader at the [Rethinking Number Theory Workshop](https://sites.google.com/view/rethinkingnumbertheory/home) in June 2023.
+See our preprint [here](https://arxiv.org/pdf/2408.04481).
 
 I am currently organizing the [Algebra/Number Theory Seminar](https://faculty.utrgv.edu/luigi.ferraro/ANT/Fall24.html) at UTRGV with my colleague Luigi Ferraro.
 
