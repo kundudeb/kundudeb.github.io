@@ -28,6 +28,7 @@ To know more about my research you can look at my [research statement](RS2022_we
 
 21. [Statistics for Anticyclotomic Iwasawa Invariants of Elliptic Curves](https://arxiv.org/abs/2106.01517) (with Jeffrey Hatley and Anwesh Ray)<br/>
 _Math Zeitschrift Volume 307, article number 49 (2024)_<br/>
+[Journal version](https://link.springer.com/article/10.1007/s00209-024-03517-5)
 
 20. [Studying Hilbert's 10th Problem Via Explicit Elliptic Curves](https://arxiv.org/abs/2207.07021) (with Antonio Lei and Florian Sprung)<br/>
 _Math Annalen Volume 390, pages 5153–5183 (2024)_ <br/>
