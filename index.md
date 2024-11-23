@@ -30,7 +30,7 @@ To know more about my research you can look at my [research statement](RS2022_we
 _Accepted for publication (Math Zeitschrift)_<br/>
 
 20. [Studying Hilbert's 10th Problem Via Explicit Elliptic Curves](https://arxiv.org/abs/2207.07021) (with Antonio Lei and Florian Sprung)<br/>
-_Accepted for publication (Math Annalen)_ <br/>
+_Math Annalen Volume 390, pages 5153–5183, (2024)_ <br/>
 [Journal version](https://link.springer.com/article/10.1007/s00208-024-02879-9)
 
 19. [Statistics for Iwasawa Invariants of Elliptic Curves II](https://arxiv.org/abs/2106.12095) (with Anwesh Ray)<br/>
