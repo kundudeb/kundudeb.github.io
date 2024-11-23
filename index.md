@@ -126,6 +126,11 @@ To know about my teaching philosophy you can read my [teaching statement](teachi
 
 I was a member of the UBC [Math Department's Equity, Diversity, and Inclusion Committee](https://www.math.ubc.ca/about-our-department/equity-diversity-and-inclusion) for the academic year 2021-22.
 
+## Graduate Mentorship
+
+I have mentored the following students for their Masters project/ thesis. <br/>
+May -- Nov 2024: Ama Quansah (UTRGV), Tribonacci numbers as a product of two Lucas numbers <br/> 
+
 ## Undergraduate Mentorship
 
 I have mentored the following students for their Bachelors project/ thesis. <br/>
@@ -134,9 +139,11 @@ Jan -- May 2022: Vitthal Yellambalse (BITS Goa), reading project on _cyclotomic 
 May -- July 2023: Shubhrojyoti Dhara (ISI Bangalore), reading project on _elliptic curves_ <br/>
 May -- June 2023: Léonie Chipot (UOttawa), learning to write mathematical proofs <br/>
 Sep -- Dec 2023: Samyak Jha (IIT Bombay), $$p$$-adic $$L$$-functions <br/>
-Sep 2023 -- present: Raul Marquez (UTRGV), elliptic curves and $$L$$-functions <br/>
+Sep -- Dec 2023: Raul Marquez (UTRGV), elliptic curves and $$L$$-functions <br/>
 May -- July 2024: Nandini Parkhi (IISER Bhopal), reading project on _$$p$$-adic numbers_ <br/>
 May -- July 2024: Aniruddha Mondal (IISER Mohali), reading project on _$$p$$-adic numbers_ <br/>
+Sep -- Dec 2024: Raul Marquez (UTRGV), root systems <br/> 
+May 2024 -- present: Alejandro Delgado (UTRGV), elliptic curves <br/>
 
 ## Outreach
 
