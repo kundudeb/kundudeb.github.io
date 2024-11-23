@@ -113,6 +113,7 @@ _Canadian Mathematics Bulletin 63 (2020), Issue 4, 921-936._ <br/>
 
 ## Teaching
 
+Spring 2025: MATH 4364 (Modern Algebra II) <br/>
 Fall 2024: MATH 2318 (Linear Algebra) <br/>
 Spring 2024: MATH 3363 (Modern Algebra I) <br/>
 Fall 2023: MATH 2413 (Calculus I) <br/>
