@@ -41,7 +41,7 @@ _Research in the Mathematical Sciences 10.3 (2023): article 33_ <br/>
 [Journal version](https://link.springer.com/article/10.1007/s40687-023-00396-w)
 
 17. [Heuristics for  anti-cyclotomic $$\mathbb{Z}_{p}$$-Extensions](https://arxiv.org/abs/2207.13199) (with Lawrence Washington)<br/>
-_Accepted for publication (Experimental Math)_ <br/>
+_Experimental Math Volume 33, 2024 - Issue 4_ <br/>
 [Journal version](https://www.tandfonline.com/doi/full/10.1080/10586458.2023.2221866)
 
 16. [Cotorsion of Anti-Cyclotomic Selmer groups on average](https://arxiv.org/abs/2305.10571) (with Florian Sprung)<br/>
