@@ -130,7 +130,7 @@ I was a member of the UBC [Math Department's Equity, Diversity, and Inclusion Co
 ## Graduate Mentorship
 
 I have mentored the following students for their Masters project/ thesis. <br/>
-May -- Nov 2024: Ama Quansah (UTRGV), Tribonacci numbers as a product of two Lucas numbers <br/> 
+May -- Nov 2024: Ama Quansah (UTRGV), Tribonacci numbers as a product of two Lucas numbers [presentation](Ama_project_presn.pdf) <br/> 
 
 ## Undergraduate Mentorship
 
