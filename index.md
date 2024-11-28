@@ -189,7 +189,7 @@ I (co)-organized a special session on 'Additive Number Theory and Modular Forms'
 
 I will be (co)-organizing a special session on 'Arithmetic Aspects of Galois Representations' with Antonio Lei at the [CMS Winter Meeting in Vancouver, BC](https://www2.cms.math.ca/Events/winter24/sessions_scientific#aag) (Nov 29 - Dec 2, 2024). 
 
-I will be (co)-organizing the [37th Automorphic Forms Workshop](http://automorphicformsworkshop.org/index.html) to be held at the University of North Texas, Denton (Apr 30 - May 4, 2025).
+I will be (co)-organizing the [37th Automorphic Forms Workshop](http://automorphicformsworkshop.org/index.html) to be held at the University of North Texas, Denton (Apr 30 - May 4, 2025). This is funded by the NSF grant DMS-2442586.
 
 ## Expository Talks, Articles and Course Notes
 
