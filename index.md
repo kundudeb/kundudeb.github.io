@@ -191,10 +191,11 @@ I will be (co)-organizing a special session on 'Arithmetic Aspects of Galois Rep
 
 I will be (co)-organizing the [37th Automorphic Forms Workshop](http://automorphicformsworkshop.org/index.html) to be held at the University of North Texas, Denton (Apr 30 - May 4, 2025). This is funded by the NSF grant DMS-2442586.
 
-## Expository Talks, Articles and Course Notes
+## Expository Talks, Articles, and Course Notes
 
 1. [MSRI Summer School (2017): Automorphic Forms and the Langlands' Program](https://github.com/kundudeb/kundudeb.github.io/blob/master/MSRI_Summer_School__Automorphic_forms_and_the_Langlands_program.pdf)
 2. [Introduction to Iwasawa Theory (of Fine Selmer Groups)](https://youtu.be/CiwR-YcEetI)
+3. [How to write a competitive postdoc statement](Presentations.pdf) - a presentation for graduate students at CMS 2024 (Vancouver)
 
 ## Travel Calendar
 
