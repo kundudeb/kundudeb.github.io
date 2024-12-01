@@ -13,11 +13,13 @@ My research interests include Diophantine equations, Iwasawa theory, and Beyond 
 For my PhD thesis, I studied growth patterns of fine Selmer groups in infinite towers of number fields.
 I have also worked on questions in non-commutative Iwasawa theory.
 
-I have started studying questions which lie at the intersection of Iwasawa theory and arithmetic statistics. 
+Many questions which I study lie at the intersection of Iwasawa theory and arithmetic statistics. 
 In particular, a long-term goal is to understand the average behaviour of the Iwasawa invariants for class groups and Selmer groups of elliptic curves.
 Questions pertaining to Iwasawa theory of graphs have also piqued my interest.
 
-More recently, I have started thinking about questions related to Diophantine stability and Hilbert's 10th Problem. 
+I think about questions related to Diophantine stability and Hilbert's 10th Problem. 
+
+More recently, I have studied some questions related to the Iwasawa theory of graphs.
 
 I am interested in Langlands' Functoriality Conjecture and related problems in the Langlands program 
 like the Langlands' Beyond Endoscopy idea.
