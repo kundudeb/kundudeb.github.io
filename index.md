@@ -28,7 +28,7 @@ To know more about my research you can look at my [research statement](RS2022_we
 
 ## Publications
 
-22. [On a conjecture of Mazur predicting the growth of Mordell-Weil ranks in $\mathbb{Z}_p$-extensions](https://arxiv.org/abs/2401.07792) (with Rylan Gajek-Leonard, Jeffrey Hatley, and Antonio Lei) <br/>
+22. [On a conjecture of Mazur predicting the growth of Mordell-Weil ranks in $$\mathbb{Z}_p$$-extensions](https://arxiv.org/abs/2401.07792) (with Rylan Gajek-Leonard, Jeffrey Hatley, and Antonio Lei) <br/>
 _accepted (Math Research Letters)_ <br/>
 
 21. [Statistics for Anticyclotomic Iwasawa Invariants of Elliptic Curves](https://arxiv.org/abs/2106.01517) (with Jeffrey Hatley and Anwesh Ray)<br/>
