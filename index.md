@@ -4,8 +4,6 @@ In June 2020, I earned my Ph.D in mathematics at the University of Toronto. My s
 
 My curriculum vitae can be found here: [CV](cv.pdf).
 
-I am currently recruiting Masters and PhD students for positions starting Spring/Fall 2025. 
-
 ## Research
 
 My research interests include Diophantine equations, Iwasawa theory, and Beyond Endoscopy. 
@@ -17,9 +15,7 @@ Many questions which I study lie at the intersection of Iwasawa theory and arith
 In particular, a long-term goal is to understand the average behaviour of the Iwasawa invariants for class groups and Selmer groups of elliptic curves.
 Questions pertaining to Iwasawa theory of graphs have also piqued my interest.
 
-I think about questions related to Diophantine stability and Hilbert's 10th Problem. 
-
-More recently, I have studied some questions related to the Iwasawa theory of graphs.
+I have thought about questions related to Diophantine stability and Hilbert's 10th Problem. 
 
 I am interested in Langlands' Functoriality Conjecture and related problems in the Langlands program 
 like the Langlands' Beyond Endoscopy idea.
@@ -192,7 +188,7 @@ I am currently organizing the [Algebra/Number Theory Seminar](https://faculty.ut
 
 I (co)-organized a special session on 'Additive Number Theory and Modular Forms' with my colleague Brandt Kronholm at the [AMS Fall Sectional Meeting in San Antonio](https://www.ams.org/meetings/sectional/2319_program.html) (Sep 14-15, 2024).
 
-I will be (co)-organizing a special session on 'Arithmetic Aspects of Galois Representations' with Antonio Lei at the [CMS Winter Meeting in Vancouver, BC](https://www2.cms.math.ca/Events/winter24/sessions_scientific#aag) (Nov 29 - Dec 2, 2024). 
+I (co)-organized a special session on 'Arithmetic Aspects of Galois Representations' with Antonio Lei at the [CMS Winter Meeting in Vancouver, BC](https://www2.cms.math.ca/Events/winter24/sessions_scientific#aag) (Nov 29 - Dec 2, 2024). 
 
 I will be (co)-organizing the [37th Automorphic Forms Workshop](http://automorphicformsworkshop.org/index.html) to be held at the University of North Texas, Denton (Apr 30 - May 4, 2025). This is funded by the NSF grant DMS-2442586.
 
