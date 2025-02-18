@@ -24,7 +24,7 @@ To know more about my research you can look at my [research statement](RS2022_we
 
 ## Publications
 
-23. [Hilbert's 10-th Problem via Mordell curves](https://arxiv.org/abs/2412.04253)(with Somnath Jha and Dipramit Majumdar) <br/>
+23. [Hilbert's 10-th Problem via Mordell curves](https://arxiv.org/abs/2412.04253) (with Somnath Jha and Dipramit Majumdar) <br/>
 _accepted (Canadian Math Bulletin)_ <br/>
 
 22. [On a conjecture of Mazur predicting the growth of Mordell-Weil ranks in $$\mathbb{Z}_p$$-extensions](https://arxiv.org/abs/2401.07792) (with Rylan Gajek-Leonard, Jeffrey Hatley, and Antonio Lei) <br/>
