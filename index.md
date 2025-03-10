@@ -24,6 +24,9 @@ To know more about my research you can look at my [research statement](RS2022_we
 
 ## Publications
 
+24. [Derived $$p$$-adic heights and the leading coefficient of the Bertolini-Darmon-Prasanna $$p$$-adic $$L$$-function](https://arxiv.org/abs/2308.10474) (with Francesc Castella, Chi-Yun Hsu, Yu-Sheng Lee, and Zheng Liu) <br/>
+_accepted (Transactions of AMS)_ <br/>
+
 23. [Hilbert's 10-th Problem via Mordell curves](https://arxiv.org/abs/2412.04253) (with Somnath Jha and Dipramit Majumdar) <br/>
 _accepted (Canadian Math Bulletin)_ <br/>
 
