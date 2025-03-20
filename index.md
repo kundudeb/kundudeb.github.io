@@ -29,6 +29,7 @@ _accepted (Transactions of AMS)_ <br/>
 
 23. [Hilbert's 10-th Problem via Mordell curves](https://arxiv.org/abs/2412.04253) (with Somnath Jha and Dipramit Majumdar) <br/>
 _accepted (Canadian Math Bulletin)_ <br/>
+[Journal version](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/hilberts-10th-problem-via-mordell-curves/594CDBDBD389132014F78FF2386CBBF2)
 
 22. [On a conjecture of Mazur predicting the growth of Mordell-Weil ranks in $$\mathbb{Z}_p$$-extensions](https://arxiv.org/abs/2401.07792) (with Rylan Gajek-Leonard, Jeffrey Hatley, and Antonio Lei) <br/>
 _accepted (Math Research Letters)_ <br/>
@@ -151,7 +152,8 @@ Sep -- Dec 2023: Raul Marquez (UTRGV), elliptic curves and $$L$$-functions <br/>
 May -- July 2024: Nandini Parkhi (IISER Bhopal), reading project on _$$p$$-adic numbers_ <br/>
 May -- July 2024: Aniruddha Mondal (IISER Mohali), reading project on _$$p$$-adic numbers_ <br/>
 Sep -- Dec 2024: Raul Marquez (UTRGV), root systems <br/> 
-May 2024 -- present: Alejandro Delgado (UTRGV), elliptic curves <br/>
+May -- Dec 2024: Alejandro Delgado (UTRGV), elliptic curves <br/>
+Summer 2025: Arkaprioyo Hore (ISI Bangalore), TBA <br/>
 
 ## Outreach
 
@@ -196,7 +198,7 @@ I (co)-organized a special session on 'Additive Number Theory and Modular Forms'
 
 I (co)-organized a special session on 'Arithmetic Aspects of Galois Representations' with Antonio Lei at the [CMS Winter Meeting in Vancouver, BC](https://www2.cms.math.ca/Events/winter24/sessions_scientific#aag) (Nov 29 - Dec 2, 2024). 
 
-I will be (co)-organizing the [37th Automorphic Forms Workshop](http://automorphicformsworkshop.org/index.html) to be held at the University of North Texas, Denton (Apr 30 - May 4, 2025). This is funded by the NSF grant DMS-2442586.
+I am (co)-organizing the [37th Automorphic Forms Workshop](http://automorphicformsworkshop.org/index.html) to be held at the University of North Texas, Denton (Apr 30 - May 4, 2025). This is funded by the NSF grant DMS-2442586.
 
 ## Expository Talks, Articles, and Course Notes
 
