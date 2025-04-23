@@ -139,7 +139,7 @@ To know about my teaching philosophy you can read my [teaching statement](teachi
 
 ## Service
 
-I was a member of the UBC [Math Department's Equity, Diversity, and Inclusion Committee](https://www.math.ubc.ca/about-our-department/equity-diversity-and-inclusion) for the academic year 2021-22.
+I was a member of the UBC [Math Department's Equity, Diversity, and Inclusion Committee](https://www.math.ubc.ca/about-our-department/equity-diversity-and-inclusion) for the academic year 2021-22. 
 
 ## Graduate Mentorship
 
@@ -159,7 +159,7 @@ May -- July 2024: Nandini Parkhi (IISER Bhopal), reading project on _$$p$$-adic 
 May -- July 2024: Aniruddha Mondal (IISER Mohali), reading project on _$$p$$-adic numbers_ <br/>
 Sep -- Dec 2024: Raul Marquez (UTRGV), root systems <br/> 
 May -- Dec 2024: Alejandro Delgado (UTRGV), elliptic curves <br/>
-Summer 2025: Arkaprioyo Hore (ISI Bangalore), TBA <br/>
+Summer 2025: Arkapriyo Hore (ISI Bangalore), TBA <br/>
 
 ## Outreach
 
