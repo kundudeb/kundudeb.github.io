@@ -24,7 +24,7 @@ To know more about my research you can look at my [research statement](RS2022_we
 
 ## Publications
 
-26. Class Groups and Selmer Groups in Special Families (with Abhishek) <br/>
+26. [Class Groups and Selmer Groups in Special Families](https://arxiv.org/pdf/2504.15428) (with Abhishek) <br/>
 _accepted (Canadian Math Bulletin)_ <br/>
 
 25. [Mazur's Growth Number Conjecture in the rank one case](https://arxiv.org/pdf/2504.10761) (with Antonio Lei) <br/>
