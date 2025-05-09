@@ -31,7 +31,8 @@ _accepted (Canadian Math Bulletin)_ <br/>
 _accepted (Quarterly J Math)_ <br/>
 
 24. [Derived $$p$$-adic heights and the leading coefficient of the Bertolini-Darmon-Prasanna $$p$$-adic $$L$$-function](https://arxiv.org/abs/2308.10474) (with Francesc Castella, Chi-Yun Hsu, Yu-Sheng Lee, and Zheng Liu) <br/>
-_accepted (Transactions of AMS)_ <br/>
+_Trans. Amer. Math. Soc. Ser. B 12 (2025), 748-788_ <br/>
+[Journal version](https://www.ams.org/journals/btran/2025-12-20/S2330-0000-2025-00227-9/)
 
 23. [Hilbert's 10-th Problem via Mordell curves](https://arxiv.org/abs/2412.04253) (with Somnath Jha and Dipramit Majumdar) <br/>
 _accepted (Canadian Math Bulletin)_ <br/>
