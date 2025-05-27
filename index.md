@@ -70,7 +70,8 @@ _J. Aus. Math. Society 116(1), 1-38 (February 2024)_ <br/>
 [Journal version](https://www.cambridge.org/core/journals/journal-of-the-australian-mathematical-society/article/rank-jumps-and-growth-of-shafarevichtate-groups-for-elliptic-curves-in-mathbb-zboldsymbolpmathbb-z-extensions/56B088DD6B916D3FC47C530376BB7F06)
 
 14. [Non-vanishing modulo $$p$$ of Hecke $$L$$-values over imaginary quadratic fields](2-variable%20Hida.pdf) (with Antonio Lei)<br/>
-_Accepted for publication (Israel Journal of Mathematics)_
+_Israel Journal of Mathematics, Volume 266 (2025), pages 307–339_ <br/>
+[Journal version](https://link.springer.com/article/10.1007/s11856-024-2688-8)
 
 13. [Growth of $$p$$-parts of ideal class groups and fine Selmer groups in $$\mathbb{Z}_q$$-extensions with $$p\neq q$$](FSG_p_neq_q.pdf) (with Antonio Lei)<br/>
 _Acta Arithmetica 207 (2023), 297-313_<br/>
