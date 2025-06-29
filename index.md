@@ -29,6 +29,7 @@ _accepted (Math. Proc. Cambridge Philos. Soc.)_ <br/>
 
 26. [Class Groups and Selmer Groups in Special Families](https://arxiv.org/pdf/2504.15428) (with Abhishek) <br/>
 _accepted (Canadian Math Bulletin)_ <br/>
+[Journal version](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/class-groups-and-selmer-groups-in-special-families/571AB0FE2583293FB08DB12639E8BFBD)
 
 25. [Mazur's Growth Number Conjecture in the rank one case](https://arxiv.org/pdf/2504.10761) (with Antonio Lei) <br/>
 _accepted (Quarterly J Math)_ <br/>
