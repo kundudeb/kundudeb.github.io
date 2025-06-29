@@ -24,7 +24,7 @@ To know more about my research you can look at my [research statement](RS2022_we
 
 ## Publications
 
-27. Murmurations of Modular Forms and $$p$$-power Coefficients (with K. Mueller) <br/>
+27. Murmurations of Modular Forms and $$p$$-power Coefficients (with Katharina Mueller) <br/>
 _accepted (Math. Proc. Cambridge Philos. Soc.)_ <br/>
 
 26. [Class Groups and Selmer Groups in Special Families](https://arxiv.org/pdf/2504.15428) (with Abhishek) <br/>
