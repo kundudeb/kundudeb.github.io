@@ -129,7 +129,7 @@ _Journal of the Ramanujan Math Society 36 (2021), No. 1._ <br/>
 _Canadian Mathematics Bulletin 63 (2020), Issue 4, 921-936._ <br/>
 [Journal version](http://dx.doi.org/10.4153/S0008439520000168).
 
-(For preprints you may check [arXiv](https://arxiv.org/find/all/1/au:+kundu_debanjana/0/1/0/all/0/1?skip=0&query_id=305e10b27284e50d) or my CV.)
+(For preprints you may check [arXiv](https://arxiv.org/search/?query=kundu%2C+debanjana&searchtype=all&source=header) or my CV.)
 
 ## Teaching
 
