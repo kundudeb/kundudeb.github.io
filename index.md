@@ -1,6 +1,6 @@
 ## About Me
 
-In June 2020, I earned my Ph.D in mathematics at the University of Toronto. My supervisor was [Prof. Kumar Murty](http://murty.math.toronto.edu/) and my co-advisor was [Prof R. Sujatha](https://www.math.ubc.ca/~sujatha/). In Fall 2020, I was at CRM Montreal attending the [Thematic Program on Cohomology in Arithmetic](http://www.crm.umontreal.ca/2020/Nombres2020/index_e.php). Between January 2021 and December 2022, I was a [PIMS Postdoctoral Fellow](https://www.pims.math.ca/scientific/postdoctoral/postdoctoral-fellows#pdf-2020) at [UBC, Vancouver](https://www.math.ubc.ca/Research/NumberTheory/index.shtml?overview). I was affiliated with the [Fields Institute](http://www.fields.utoronto.ca/) between January and August 2023. Since Fall 2023, I am a tenure track assistant professor at [UTRGV](https://www.utrgv.edu/math/). 
+In June 2020, I earned my Ph.D in mathematics at the University of Toronto. My supervisor was [Prof. Kumar Murty](http://murty.math.toronto.edu/) and my co-advisor was [Prof R. Sujatha](https://www.math.ubc.ca/~sujatha/). In Fall 2020, I was at CRM Montreal attending the [Thematic Program on Cohomology in Arithmetic](http://www.crm.umontreal.ca/2020/Nombres2020/index_e.php). Between January 2021 and December 2022, I was a [PIMS Postdoctoral Fellow](https://www.pims.math.ca/scientific/postdoctoral/postdoctoral-fellows#pdf-2020) at [UBC, Vancouver](https://www.math.ubc.ca/Research/NumberTheory/index.shtml?overview). I was affiliated with the [Fields Institute](http://www.fields.utoronto.ca/) between January and August 2023. I was a tenure track assistant professor at [UTRGV](https://www.utrgv.edu/math/) for the academic years 2023-25. I am now a faculty member at the [University of Regina](https://www.uregina.ca/science/mathstat/index.html). 
 
 My curriculum vitae can be found here: [CV](cv.pdf).
 
@@ -24,7 +24,7 @@ To know more about my research you can look at my [research statement](RS2022_we
 
 ## Publications
 
-27. Murmurations of Modular Forms and $$p$$-power Coefficients (with Katharina Mueller) <br/>
+27. [Murmurations of Modular Forms and $$p$$-power Coefficients](https://arxiv.org/pdf/2507.00738) (with Katharina Mueller) <br/>
 _accepted (Math. Proc. Cambridge Philos. Soc.)_ <br/>
 
 26. [Class Groups and Selmer Groups in Special Families](https://arxiv.org/pdf/2504.15428) (with Abhishek) <br/>
