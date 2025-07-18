@@ -168,7 +168,7 @@ May -- July 2024: Nandini Parkhi (IISER Bhopal), reading project on _$$p$$-adic 
 May -- July 2024: Aniruddha Mondal (IISER Mohali), reading project on _$$p$$-adic numbers_ <br/>
 Sep -- Dec 2024: Raul Marquez (UTRGV), root systems <br/> 
 May -- Dec 2024: Alejandro Delgado (UTRGV), elliptic curves <br/>
-Summer 2025: Arkapriyo Hore (ISI Bangalore), TBA <br/>
+Jun -- Jul 2025: Arkapriyo Hore (ISI Bangalore), Brauer-Severi varieties <br/>
 
 ## Outreach
 
