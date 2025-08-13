@@ -24,8 +24,11 @@ To know more about my research you can look at my [research statement](RS2022_we
 
 ## Publications
 
+29. [The first level of $$\mathbb Z_p$$-extensions and compatibility of heuristics](https://arxiv.org/abs/2410.06193) (with Lawrence Washington) <br/>
+_accepted (Reserach in Mathematical Sciences)_ <br/>
+
 28. [Elliptic curves of conductor $$2^m p$$, quadratic twists, and Watkins' conjecture](https://arxiv.org/abs/2411.08321) (with Jeffrey Hatley) <br/>
-_accepted (Annales mathématiques du Québec)_
+_accepted (Annales mathématiques du Québec)_ <br/>
 
 27. [Murmurations of Modular Forms and $$p$$-power Coefficients](https://arxiv.org/pdf/2507.00738) (with Katharina Mueller) <br/>
 _accepted (Math. Proc. Cambridge Philos. Soc.)_ <br/>
