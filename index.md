@@ -32,6 +32,7 @@ _accepted (Annales mathématiques du Québec)_ <br/>
 
 27. [Murmurations of Modular Forms and $$p$$-power Coefficients](https://arxiv.org/pdf/2507.00738) (with Katharina Mueller) <br/>
 _accepted (Math. Proc. Cambridge Philos. Soc.)_ <br/>
+[Journal version](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/murmurations-of-modular-forms-and-ppower-coefficients/1602F2BC3C0B71F2C3515C91ECB4E2FB)
 
 26. [Class Groups and Selmer Groups in Special Families](https://arxiv.org/pdf/2504.15428) (with Abhishek) <br/>
 _accepted (Canadian Math Bulletin)_ <br/>
