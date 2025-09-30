@@ -24,7 +24,7 @@ To know more about my research you can look at my [research statement](RS2022_we
 
 ## Publications
 
-30. Generalized Mazur's Growth Number Conjecture (with Antonio Lei) <br/>
+30. [Generalized Mazur's Growth Number Conjecture](KL25_GNC.pdf) (with Antonio Lei) <br/>
 _accepted (Bull. Aust. Math. Soc.)_
 
 29. [The first level of $$\mathbb Z_p$$-extensions and compatibility of heuristics](https://arxiv.org/abs/2410.06193) (with Lawrence Washington) <br/>
