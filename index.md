@@ -24,8 +24,11 @@ To know more about my research you can look at my [research statement](RS2022_we
 
 ## Publications
 
+30. Generalized Mazur's Growth Number Conjecture (with Antonio Lei) <br/>
+_accepted (Bull. Aust. Math. Soc.)_
+
 29. [The first level of $$\mathbb Z_p$$-extensions and compatibility of heuristics](https://arxiv.org/abs/2410.06193) (with Lawrence Washington) <br/>
-_accepted (Research in Mathematical Sciences)_ <br/>
+_Research in Mathematical Sciences 12 (2025), article number 68_ <br/>
 [Journal version](https://link.springer.com/article/10.1007/s40687-025-00551-5)
 
 28. [Elliptic curves of conductor $$2^m p$$, quadratic twists, and Watkins' conjecture](https://arxiv.org/abs/2411.08321) (with Jeffrey Hatley) <br/>
