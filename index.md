@@ -142,6 +142,16 @@ _Canadian Mathematics Bulletin 63 (2020), Issue 4, 921-936._ <br/>
 
 (For preprints you may check [arXiv](https://arxiv.org/search/?query=kundu%2C+debanjana&searchtype=all&source=header) or my CV.)
 
+## Recommendation Letters
+
+Letter-writing is an important part of my job. It is in your interest to make this job as easy as possible for me.
+
+If you would like me to write you a recommendation letter, please let me know _at least 4 weeks_ before the first deadline and please provide me with all necessary material (that is, a copy of everything you will be submitting) _at least 3 weeks_ before the first deadline.
+
+For undergraduate students at my institution: It will help me immensely if you let me know of your intention of asking for a letter while our interactions are still fresh in my memory, such as right after completing a course. 
+
+Good luck with your applications!
+
 ## Teaching
 
 Spring 2025: MATH 4364 (Modern Algebra II) <br/>
@@ -177,16 +187,6 @@ May -- July 2024: Aniruddha Mondal (IISER Mohali), reading project on _$$p$$-adi
 Sep -- Dec 2024: Raul Marquez (UTRGV), root systems <br/> 
 May -- Dec 2024: Alejandro Delgado (UTRGV), elliptic curves <br/>
 Jun -- Jul 2025: Arkapriyo Hore (ISI Bangalore), Brauer-Severi varieties <br/>
-
-## Recommendation Letters
-
-Letter-writing is an important part of my job. It is in your interest to make this job as easy as possible for me.
-
-If you would like me to write you a recommendation letter, please let me know _at least 4 weeks_ before the first deadline and please provide me with all necessary material (that is, a copy of everything you will be submitting) _at least 3 weeks_ before the first deadline.
-
-For undergraduate students at my institution: It will help me immensely if you let me know of your intention of asking for a letter while our interactions are still fresh in my memory, such as right after completing a course. 
-
-Good luck with your applications!
 
 ## Outreach
 
