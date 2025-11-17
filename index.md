@@ -178,6 +178,10 @@ Sep -- Dec 2024: Raul Marquez (UTRGV), root systems <br/>
 May -- Dec 2024: Alejandro Delgado (UTRGV), elliptic curves <br/>
 Jun -- Jul 2025: Arkapriyo Hore (ISI Bangalore), Brauer-Severi varieties <br/>
 
+## Recommendation Letters
+
+If you would like me to write you a recommendation letter, please let me know _around 6 weeks_ before the first deadline and please provide me with all necessary documentation _at least 4 weeks_ before the first deadline.
+
 ## Outreach
 
 I was a mentor for the [University of Toronto High School Mentorship Program](http://mathplus.math.utoronto.ca/home/mentorship).<br/>
@@ -222,6 +226,8 @@ I (co)-organized a special session on 'Additive Number Theory and Modular Forms'
 I (co)-organized a special session on 'Arithmetic Aspects of Galois Representations' with Antonio Lei at the [CMS Winter Meeting in Vancouver, BC](https://www2.cms.math.ca/Events/winter24/sessions_scientific#aag) (Nov 29 - Dec 2, 2024). 
 
 I (co)-organized the [37th Automorphic Forms Workshop](http://automorphicformsworkshop.org/index.html) held at the University of North Texas, Denton (Apr 30 - May 4, 2025). This was funded by the NSF grant DMS-2442586.
+
+I am co-leading a project group with Katharina Mueller at [Women in Numbers 7](https://sites.google.com/view/win7-2026/home) in June 2025.
 
 ## Expository Talks, Articles, and Course Notes
 
