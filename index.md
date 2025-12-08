@@ -225,15 +225,15 @@ I was a co-organizer for the [Beyond Endoscopy Mini Conference](http://www.field
 I was a project leader at the [Rethinking Number Theory Workshop](https://sites.google.com/view/rethinkingnumbertheory/home) in June 2023.
 See our preprint [here](https://arxiv.org/pdf/2408.04481).
 
-I am currently organizing the [Algebra/Number Theory Seminar](https://faculty.utrgv.edu/luigi.ferraro/ANT/Fall24.html) at UTRGV with my colleague Luigi Ferraro.
+I co-organized the [Algebra/Number Theory Seminar](https://faculty.utrgv.edu/luigi.ferraro/ANT/Fall24.html) at UTRGV with my colleague Luigi Ferraro during the academic years 2023-2025.
 
-I (co)-organized a special session on 'Additive Number Theory and Modular Forms' with my colleague Brandt Kronholm at the [AMS Fall Sectional Meeting in San Antonio](https://www.ams.org/meetings/sectional/2319_program.html) (Sep 14-15, 2024).
+I co-organized a special session on 'Additive Number Theory and Modular Forms' with my colleague Brandt Kronholm at the [AMS Fall Sectional Meeting in San Antonio](https://www.ams.org/meetings/sectional/2319_program.html) (Sep 14-15, 2024).
 
-I (co)-organized a special session on 'Arithmetic Aspects of Galois Representations' with Antonio Lei at the [CMS Winter Meeting in Vancouver, BC](https://www2.cms.math.ca/Events/winter24/sessions_scientific#aag) (Nov 29 - Dec 2, 2024). 
+I co-organized a special session on 'Arithmetic Aspects of Galois Representations' with Antonio Lei at the [CMS Winter Meeting in Vancouver, BC](https://www2.cms.math.ca/Events/winter24/sessions_scientific#aag) (Nov 29 - Dec 2, 2024). 
 
-I (co)-organized the [37th Automorphic Forms Workshop](http://automorphicformsworkshop.org/index.html) held at the University of North Texas, Denton (Apr 30 - May 4, 2025). This was funded by the NSF grant DMS-2442586.
+I co-organized the [37th Automorphic Forms Workshop](http://automorphicformsworkshop.org/index.html) held at the University of North Texas, Denton (Apr 30 - May 4, 2025). This was funded by the NSF grant DMS-2442586.
 
-I am co-leading a project group with Katharina Mueller at [Women in Numbers 7](https://sites.google.com/view/win7-2026/home) in June 2025.
+I am co-leading a project group with Katharina Mueller at [Women in Numbers 7](https://sites.google.com/view/win7-2026/home) in June 2026.
 
 ## Expository Talks, Articles, and Course Notes
 
