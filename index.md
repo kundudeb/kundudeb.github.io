@@ -45,6 +45,7 @@ _accepted (Canadian Math Bulletin)_ <br/>
 
 25. [Mazur's Growth Number Conjecture in the rank one case](https://arxiv.org/pdf/2504.10761) (with Antonio Lei) <br/>
 _accepted (Quarterly J Math)_ <br/>
+[Journal version](https://academic.oup.com/qjmath/advance-article-abstract/doi/10.1093/qmath/haaf012/8440160?redirectedFrom=fulltext#no-access-message)
 
 24. [Derived $$p$$-adic heights and the leading coefficient of the Bertolini-Darmon-Prasanna $$p$$-adic $$L$$-function](https://arxiv.org/abs/2308.10474) (with Francesc Castella, Chi-Yun Hsu, Yu-Sheng Lee, and Zheng Liu) <br/>
 _Trans. Amer. Math. Soc. Ser. B 12 (2025), 748-788_ <br/>
