@@ -40,7 +40,7 @@ _accepted (Math. Proc. Cambridge Philos. Soc.)_ <br/>
 [Journal version]([https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/murmurations-of-modular-forms-and-ppower-coefficients/1602F2BC3C0B71F2C3515C91ECB4E2FB](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/murmurations-of-modular-forms-and-ppower-coefficients/1602F2BC3C0B71F2C3515C91ECB4E2FB))
 
 26. [Class Groups and Selmer Groups in Special Families](https://arxiv.org/pdf/2504.15428) (with Abhishek) <br/>
-_accepted (Canadian Math Bulletin)_ <br/>
+_Canadian Mathematical Bulletin (2025), Vol. 68, Issue 4, 1315-1337_ <br/>
 [Journal version](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/class-groups-and-selmer-groups-in-special-families/571AB0FE2583293FB08DB12639E8BFBD)
 
 25. [Mazur's Growth Number Conjecture in the rank one case](https://arxiv.org/pdf/2504.10761) (with Antonio Lei) <br/>
