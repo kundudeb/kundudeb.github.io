@@ -56,7 +56,8 @@ _accepted (Canadian Math Bulletin)_ <br/>
 [Journal version](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/hilberts-10th-problem-via-mordell-curves/594CDBDBD389132014F78FF2386CBBF2)
 
 22. [On a conjecture of Mazur predicting the growth of Mordell-Weil ranks in $$\mathbb{Z}_p$$-extensions](https://arxiv.org/abs/2401.07792) (with Rylan Gajek-Leonard, Jeffrey Hatley, and Antonio Lei) <br/>
-_accepted (Math Research Letters)_ <br/>
+_Math Research Letters Volume 32 (2025) Number 6, pp. 1877-1912_ <br/>
+[Journal version](https://intlpress.com/JDetail/2011015052077928449)
 
 21. [Statistics for Anticyclotomic Iwasawa Invariants of Elliptic Curves](https://arxiv.org/abs/2106.01517) (with Jeffrey Hatley and Anwesh Ray)<br/>
 _Math Zeitschrift Volume 307, article number 49 (2024)_<br/>
