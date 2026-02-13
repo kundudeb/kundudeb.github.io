@@ -52,7 +52,7 @@ _Trans. Amer. Math. Soc. Ser. B 12 (2025), 748-788_ <br/>
 [Journal version](https://www.ams.org/journals/btran/2025-12-20/S2330-0000-2025-00227-9/)
 
 23. [Hilbert's 10-th Problem via Mordell curves](https://arxiv.org/abs/2412.04253) (with Somnath Jha and Dipramit Majumdar) <br/>
-_accepted (Canadian Math Bulletin)_ <br/>
+_Canadian Math Bulletin, Volume 68, Issue 3, September 2025, pp. 939-949_ <br/>
 [Journal version](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/hilberts-10th-problem-via-mordell-curves/594CDBDBD389132014F78FF2386CBBF2)
 
 22. [On a conjecture of Mazur predicting the growth of Mordell-Weil ranks in $$\mathbb{Z}_p$$-extensions](https://arxiv.org/abs/2401.07792) (with Rylan Gajek-Leonard, Jeffrey Hatley, and Antonio Lei) <br/>
