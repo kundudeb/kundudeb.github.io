@@ -157,6 +157,11 @@ Good luck with your applications!
 
 ## Teaching
 
+University of Regina: <br/>
+Winter 2026: MATH 108 (Mathematical Problems, Ideas, and Personalities)<br/>
+Winter 2026: MATH 223 (Introduction to Abstract Algebra)<br/>
+
+University of Texas Rio Grande Valley: <br/>
 Spring 2025: MATH 4364 (Modern Algebra II) <br/>
 Fall 2024: MATH 2318 (Linear Algebra) <br/>
 Spring 2024: MATH 3363 (Modern Algebra I) <br/>
