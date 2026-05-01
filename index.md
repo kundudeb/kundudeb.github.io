@@ -2,6 +2,8 @@
 
 In June 2020, I earned my Ph.D in mathematics at the University of Toronto. My supervisor was [Prof. Kumar Murty](http://murty.math.toronto.edu/) and my co-advisor was [Prof R. Sujatha](https://www.math.ubc.ca/~sujatha/). In Fall 2020, I was at CRM Montreal attending the [Thematic Program on Cohomology in Arithmetic](http://www.crm.umontreal.ca/2020/Nombres2020/index_e.php). Between January 2021 and December 2022, I was a [PIMS Postdoctoral Fellow](https://www.pims.math.ca/scientific/postdoctoral/postdoctoral-fellows#pdf-2020) at [UBC, Vancouver](https://www.math.ubc.ca/Research/NumberTheory/index.shtml?overview). I was affiliated with the [Fields Institute](http://www.fields.utoronto.ca/) between January and August 2023. I was a tenure track assistant professor at [UTRGV](https://www.utrgv.edu/math/) for the academic years 2023-25. I am now a faculty member at the [University of Regina](https://www.uregina.ca/science/mathstat/index.html). 
 
+My research is supported by an NSERC Discovery Grant.
+
 My curriculum vitae can be found here: [CV](cv.pdf).
 
 ## Research
@@ -36,15 +38,15 @@ _Research in Mathematical Sciences 12 (2025), article number 68_ <br/>
 _accepted (Annales mathématiques du Québec)_ <br/>
 
 27. [Murmurations of Modular Forms and $$p$$-power Coefficients](https://arxiv.org/pdf/2507.00738) (with Katharina Mueller) <br/>
-_accepted (Math. Proc. Cambridge Philos. Soc.)_ <br/>
-[Journal version]([https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/murmurations-of-modular-forms-and-ppower-coefficients/1602F2BC3C0B71F2C3515C91ECB4E2FB](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/murmurations-of-modular-forms-and-ppower-coefficients/1602F2BC3C0B71F2C3515C91ECB4E2FB))
+_Math. Proc. Cambridge Philos. Soc. (2026), Volume 180, Issue 1, pp. 65-92_ <br/>
+[Journal version](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/murmurations-of-modular-forms-and-ppower-coefficients/1602F2BC3C0B71F2C3515C91ECB4E2FB)
 
 26. [Class Groups and Selmer Groups in Special Families](https://arxiv.org/pdf/2504.15428) (with Abhishek) <br/>
-_Canadian Mathematical Bulletin (2025), Vol. 68, Issue 4, 1315-1337_ <br/>
+_Canadian Mathematical Bulletin (2025), Vol. 68, Issue 4, pp. 1315-1337_ <br/>
 [Journal version](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/class-groups-and-selmer-groups-in-special-families/571AB0FE2583293FB08DB12639E8BFBD)
 
 25. [Mazur's Growth Number Conjecture in the rank one case](https://arxiv.org/pdf/2504.10761) (with Antonio Lei) <br/>
-_accepted (Quarterly J Math)_ <br/>
+_Quarterly Journal of Math (2026) Volume 77, Issue 1, pp. 1–12_ <br/>
 [Journal version](https://academic.oup.com/qjmath/advance-article-abstract/doi/10.1093/qmath/haaf012/8440160?redirectedFrom=fulltext#no-access-message)
 
 24. [Derived $$p$$-adic heights and the leading coefficient of the Bertolini-Darmon-Prasanna $$p$$-adic $$L$$-function](https://arxiv.org/abs/2308.10474) (with Francesc Castella, Chi-Yun Hsu, Yu-Sheng Lee, and Zheng Liu) <br/>
@@ -242,6 +244,8 @@ I co-organized a special session on 'Arithmetic Aspects of Galois Representation
 I co-organized the [37th Automorphic Forms Workshop](http://automorphicformsworkshop.org/index.html) held at the University of North Texas, Denton (Apr 30 - May 4, 2025). This was funded by the NSF grant DMS-2442586.
 
 I am co-leading a project group with Katharina Mueller at [Women in Numbers 7](https://sites.google.com/view/win7-2026/home) in June 2026.
+
+Along with Amir Akbary and Payman Eskandari, I am organizing the [GANITA II Conference](http://www.fields.utoronto.ca/activities/26-27/GANITA-II) at the Fields Institute in June 2027. 
 
 ## Expository Talks, Articles, and Course Notes
 
