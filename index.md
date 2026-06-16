@@ -196,17 +196,17 @@ May -- Nov 2024: Ama Quansah (UTRGV), Tribonacci numbers as a product of two Luc
 
 I have mentored the following students for their Bachelors project/ thesis. <br/>
 Aug 2021 -- April 2023: [Adithya Chakravarthy](https://adithya-chakravarthy.motif.land/) (University of Toronto), thesis on _Iwasawa Theory_ <br/>
-Jan -- May 2022: Vitthal Yellambalse (BITS Goa), reading project on _cyclotomic fields_ <br/>
-May -- July 2023: Shubhrojyoti Dhara (ISI Bangalore), reading project on _elliptic curves_ <br/>
+Jan -- May 2022: Vitthal Yellambalse (BITS Goa), cyclotomic fields <br/>
+May -- July 2023: Shubhrojyoti Dhara (ISI Bangalore), elliptic curves <br/>
 May -- June 2023: Léonie Chipot (UOttawa), learning to write mathematical proofs <br/>
 Sep -- Dec 2023: Samyak Jha (IIT Bombay), $$p$$-adic $$L$$-functions <br/>
 Sep -- Dec 2023: Raul Marquez (UTRGV), elliptic curves and $$L$$-functions <br/>
-May -- July 2024: Nandini Parkhi (IISER Bhopal), reading project on _$$p$$-adic numbers_ <br/>
-May -- July 2024: Aniruddha Mondal (IISER Mohali), reading project on _$$p$$-adic numbers_ <br/>
+May -- July 2024: Nandini Parkhi (IISER Bhopal), $$p$$-adic numbers <br/>
+May -- July 2024: Aniruddha Mondal (IISER Mohali), $$p$$-adic numbers <br/>
 Sep -- Dec 2024: Raul Marquez (UTRGV), root systems <br/> 
 May -- Dec 2024: Alejandro Delgado (UTRGV), elliptic curves <br/>
 Jun -- Jul 2025: Arkapriyo Hore (ISI Bangalore), Brauer-Severi varieties <br/>
-May -- Jul 2026: Arkapriyo Hore (ISI Bangalore), reading project on _elliptic curves_ <br/>
+May -- Jul 2026: Arkapriyo Hore (ISI Bangalore), elliptic curves <br/>
 
 ## Outreach
 
