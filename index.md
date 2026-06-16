@@ -33,7 +33,7 @@ _accepted (Res. Number Theory)_ <br/>
 _accepted (J. Aust. Math. Soc)_ <br/>
 
 30. [Generalized Mazur's Growth Number Conjecture](KL25_GNC.pdf) (with Antonio Lei) <br/>
-_Bulletin of the Australian Mathematical Society (2026) Volume 113, Issue 3, pp.424-439_ <br/>
+_Bull. Aust. Math. Soc. (2026) Volume 113, Issue 3, pp.424-439_ <br/>
 [Journal version](https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/article/generalised-mazurs-growth-number-conjecture/8D97D4527C7743BF6C33EA4FB79B3771)
 
 29. [The first level of $$\mathbb Z_p$$-extensions and compatibility of heuristics](https://arxiv.org/abs/2410.06193) (with Lawrence Washington) <br/>
@@ -167,6 +167,10 @@ Good luck with your applications!
 ## Teaching
 
 University of Regina: <br/>
+Fall 2026: MATH 423/823 (Graduate Algebra)<br/>
+Winter 2027: MATH 321 (Number Theory)<br/>
+
+University of Regina: <br/>
 Winter 2026: MATH 108 (Mathematical Problems, Ideas, and Personalities)<br/>
 Winter 2026: MATH 223 (Introduction to Abstract Algebra)<br/>
 
@@ -204,6 +208,7 @@ May -- July 2024: Aniruddha Mondal (IISER Mohali), reading project on _$$p$$-adi
 Sep -- Dec 2024: Raul Marquez (UTRGV), root systems <br/> 
 May -- Dec 2024: Alejandro Delgado (UTRGV), elliptic curves <br/>
 Jun -- Jul 2025: Arkapriyo Hore (ISI Bangalore), Brauer-Severi varieties <br/>
+May -- Jul 2026: Arkapriyo Hore (ISI Bangalore), reading project on _elliptic curves_ <br/>
 
 ## Outreach
 
