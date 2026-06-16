@@ -169,8 +169,6 @@ Good luck with your applications!
 University of Regina: <br/>
 Fall 2026: MATH 423/823 (Graduate Algebra)<br/>
 Winter 2027: MATH 321 (Number Theory)<br/>
-
-University of Regina: <br/>
 Winter 2026: MATH 108 (Mathematical Problems, Ideas, and Personalities)<br/>
 Winter 2026: MATH 223 (Introduction to Abstract Algebra)<br/>
 
