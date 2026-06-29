@@ -27,14 +27,14 @@ To know more about my research you can look at my [research statement](RS2022_we
 ## Publications
 
 32. [Structure of (Fine) Mordell--Weil Groups](https://arxiv.org/abs/2507.20341) (with Rusiru Gambheera) <br/>
-_Ramanujan J. Ramanujan J. (2026) Volume 70, article number 48_ <br/> 
+_Ramanujan J. (2026) Volume 70, article number 48_ <br/> 
 [Journal version](https://link.springer.com/article/10.1007/s11139-026-01428-z)
 
 31. [Iwasawa Theory of Graphs and their duals](https://arxiv.org/abs/2410.11704) (with Katharina Mueller) <br/>
 _accepted (J. Aust. Math. Soc)_ <br/>
 
 30. [Generalized Mazur's Growth Number Conjecture](KL25_GNC.pdf) (with Antonio Lei) <br/>
-_Bull. Aust. Math. Soc. (2026) Volume 113, Issue 3, pp.424-439_ <br/>
+_Bull. Aust. Math. Soc. (2026) Volume 113, Issue 3, pp. 424-439_ <br/>
 [Journal version](https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/article/generalised-mazurs-growth-number-conjecture/8D97D4527C7743BF6C33EA4FB79B3771)
 
 29. [The first level of $$\mathbb Z_p$$-extensions and compatibility of heuristics](https://arxiv.org/abs/2410.06193) (with Lawrence Washington) <br/>
@@ -42,7 +42,7 @@ _Research in Mathematical Sciences 12 (2025), article number 68_ <br/>
 [Journal version](https://link.springer.com/article/10.1007/s40687-025-00551-5)
 
 28. [Elliptic curves of conductor $$2^m p$$, quadratic twists, and Watkins' conjecture](https://arxiv.org/abs/2411.08321) (with Jeffrey Hatley) <br/>
-_Annales mathématiques du Québec (2026), Vol. 50, pp.~143-165_ <br/>
+_Annales mathématiques du Québec (2026), Vol. 50, pp. 143-165_ <br/>
 [Journal version](https://link.springer.com/article/10.1007/s40316-025-00249-8)
 
 27. [Murmurations of Modular Forms and $$p$$-power Coefficients](https://arxiv.org/pdf/2507.00738) (with Katharina Mueller) <br/>
