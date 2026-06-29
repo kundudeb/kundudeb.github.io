@@ -27,7 +27,7 @@ To know more about my research you can look at my [research statement](RS2022_we
 ## Publications
 
 32. [Structure of (Fine) Mordell--Weil Groups](https://arxiv.org/abs/2507.20341) (with Rusiru Gambheera) <br/>
-_Ramanujan J. Ramanujan J. (2026) Volume 70, article number 48_ <br/> <br/>
+_Ramanujan J. Ramanujan J. (2026) Volume 70, article number 48_ <br/> 
 [Journal version](https://link.springer.com/article/10.1007/s11139-026-01428-z)
 
 31. [Iwasawa Theory of Graphs and their duals](https://arxiv.org/abs/2410.11704) (with Katharina Mueller) <br/>
