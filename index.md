@@ -263,6 +263,7 @@ Along with Amir Akbary and Payman Eskandari, I am organizing the [GANITA II Conf
 1. [MSRI Summer School (2017): Automorphic Forms and the Langlands' Program](https://github.com/kundudeb/kundudeb.github.io/blob/master/MSRI_Summer_School__Automorphic_forms_and_the_Langlands_program.pdf)
 2. [Introduction to Iwasawa Theory (of Fine Selmer Groups)](https://youtu.be/CiwR-YcEetI)
 3. [How to write a competitive postdoc statement](Presentations.pdf) - a presentation for graduate students at CMS 2024 (Vancouver)
+4. Mini course on Algebraic and Analytic Aspects of Elliptic Curves (GARLAT 2026, PUC Chile): [Lecture notes](GARLAT_notes.pdf) and [Exercise sheets](GARLAT_worksheets.pdf)
 
 ## Travel Calendar
 
